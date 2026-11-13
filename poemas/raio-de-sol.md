@@ -21,8 +21,6 @@ Gira em noite infindável…
 …Aguardando teu amor.
 
 
-￼
-
 ² …Contra a minha vontade, para ti me inclinei.
 
 Vendo-te tão longe, apenas acreditei.
