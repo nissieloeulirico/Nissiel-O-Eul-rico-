@@ -22,6 +22,14 @@ Raio de Sol
 - Arquivo: "poemas/raio-de-sol.md"
 - Publicação: "WordPress" (https://nissieloeulirico.wordpress.com/2026/10/28/raio-de-sol/)
 
+
+Luz Prateada
+
+- Categoria: Poema
+- Versão: Definitiva
+- Arquivo: "poemas/luz-prateada.md"
+- Publicação: "WordPress" (https://nissieloeulirico.wordpress.com/2026/10/29/luz-prateada/)
+
 ---
 
 2. SALMOS
