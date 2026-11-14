@@ -50,6 +50,15 @@ Borboletinha
 - Arquivo: [poemas/borboletinha.md](poemas/borboletinha.md)
 - Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/09/a-borboleta/)
 
+
+Guerreiro Ferido
+
+- Categoria: Poema
+- Versão: Definitiva
+- Estrutura: 35 versículos
+- Arquivo: [poemas/guerreiro-ferido.md](poemas/guerreiro-ferido.md)
+- Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/guerreiro-ferido/)
+
 ---
 
 2. SALMOS
