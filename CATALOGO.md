@@ -13,6 +13,8 @@ O catálogo funciona como índice geral. Os textos integrais são armazenados em
 
 Leitura pública: [Acervo Geral no WordPress](https://nissieloeulirico.wordpress.com/acervo/)
 Repositório: [Nissiel, O Eulírico no GitHub](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-)
+Biblioteca digital: [GitHub Pages](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/) — endereço previsto, pendente de ativação em Settings → Pages.
+Identidade autoral: [IDENTIDADE.md](IDENTIDADE.md)
 
 ---
 
@@ -23,6 +25,7 @@ Raio de Sol
 - Categoria: Poema
 - Versão: Definitiva
 - Arquivo: [poemas/raio-de-sol.md](poemas/raio-de-sol.md)
+- Leitura digital: [Abrir obra](docs/obras/raio-de-sol.html)
 - Publicação: "WordPress" (https://nissieloeulirico.wordpress.com/2026/10/28/raio-de-sol/)
 
 
@@ -31,6 +34,7 @@ Luz Prateada
 - Categoria: Poema
 - Versão: Definitiva
 - Arquivo: [poemas/luz-prateada.md](poemas/luz-prateada.md)
+- Leitura digital: [Abrir obra](docs/obras/luz-prateada.html)
 - Publicação: "WordPress" (https://nissieloeulirico.wordpress.com/2026/10/29/luz-prateada/)
 
 
@@ -39,6 +43,7 @@ Luz Prateada
 - Categoria: Poema
 - Versão: Publicada em 13/11/2026
 - Arquivo: [poemas/26-25-1.md](poemas/26-25-1.md)
+- Leitura digital: [Abrir obra](docs/obras/26-25-1.html)
 - Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/26-251/)
 
 
@@ -48,6 +53,7 @@ Borboletinha
 - Versão: Definitiva
 - Estrutura: 4 tempos, 12 unidades e 24 versículos
 - Arquivo: [poemas/borboletinha.md](poemas/borboletinha.md)
+- Leitura digital: [Abrir obra](docs/obras/borboletinha.html)
 - Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/09/a-borboleta/)
 
 
@@ -57,6 +63,7 @@ O Guerreiro Ferido
 - Versão: Definitiva
 - Estrutura: 35 versículos
 - Arquivo: [poemas/guerreiro-ferido.md](poemas/guerreiro-ferido.md)
+- Leitura digital: [Abrir obra](docs/obras/guerreiro-ferido.html)
 - Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/guerreiro-ferido/)
 
 
@@ -66,6 +73,7 @@ A Dama Dos Espinhos
 - Versão: Atualizada em 14/11/2026
 - Estrutura: 23 versículos
 - Arquivo: [poemas/a-dama-dos-espinhos.md](poemas/a-dama-dos-espinhos.md)
+- Leitura digital: [Abrir obra](docs/obras/a-dama-dos-espinhos.html)
 - Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/a-dama-dos-espinhos/)
 
 
@@ -75,6 +83,7 @@ VENDE-SE UM CORAÇÃO
 - Versão: Atualizada em 14/11/2026
 - Estrutura: 55 versículos
 - Arquivo: [poemas/vende-se-um-coracao.md](poemas/vende-se-um-coracao.md)
+- Leitura digital: [Abrir obra](docs/obras/vende-se-um-coracao.html)
 - Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/vende-se-um-coracao/)
 
 ---
