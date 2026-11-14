@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se você utilizar ou mencionar este acervo, cite o autor e o repositório."
+type: dataset
+title: "Acervo literário e autoral de Nissiel, O Eulírico"
+authors:
+  - name: "Nissiel, O Eulírico"
+    affiliation: "Autor independente"
+repository-code: "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-"
+url: "https://nissieloeulirico.wordpress.com/"
+abstract: "Acervo de obras literárias autorais em português brasileiro, com arquivos-fonte em Markdown, catálogo e edições digitais de leitura."
+keywords:
+  - literatura
+  - poesia
+  - literatura brasileira
+  - acervo autoral
+  - Nissiel
+  - O Eulírico
