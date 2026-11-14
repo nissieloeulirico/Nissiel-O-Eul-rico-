@@ -41,6 +41,15 @@ Luz Prateada
 - Arquivo: [poemas/26-25-1.md](poemas/26-25-1.md)
 - Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/26-251/)
 
+
+Borboletinha
+
+- Categoria: Poema
+- Versão: Definitiva
+- Estrutura: 4 tempos, 12 unidades e 24 versículos
+- Arquivo: [poemas/borboletinha.md](poemas/borboletinha.md)
+- Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/09/a-borboleta/)
+
 ---
 
 2. SALMOS
