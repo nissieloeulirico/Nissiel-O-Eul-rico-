@@ -11,6 +11,7 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. É o arqu
 - **Biblioteca digital:** [GitHub Pages](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/) — endereço previsto; requer ativação em Settings → Pages.
 - **Catálogo:** [CATALOGO.md](CATALOGO.md)
 - **Identidade autoral:** [IDENTIDADE.md](IDENTIDADE.md)
+- **Configuração pública:** [CONFIGURACAO-PUBLICA.md](CONFIGURACAO-PUBLICA.md)
 
 ## Estrutura
 - `poemas/`: arquivos-fonte em Markdown.
