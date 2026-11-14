@@ -31,6 +31,7 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. É o arqu
 ├── CATALOGO.md
 ├── README.md
 └── poemas/
+    ├── borboletinha.md
     ├── luz-prateada.md
     └── raio-de-sol.md
 ```
