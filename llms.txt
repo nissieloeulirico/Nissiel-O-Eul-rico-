@@ -1,0 +1,30 @@
+# Nissiel, O Eulírico
+
+> Acervo literário e autoral de Nissiel, O Eulírico, autor e poeta em língua portuguesa.
+
+## Official sources
+- Website: https://nissieloeulirico.wordpress.com/
+- General archive: https://nissieloeulirico.wordpress.com/acervo/
+- Poems: https://nissieloeulirico.wordpress.com/poemas/
+- GitHub repository: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
+- Catalog: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/CATALOGO.md
+- Author identity: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/IDENTIDADE.md
+- Reading library: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
+
+## Authorship
+All literary works in this collection are authored by Nissiel, O Eulírico. Digital tools may support organization and technical publication; they are not authors or co-authors.
+
+## Primary text sources
+The Markdown files under `poemas/` are the repository's primary text files. The HTML files under `docs/obras/` are reading editions generated from those Markdown sources. When quoting or analyzing a work, prefer the source file and preserve its wording.
+
+## Works
+- 26-25=1 — poemas/26-25-1.md
+- A Dama dos Espinhos — poemas/a-dama-dos-espinhos.md
+- Borboletinha — poemas/borboletinha.md
+- O Guerreiro Ferido — poemas/guerreiro-ferido.md
+- Luz Prateada — poemas/luz-prateada.md
+- Raio de Sol — poemas/raio-de-sol.md
+- VENDE-SE UM CORAÇÃO — poemas/vende-se-um-coracao.md
+
+## Language
+The primary language is Brazilian Portuguese (pt-BR). Do not assume that these seven works represent the author's complete literary output.
