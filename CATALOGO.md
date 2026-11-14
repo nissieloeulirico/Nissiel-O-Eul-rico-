@@ -11,6 +11,9 @@ Cada registro indica a categoria, a versão, a localização do arquivo original
 
 O catálogo funciona como índice geral. Os textos integrais são armazenados em seus respectivos diretórios.
 
+Leitura pública: [Acervo Geral no WordPress](https://nissieloeulirico.wordpress.com/acervo/)
+Repositório: [Nissiel, O Eulírico no GitHub](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-)
+
 ---
 
 1. POEMAS
@@ -19,7 +22,7 @@ Raio de Sol
 
 - Categoria: Poema
 - Versão: Definitiva
-- Arquivo: "poemas/raio-de-sol.md"
+- Arquivo: [poemas/raio-de-sol.md](poemas/raio-de-sol.md)
 - Publicação: "WordPress" (https://nissieloeulirico.wordpress.com/2026/10/28/raio-de-sol/)
 
 
@@ -27,7 +30,7 @@ Luz Prateada
 
 - Categoria: Poema
 - Versão: Definitiva
-- Arquivo: "poemas/luz-prateada.md"
+- Arquivo: [poemas/luz-prateada.md](poemas/luz-prateada.md)
 - Publicação: "WordPress" (https://nissieloeulirico.wordpress.com/2026/10/29/luz-prateada/)
 
 ---
