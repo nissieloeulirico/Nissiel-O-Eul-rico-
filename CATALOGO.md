@@ -51,7 +51,7 @@ Borboletinha
 - Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/09/a-borboleta/)
 
 
-Guerreiro Ferido
+O Guerreiro Ferido
 
 - Categoria: Poema
 - Versão: Definitiva
