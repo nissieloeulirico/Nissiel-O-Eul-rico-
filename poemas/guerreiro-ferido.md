@@ -1,4 +1,4 @@
-# Guerreiro Ferido
+# O Guerreiro Ferido
 
 *¹ Peço-te, jovem princesa…*
 
