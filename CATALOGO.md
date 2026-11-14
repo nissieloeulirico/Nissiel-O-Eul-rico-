@@ -33,6 +33,14 @@ Luz Prateada
 - Arquivo: [poemas/luz-prateada.md](poemas/luz-prateada.md)
 - Publicação: "WordPress" (https://nissieloeulirico.wordpress.com/2026/10/29/luz-prateada/)
 
+
+26-25=1
+
+- Categoria: Poema
+- Versão: Publicada em 13/11/2026
+- Arquivo: [poemas/26-25-1.md](poemas/26-25-1.md)
+- Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/26-251/)
+
 ---
 
 2. SALMOS
