@@ -59,6 +59,15 @@ O Guerreiro Ferido
 - Arquivo: [poemas/guerreiro-ferido.md](poemas/guerreiro-ferido.md)
 - Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/guerreiro-ferido/)
 
+
+A Dama Dos Espinhos
+
+- Categoria: Poema
+- Versão: Atualizada em 14/11/2026
+- Estrutura: 23 versículos
+- Arquivo: [poemas/a-dama-dos-espinhos.md](poemas/a-dama-dos-espinhos.md)
+- Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/a-dama-dos-espinhos/)
+
 ---
 
 2. SALMOS
