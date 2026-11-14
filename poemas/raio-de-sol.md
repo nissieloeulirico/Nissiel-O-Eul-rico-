@@ -1,119 +1,116 @@
-¹ Gira-Gira-Girassol!
+*¹ Gira-Gira-Girassol!*
 
- Gira-gira-girassol!!
+* Gira-gira-girassol!!*
 
-Gira… gira… Girassol…
+*Gira… gira… Girassol…*
 
- Gira… gira… Sem o sol…
+* Gira… gira… Sem o sol…*
 
-Gira em preto e branco,
+*Gira em preto e branco,*
 
-Gira sem cor…
+*Gira sem cor…*
 
-Gira insosso…
+*Gira insosso…*
 
-Sem sabor,
+*Sem sabor,*
 
-Sem odor…
+*Sem odor…*
 
-Gira em noite infindável…
+*Gira em noite infindável…*
 
-…Aguardando teu amor.
+*…Aguardando teu amor.*
 
+*² …Contra a minha vontade, para ti me inclinei.*
 
-² …Contra a minha vontade, para ti me inclinei.
+*Vendo-te tão longe, apenas acreditei.*
 
-Vendo-te tão longe, apenas acreditei.
-
-
-³ Sim, acreditei
+*³ Sim, acreditei
 acreditei no brilho do primeiro amor,
 Aquele que nem mesmo o tempo apagou.
 Antes, veio qual terrível vendaval
 E minha alma...
-devastou.
+devastou.*
 
-⁴ Para ti estendi a mão…
+*⁴ Para ti estendi a mão…*
 
+*⁵ Mas… Nunca te alcancei.*
 
-⁵ Mas… Nunca te alcancei.
-
-⁶ Como raios solares e intangíveis,
+*⁶ Como raios solares e intangíveis,
 Por mim tu passaste,
 Alimentando-me com uma doce e dolorida ilusão,
-Projetando minha sombra como falsa companhia no chão.
+Projetando minha sombra como falsa companhia no chão.*
 
-⁷ Tanto tempo vaguei iludido
-Que, ao procurar no peito, não achei meu coração.
+*⁷ Tanto tempo vaguei iludido
+Que, ao procurar no peito, não achei meu coração.*
 
-⁸ De mim ele foi tomado, roubado em plena luz do dia,
+*⁸ De mim ele foi tomado, roubado em plena luz do dia,
 E, mesmo assim, não há testemunhas.
 Pra mim, foi tudo como uma fraca neblina,
 Que simplesmente... 
-passou despercebida.
+passou despercebida.*
 
-⁹ Pensei…
+*⁹ Pensei…*
 
-¹⁰ Sim, pensei em trocar a noite pelo dia,
+*¹⁰ Sim, pensei em trocar a noite pelo dia,
 Pois somente no período diurno
-A doce ilusão dos sonhos me toca e fascina.
+A doce ilusão dos sonhos me toca e fascina.*
 
-¹¹ Mais uma noite mal dormida,
-Mais um dia sem ti,
+*¹¹ Mais uma noite mal dormida,
+Mais um dia sem ti,*
 
-¹² Sozinho, e infelizmente desiludido…
-Saí da trilha…
+*¹² Sozinho, e infelizmente desiludido…
+Saí da trilha…*
 
-Não sei mais pra onde ir
-Nem pra onde seguir.
+*Não sei mais pra onde ir
+Nem pra onde seguir.*
 
-¹³ Perdi-me do caminho,
+*¹³ Perdi-me do caminho,*
 
-Perdi-me do sonho,
+*Perdi-me do sonho,*
 
-Perdi-me de ti.
+*Perdi-me de ti.*
 
-¹⁴ Sou qual girassol em noite eterna…
+*¹⁴ Sou qual girassol em noite eterna…*
 
-¹⁵ O último dente-de-leão que restou
-Neste campo pelo vento devastado…
+*¹⁵ O último dente-de-leão que restou
+Neste campo pelo vento devastado…*
 
-¹⁶ Me desculpa, mas estou exausto,
+*¹⁶ Me desculpa, mas estou exausto,
 Sim, fadigado de mim 
-Cansado de sonhar acordado…
+Cansado de sonhar acordado…*
 
-¹⁷ A vida não é pra alguém sem utilidade…
+*¹⁷ A vida não é pra alguém sem utilidade…*
 
-Mas Por Quê?!
+*Mas Por Quê?!*
 
-¹⁸ Por que não consigo me soltar do chão
-E me deixar a ser  levado por essa terrível tempestade?!
+*¹⁸ Por que não consigo me soltar do chão
+E me deixar a ser  levado por essa terrível tempestade?!*
 
-¹⁹ Por que insisto?
+*¹⁹ Por que insisto?*
 
-Por que me inclino em teu aguardo,
+*Por que me inclino em teu aguardo,*
 
-²⁰ Esperando-te por mais um dia que nunca chegará !(?)
-Em meio... á esta noite infindável.
+*²⁰ Esperando-te por mais um dia que nunca chegará !(?)
+Em meio... á esta noite infindável.*
 
-²¹ Gira-gira…
+*²¹ Gira-gira…*
 
-²² …Girassol…
+*²² …Girassol…*
 
-²³…Gira em busca da tua luz.
+*²³…Gira em busca da tua luz.*
 
-…Gira, na noite eterna, 
-aguardando teu amor.
+*…Gira, na noite eterna, 
+aguardando teu amor.*
 
-²⁴ Gira… 
+*²⁴ Gira… *
 
-Gira…
+*Gira…*
 
-²⁵ Gira
+*²⁵ Gira
  almejando
  a face 
-do teu sol.
+do teu sol.*
 
-²⁶ Gira, gira…
+*²⁶ Gira, gira…*
 
-Pobre e miserável girassol.
+*Pobre e miserável girassol.*
