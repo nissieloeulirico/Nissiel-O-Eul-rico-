@@ -68,6 +68,15 @@ A Dama Dos Espinhos
 - Arquivo: [poemas/a-dama-dos-espinhos.md](poemas/a-dama-dos-espinhos.md)
 - Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/a-dama-dos-espinhos/)
 
+
+VENDE-SE UM CORAÇÃO
+
+- Categoria: Poema
+- Versão: Atualizada em 14/11/2026
+- Estrutura: 55 versículos
+- Arquivo: [poemas/vende-se-um-coracao.md](poemas/vende-se-um-coracao.md)
+- Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/vende-se-um-coracao/)
+
 ---
 
 2. SALMOS
