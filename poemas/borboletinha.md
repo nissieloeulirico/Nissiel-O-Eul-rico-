@@ -18,7 +18,7 @@
 
 *⁵ Se, porventura, vires uma silhueta feminina à tua frente, ela logo sumirá como se nunca tivesse existido. E então ouvirás um doce sussurro pronunciar teu nome ao pé do ouvido.*
 
-*⁶ Eis que em quatro tempos, um só nome te anuncio. Não acrescente, não diminua, nem o dividas. Mas contai a outros o que em segredo te digo. E ao te veres dentro dos olhos, não sejas tolo igual Narciso. Não é mar, e sim uma fornalha de fogo âmbar. Portanto, aparti daqui, apenas te aviso; seguirás sozinho, meu amigo.*
+*⁶ Eis que em quatro tempos, um só nome te dito. Não acrescente, não diminua, nem o dividas. Mas contai a outros o que em segredo te digo. E ao te veres dentro dos olhos, não sejas tolo igual Narciso. Não é mar, e sim uma fornalha de fogo âmbar. Portanto, aparti daqui, apenas te aviso; seguirás sozinho, meu amigo.*
 
 ## TEMPO — Perigo
 
