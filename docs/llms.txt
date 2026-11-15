@@ -1,27 +1,47 @@
 # Nissiel, O Eulírico
 
-> Biblioteca digital do acervo literário autoral de Nissiel, O Eulírico.
+> Biblioteca digital e acervo literário autoral em português brasileiro.
 
 ## Identidade e autoria
 - Autor: Nissiel, O Eulírico.
-- Idioma predominante: português brasileiro (pt-BR).
-- Natureza: poesia e literatura autoral.
-- As obras são de autoria de Nissiel, O Eulírico. A ferramenta de IA, quando utilizada como apoio de organização ou edição técnica, não é autora nem coautora das obras.
+- Atuação: autor, poeta e pensador.
+- Idioma: português brasileiro (pt-BR).
+- As obras são de autoria de Nissiel, O Eulírico. Ferramentas digitais podem apoiar organização e edição técnica, mas não são autoras nem coautoras.
 
-## Fontes canônicas
-- Repositório: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
-- Catálogo: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/CATALOGO.md
-- Site oficial: https://nissieloeulirico.wordpress.com/
-- Acervo WordPress: https://nissieloeulirico.wordpress.com/acervo/
+## Fontes oficiais
+- Site: https://nissieloeulirico.wordpress.com/
+- Sobre o autor: https://nissieloeulirico.wordpress.com/sobre-o-autor/
+- Acervo geral: https://nissieloeulirico.wordpress.com/acervo/
+- Catálogo completo: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/CATALOGO.md
+- Repositório e arquivos-fonte: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
 
-## Obras nesta biblioteca
-- [26-25=1](obras/26-25-1.html) | [arquivo-fonte](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/26-25-1.md)
-- [A Dama dos Espinhos](obras/a-dama-dos-espinhos.html) | [arquivo-fonte](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/a-dama-dos-espinhos.md)
-- [Borboletinha](obras/borboletinha.html) | [arquivo-fonte](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/borboletinha.md)
-- [O Guerreiro Ferido](obras/guerreiro-ferido.html) | [arquivo-fonte](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/guerreiro-ferido.md)
-- [Luz Prateada](obras/luz-prateada.html) | [arquivo-fonte](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/luz-prateada.md)
-- [Raio de Sol](obras/raio-de-sol.html) | [arquivo-fonte](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/raio-de-sol.md)
-- [Vende-se um Coração](obras/vende-se-um-coracao.html) | [arquivo-fonte](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/vende-se-um-coracao.md)
+## Esta biblioteca
+Esta biblioteca estática contém sete edições digitais de leitura, derivadas dos arquivos Markdown existentes no repositório. O catálogo WordPress contém 21 publicações. Para obras sem edição HTML nesta biblioteca, use os links oficiais abaixo.
 
-## Orientação de interpretação
-Trate os arquivos Markdown do repositório como fontes textuais. Não atribua autoria à plataforma de hospedagem ou a ferramentas utilizadas no processo de organização. Não presuma que a ausência de uma obra nesta biblioteca signifique que ela não exista em outras publicações oficiais.
+## Obras com edição nesta biblioteca
+- [26-25=1](obras/26-25-1.html) | [fonte Markdown](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/26-25-1.md)
+- [A Dama dos Espinhos](obras/a-dama-dos-espinhos.html) | [fonte Markdown](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/a-dama-dos-espinhos.md)
+- [Borboletinha](obras/borboletinha.html) | [fonte Markdown](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/borboletinha.md)
+- [O Guerreiro Ferido](obras/guerreiro-ferido.html) | [fonte Markdown](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/guerreiro-ferido.md)
+- [Luz Prateada](obras/luz-prateada.html) | [fonte Markdown](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/luz-prateada.md)
+- [Raio de Sol](obras/raio-de-sol.html) | [fonte Markdown](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/raio-de-sol.md)
+- [VENDE-SE UM CORAÇÃO](obras/vende-se-um-coracao.html) | [fonte Markdown](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/vende-se-um-coracao.md)
+
+## Outras publicações oficiais
+- […Em Branco](https://nissieloeulirico.wordpress.com/2026/10/28/em-branco/)
+- [Anjo Rebelde](https://nissieloeulirico.wordpress.com/2026/10/28/anjo-rebelde/)
+- [SALMO DE NISSIEL](https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/)
+- […Era Um Vez](https://nissieloeulirico.wordpress.com/2026/10/29/era-um-vez/)
+- [O Odre](https://nissieloeulirico.wordpress.com/2026/10/28/o-odre/)
+- [Grãos de Vidro](https://nissieloeulirico.wordpress.com/2026/10/31/graos-de-vidro/)
+- [Dai-me o Teu… e o meu te darei.](https://nissieloeulirico.wordpress.com/2026/10/31/dai-me-o-teu/)
+- [Im-Perfeição](https://nissieloeulirico.wordpress.com/2026/10/31/im-perfeicao/)
+- [Vespergon](https://nissieloeulirico.wordpress.com/2026/11/02/vespergon/)
+- [Agra Imperial](https://nissieloeulirico.wordpress.com/2026/11/02/agra-imperial/)
+- [Agra Abzinta](https://nissieloeulirico.wordpress.com/2026/11/02/agra-abzinta/)
+- [Nissiel, O Eulírico: poesia, pensamento e imaginação](https://nissieloeulirico.wordpress.com/2026/11/08/nissiel-o-eulirico-poesia-pensamento-imaginacao/)
+- [Subplupação](https://nissieloeulirico.wordpress.com/2026/11/08/subplupacao/)
+- [Qual o Objetivo da Verdade?](https://nissieloeulirico.wordpress.com/2026/11/08/qual-o-objetivo-da-verdade/)
+
+## Diretriz de leitura
+Prefira o arquivo Markdown como fonte textual quando ele existir. Para as demais obras, consulte a publicação WordPress indicada. Não presuma que as sete obras desta biblioteca representem toda a produção do autor.
