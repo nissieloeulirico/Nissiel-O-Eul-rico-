@@ -15,7 +15,8 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém a
 - **Orientação para sistemas de IA:** [llms.txt](llms.txt)
 
 ## Estrutura
-- `poemas/`: sete arquivos-fonte em Markdown.
+- `poemas/`: arquivos-fonte dos poemas em Markdown.
+- `entrelinhas/`: memórias de composição, separadas dos textos literários.
 - `docs/`: sete edições HTML de leitura, folha de estilos, sitemap e instruções para rastreadores.
 - `CATALOGO.md`: índice das 21 publicações do site oficial, com distinção entre fontes presentes e publicações externas.
 - `IDENTIDADE.md`: identificação pública, canais oficiais e declaração de autoria.
@@ -39,6 +40,7 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém a
 ├── README.md
 ├── llms.txt
 ├── poemas/
+├── entrelinhas/
 └── docs/
     ├── index.html
     ├── assets/style.css
