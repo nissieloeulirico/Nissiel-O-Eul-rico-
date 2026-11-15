@@ -17,4 +17,4 @@ As obras e ideias aqui reunidas são de autoria de Nissiel, O Eulírico. Ferrame
 - [Catálogo geral](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/CATALOGO.md)
 - [Identidade autoral e critérios do acervo](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/IDENTIDADE.md)
 - [Biblioteca de leitura](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/)
-- [Site oficial e acervo]( https://nissieloeulirico.wordpress.com/acervo/ )
+- [Acervo geral no site oficial](https://nissieloeulirico.wordpress.com/acervo/)
