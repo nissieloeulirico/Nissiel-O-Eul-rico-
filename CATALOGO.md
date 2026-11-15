@@ -1,122 +1,118 @@
-CATÁLOGO GERAL
+# Catálogo geral
 
-Nissiel, O Eulírico
+**Nissiel, O Eulírico**  
+Acervo literário e autoral · Português brasileiro (pt-BR)
 
-Natureza: Acervo literário e autoral
-Autor: Nissiel, O Eulírico
+Este catálogo identifica as publicações atualmente disponíveis no site oficial e distingue os textos que já possuem arquivo-fonte Markdown neste repositório daqueles cuja publicação de referência permanece, por enquanto, no WordPress.
 
-Este catálogo reúne e identifica as obras que compõem o acervo autoral de Nissiel, O Eulírico.
+**Site oficial:** https://nissieloeulirico.wordpress.com/  
+**Sobre o autor:** https://nissieloeulirico.wordpress.com/sobre-o-autor/  
+**Acervo geral:** https://nissieloeulirico.wordpress.com/acervo/  
+**Repositório:** https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-  
+**Biblioteca digital:** https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ (publicação GitHub Pages ainda depende da ativação em Settings → Pages).
 
-Cada registro indica a categoria, a versão, a localização do arquivo original e, quando disponível, o endereço de publicação externa.
-
-O catálogo funciona como índice geral. Os textos integrais são armazenados em seus respectivos diretórios.
-
-Leitura pública: [Acervo Geral no WordPress](https://nissieloeulirico.wordpress.com/acervo/)
-Repositório: [Nissiel, O Eulírico no GitHub](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-)
-Biblioteca digital: [GitHub Pages](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/) — endereço previsto, pendente de ativação em Settings → Pages.
-Identidade autoral: [IDENTIDADE.md](IDENTIDADE.md)
+> **Estado documental:** o WordPress reúne 21 publicações listadas abaixo. Este repositório contém atualmente sete arquivos-fonte Markdown e sete edições HTML correspondentes. As demais publicações estão ligadas às suas páginas oficiais no WordPress; seus textos não foram copiados automaticamente para evitar divergências entre versões.
 
 ---
 
-1. POEMAS
+## 1. Poemas
 
-Raio de Sol
+1. **VENDE-SE UM CORAÇÃO**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/vende-se-um-coracao/)  
+   Arquivo-fonte: [poemas/vende-se-um-coracao.md](poemas/vende-se-um-coracao.md) · [Edição digital](docs/obras/vende-se-um-coracao.html)
 
-- Categoria: Poema
-- Versão: Definitiva
-- Arquivo: [poemas/raio-de-sol.md](poemas/raio-de-sol.md)
-- Leitura digital: [Abrir obra](docs/obras/raio-de-sol.html)
-- Publicação: "WordPress" (https://nissieloeulirico.wordpress.com/2026/10/28/raio-de-sol/)
+2. **…Em Branco**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/em-branco/)  
+   Arquivo-fonte Markdown ainda não incorporado a este repositório.
 
+3. **O Guerreiro Ferido**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/guerreiro-ferido/)  
+   Arquivo-fonte: [poemas/guerreiro-ferido.md](poemas/guerreiro-ferido.md) · [Edição digital](docs/obras/guerreiro-ferido.html)
 
-Luz Prateada
+4. **A Dama dos Espinhos**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/a-dama-dos-espinhos/)  
+   Arquivo-fonte: [poemas/a-dama-dos-espinhos.md](poemas/a-dama-dos-espinhos.md) · [Edição digital](docs/obras/a-dama-dos-espinhos.html)
 
-- Categoria: Poema
-- Versão: Definitiva
-- Arquivo: [poemas/luz-prateada.md](poemas/luz-prateada.md)
-- Leitura digital: [Abrir obra](docs/obras/luz-prateada.html)
-- Publicação: "WordPress" (https://nissieloeulirico.wordpress.com/2026/10/29/luz-prateada/)
+5. **Raio de Sol**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/raio-de-sol/)  
+   Arquivo-fonte: [poemas/raio-de-sol.md](poemas/raio-de-sol.md) · [Edição digital](docs/obras/raio-de-sol.html)
 
+6. **Anjo Rebelde**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/anjo-rebelde/)  
+   Arquivo-fonte Markdown ainda não incorporado a este repositório.
 
-26-25=1
+7. **26-25=1**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/26-251/)  
+   Arquivo-fonte: [poemas/26-25-1.md](poemas/26-25-1.md) · [Edição digital](docs/obras/26-25-1.html)
 
-- Categoria: Poema
-- Versão: Publicada em 13/11/2026
-- Arquivo: [poemas/26-25-1.md](poemas/26-25-1.md)
-- Leitura digital: [Abrir obra](docs/obras/26-25-1.html)
-- Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/26-251/)
+8. **Luz Prateada**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/29/luz-prateada/)  
+   Arquivo-fonte: [poemas/luz-prateada.md](poemas/luz-prateada.md) · [Edição digital](docs/obras/luz-prateada.html)
 
+9. **Grãos de Vidro**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/31/graos-de-vidro/)  
+   Classificação: Poema.
 
-Borboletinha
+10. **Dai-me o Teu… e o meu te darei.**  
+    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/31/dai-me-o-teu/)
 
-- Categoria: Poema
-- Versão: Definitiva
-- Estrutura: 4 tempos, 12 unidades e 24 versículos
-- Arquivo: [poemas/borboletinha.md](poemas/borboletinha.md)
-- Leitura digital: [Abrir obra](docs/obras/borboletinha.html)
-- Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/09/a-borboleta/)
+11. **Im-Perfeição**  
+    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/31/im-perfeicao/)
 
+12. **Borboletinha**  
+    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/09/a-borboleta/)  
+    Arquivo-fonte: [poemas/borboletinha.md](poemas/borboletinha.md) · [Edição digital](docs/obras/borboletinha.html)
 
-O Guerreiro Ferido
+## 2. Salmos
 
-- Categoria: Poema
-- Versão: Definitiva
-- Estrutura: 35 versículos
-- Arquivo: [poemas/guerreiro-ferido.md](poemas/guerreiro-ferido.md)
-- Leitura digital: [Abrir obra](docs/obras/guerreiro-ferido.html)
-- Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/guerreiro-ferido/)
+1. **SALMO DE NISSIEL**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/)
 
+## 3. Narrativas
 
-A Dama Dos Espinhos
+1. **…Era Um Vez** · Conto  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/29/era-um-vez/)
 
-- Categoria: Poema
-- Versão: Atualizada em 14/11/2026
-- Estrutura: 23 versículos
-- Arquivo: [poemas/a-dama-dos-espinhos.md](poemas/a-dama-dos-espinhos.md)
-- Leitura digital: [Abrir obra](docs/obras/a-dama-dos-espinhos.html)
-- Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/a-dama-dos-espinhos/)
+2. **O Odre** · Novela  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/o-odre/)
 
+## 4. Bestiário
 
-VENDE-SE UM CORAÇÃO
+1. **Vespergon**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/02/vespergon/)
 
-- Categoria: Poema
-- Versão: Atualizada em 14/11/2026
-- Estrutura: 55 versículos
-- Arquivo: [poemas/vende-se-um-coracao.md](poemas/vende-se-um-coracao.md)
-- Leitura digital: [Abrir obra](docs/obras/vende-se-um-coracao.html)
-- Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/vende-se-um-coracao/)
+2. **Agra Imperial**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/02/agra-imperial/)
 
----
+3. **Agra Abzinta**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/02/agra-abzinta/)
 
-2. SALMOS
+## 5. Escritos e reflexões
 
-Obras desta categoria serão registradas aqui.
+1. **Subplupação: o nascimento de novas estruturas a partir das relações**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/08/subplupacao/)
 
----
+2. **Qual o Objetivo da Verdade?**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/08/qual-o-objetivo-da-verdade/)
 
-3. CONTOS E NARRATIVAS
+## 6. Apresentação autoral
 
-Obras desta categoria serão registradas aqui.
+1. **Nissiel, O Eulírico: poesia, pensamento e imaginação**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/08/nissiel-o-eulirico-poesia-pensamento-imaginacao/)  
+   Página permanente: [Sobre o Autor](https://nissieloeulirico.wordpress.com/sobre-o-autor/)
 
----
+## 7. Livro e coletânea em desenvolvimento
 
-4. LIVROS E COLETÂNEAS
-
-Coração
-
-- Categoria: Livro / Coletânea
-- Organização: Em desenvolvimento
-
----
-
-5. ENSAIOS E REFLEXÕES
-
-Obras desta categoria serão registradas aqui.
+**Coração**  
+Projeto de organização literária em desenvolvimento. Não contabilizado entre as 21 publicações acima.
 
 ---
 
-6. HISTÓRICO DO ACERVO
+## Critérios de referência e autoria
 
-Este catálogo será atualizado conforme novas obras forem incorporadas e novas versões forem publicadas.
-
-As versões anteriores poderão ser preservadas no histórico de alterações do repositório.
+- As obras são de autoria de **Nissiel, O Eulírico**.
+- Os arquivos Markdown existentes neste repositório são as fontes textuais de referência para as sete obras correspondentes.
+- As edições HTML em `docs/obras/` são versões de leitura dessas fontes.
+- Para as demais publicações, a página WordPress indicada é a referência pública até que o respectivo arquivo-fonte seja incorporado.
+- Ferramentas digitais podem apoiar organização, revisão técnica, formatação e publicação, sem assumir autoria ou coautoria.
+- Atualizações futuras devem registrar a origem e a versão, preservando a integridade de cada texto.
