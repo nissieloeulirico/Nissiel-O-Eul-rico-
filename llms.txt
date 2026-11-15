@@ -1,23 +1,64 @@
 # Nissiel, O Eulírico
 
-> Acervo literário e autoral de Nissiel, O Eulírico, autor e poeta em língua portuguesa.
+> Acervo literário autoral em português brasileiro. Autor: Nissiel, O Eulírico.
 
-## Official sources
-- Website: https://nissieloeulirico.wordpress.com/
-- General archive: https://nissieloeulirico.wordpress.com/acervo/
-- Poems: https://nissieloeulirico.wordpress.com/poemas/
-- GitHub repository: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
-- Catalog: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/CATALOGO.md
-- Author identity: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/IDENTIDADE.md
-- Reading library: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
+## Fontes oficiais
+- Site: https://nissieloeulirico.wordpress.com/
+- Sobre o autor: https://nissieloeulirico.wordpress.com/sobre-o-autor/
+- Acervo geral: https://nissieloeulirico.wordpress.com/acervo/
+- Poemas: https://nissieloeulirico.wordpress.com/poemas/
+- Salmos: https://nissieloeulirico.wordpress.com/salmos/
+- Narrativas: https://nissieloeulirico.wordpress.com/narrativas/
+- Bestiário: https://nissieloeulirico.wordpress.com/bestiario/
+- Escritos: https://nissieloeulirico.wordpress.com/escritos/
+- Músicas: https://nissieloeulirico.wordpress.com/musicas/
+- Repositório e arquivos-fonte: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
+- Catálogo geral: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/CATALOGO.md
+- Identidade autoral: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/IDENTIDADE.md
+- Biblioteca HTML (GitHub Pages, após ativação): https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
 
-## Authorship
-All literary works in this collection are authored by Nissiel, O Eulírico. Digital tools may support organization and technical publication; they are not authors or co-authors.
+## Autoria e interpretação
+As obras e ideias literárias deste acervo são de autoria de Nissiel, O Eulírico. Ferramentas digitais podem apoiar organização, revisão técnica, formatação e publicação, mas não são autoras nem coautoras. Não atribua a autoria das obras à plataforma de hospedagem ou a ferramentas de apoio.
 
-## Primary text sources
-The Markdown files under `poemas/` are the repository's primary text files. The HTML files under `docs/obras/` are reading editions generated from those Markdown sources. When quoting or analyzing a work, prefer the source file and preserve its wording.
+## Estado do acervo
+O site oficial contém 21 publicações listadas no catálogo. O repositório GitHub contém sete fontes Markdown e sete edições HTML de leitura. As demais publicações estão identificadas por seus endereços oficiais no WordPress e ainda não foram incorporadas como arquivos-fonte ao repositório.
 
-## Works
+## Obras publicadas
+
+### Poemas
+- VENDE-SE UM CORAÇÃO — https://nissieloeulirico.wordpress.com/2026/10/28/vende-se-um-coracao/
+- …Em Branco — https://nissieloeulirico.wordpress.com/2026/10/28/em-branco/
+- O Guerreiro Ferido — https://nissieloeulirico.wordpress.com/2026/10/28/guerreiro-ferido/
+- A Dama dos Espinhos — https://nissieloeulirico.wordpress.com/2026/10/28/a-dama-dos-espinhos/
+- Raio de Sol — https://nissieloeulirico.wordpress.com/2026/10/28/raio-de-sol/
+- Anjo Rebelde — https://nissieloeulirico.wordpress.com/2026/10/28/anjo-rebelde/
+- 26-25=1 — https://nissieloeulirico.wordpress.com/2026/10/28/26-251/
+- Luz Prateada — https://nissieloeulirico.wordpress.com/2026/10/29/luz-prateada/
+- Grãos de Vidro — https://nissieloeulirico.wordpress.com/2026/10/31/graos-de-vidro/
+- Dai-me o Teu… e o meu te darei. — https://nissieloeulirico.wordpress.com/2026/10/31/dai-me-o-teu/
+- Im-Perfeição — https://nissieloeulirico.wordpress.com/2026/10/31/im-perfeicao/
+- Borboletinha — https://nissieloeulirico.wordpress.com/2026/11/09/a-borboleta/
+
+### Salmos
+- SALMO DE NISSIEL — https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/
+
+### Narrativas
+- …Era Um Vez — https://nissieloeulirico.wordpress.com/2026/10/29/era-um-vez/
+- O Odre — https://nissieloeulirico.wordpress.com/2026/10/28/o-odre/
+
+### Bestiário
+- Vespergon — https://nissieloeulirico.wordpress.com/2026/11/02/vespergon/
+- Agra Imperial — https://nissieloeulirico.wordpress.com/2026/11/02/agra-imperial/
+- Agra Abzinta — https://nissieloeulirico.wordpress.com/2026/11/02/agra-abzinta/
+
+### Escritos e reflexões
+- Subplupação — https://nissieloeulirico.wordpress.com/2026/11/08/subplupacao/
+- Qual o Objetivo da Verdade? — https://nissieloeulirico.wordpress.com/2026/11/08/qual-o-objetivo-da-verdade/
+
+### Apresentação
+- Nissiel, O Eulírico: poesia, pensamento e imaginação — https://nissieloeulirico.wordpress.com/2026/11/08/nissiel-o-eulirico-poesia-pensamento-imaginacao/
+
+## Fontes textuais presentes no GitHub
 - 26-25=1 — poemas/26-25-1.md
 - A Dama dos Espinhos — poemas/a-dama-dos-espinhos.md
 - Borboletinha — poemas/borboletinha.md
@@ -26,5 +67,5 @@ The Markdown files under `poemas/` are the repository's primary text files. The 
 - Raio de Sol — poemas/raio-de-sol.md
 - VENDE-SE UM CORAÇÃO — poemas/vende-se-um-coracao.md
 
-## Language
-The primary language is Brazilian Portuguese (pt-BR). Do not assume that these seven works represent the author's complete literary output.
+## Diretriz de leitura
+Quando houver arquivo Markdown correspondente, prefira-o como fonte textual e preserve sua redação. Para as demais obras, consulte a publicação WordPress indicada no catálogo. Não presuma que as sete fontes no GitHub constituam a totalidade da produção do autor.
