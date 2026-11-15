@@ -11,7 +11,7 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
 **Repositório:** https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-  
 **Biblioteca digital:** https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ (publicação GitHub Pages ainda depende da ativação em Settings → Pages).
 
-> **Estado documental:** o WordPress reúne 21 publicações listadas abaixo. Este repositório contém atualmente sete arquivos-fonte Markdown e sete edições HTML correspondentes. As demais publicações estão ligadas às suas páginas oficiais no WordPress; seus textos não foram copiados automaticamente para evitar divergências entre versões.
+> **Estado documental:** o WordPress reúne 22 publicações listadas abaixo. Este repositório contém atualmente oito arquivos-fonte Markdown de poemas e uma memória de composição, além de sete edições HTML correspondentes. As demais publicações estão ligadas às suas páginas oficiais no WordPress; seus textos não foram copiados automaticamente para evitar divergências entre versões.
 
 ---
 
@@ -23,7 +23,7 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
 
 2. **…Em Branco**  
    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/em-branco/)  
-   Arquivo-fonte Markdown ainda não incorporado a este repositório.
+   Arquivo-fonte: [poemas/em-branco.md](poemas/em-branco.md).
 
 3. **O Guerreiro Ferido**  
    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/guerreiro-ferido/)  
@@ -101,7 +101,13 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/08/nissiel-o-eulirico-poesia-pensamento-imaginacao/)  
    Página permanente: [Sobre o Autor](https://nissieloeulirico.wordpress.com/sobre-o-autor/)
 
-## 7. Livro e coletânea em desenvolvimento
+## 7. Memórias de composição
+
+1. **Em Branco...**  
+   Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/15/em-branco-memorias-de-composicao/)  
+   Arquivo-fonte: [entrelinhas/em-branco.md](entrelinhas/em-branco.md).
+
+## 8. Livro e coletânea em desenvolvimento
 
 **Coração**  
 Projeto de organização literária em desenvolvimento. Não contabilizado entre as 21 publicações acima.
@@ -111,8 +117,8 @@ Projeto de organização literária em desenvolvimento. Não contabilizado entre
 ## Critérios de referência e autoria
 
 - As obras são de autoria de **Nissiel, O Eulírico**.
-- Os arquivos Markdown existentes neste repositório são as fontes textuais de referência para as sete obras correspondentes.
+- Os arquivos Markdown existentes neste repositório são as fontes textuais de referência para as oito obras correspondentes.
 - As edições HTML em `docs/obras/` são versões de leitura dessas fontes.
-- Para as demais publicações, a página WordPress indicada é a referência pública até que o respectivo arquivo-fonte seja incorporado.
+- Para as demais publicações, a página WordPress indicada é a referência pública até que o respectivo arquivo-fonte seja incorporado. As memórias de composição ficam organizadas separadamente em `entrelinhas/`.
 - Ferramentas digitais podem apoiar organização, revisão técnica, formatação e publicação, sem assumir autoria ou coautoria.
 - Atualizações futuras devem registrar a origem e a versão, preservando a integridade de cada texto.
