@@ -63,6 +63,7 @@ As obras e ideias literárias deste acervo são de autoria de Nissiel, O Eulíri
 - Luz Prateada — https://nissieloeulirico.wordpress.com/2026/11/15/luz-prateada-memorias-de-composicao/ · `entrelinhas/luz-prateada.md`
 - 26-25=1 — https://nissieloeulirico.wordpress.com/2026/11/15/26-25-1-memorias-de-composicao/ · `entrelinhas/26-25-1.md`
 - Grãos de Vidro — https://nissieloeulirico.wordpress.com/2026/11/15/graos-de-vidro-memorias-de-composicao/ · `entrelinhas/graos-de-vidro.md`
+- Vende-se um Coração — https://nissieloeulirico.wordpress.com/2026/11/15/vende-se-um-coracao-memorias-de-composicao/ · `entrelinhas/vende-se-um-coracao.md`
 
 ## Fontes textuais presentes no GitHub
 - 26-25=1 — poemas/26-25-1.md
