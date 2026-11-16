@@ -135,6 +135,10 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
    Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/16/a-dama-dos-espinhos-memorias-de-composicao/)  
    Arquivo-fonte: [entrelinhas/a-dama-dos-espinhos.md](entrelinhas/a-dama-dos-espinhos.md).
 
+9. **O Guerreiro Ferido**  
+   Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/16/o-guerreiro-ferido-memorias-de-composicao/)  
+   Arquivo-fonte: [entrelinhas/o-guerreiro-ferido.md](entrelinhas/o-guerreiro-ferido.md).
+
 ## 8. Livro e coletânea em desenvolvimento
 
 **Coração**  
