@@ -11,7 +11,7 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
 **Repositório:** https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-  
 **Biblioteca digital:** https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ (publicação GitHub Pages ainda depende da ativação em Settings → Pages).
 
-> **Estado documental:** o WordPress reúne 22 publicações listadas abaixo. Este repositório contém atualmente oito arquivos-fonte Markdown de poemas e uma memória de composição, além de sete edições HTML correspondentes. As demais publicações estão ligadas às suas páginas oficiais no WordPress; seus textos não foram copiados automaticamente para evitar divergências entre versões.
+> **Estado documental:** o WordPress reúne 22 publicações listadas abaixo. Este repositório contém atualmente nove arquivos-fonte Markdown de poemas e uma memória de composição, além de oito edições HTML correspondentes. As demais publicações estão ligadas às suas páginas oficiais no WordPress; seus textos não foram copiados automaticamente para evitar divergências entre versões.
 
 ---
 
