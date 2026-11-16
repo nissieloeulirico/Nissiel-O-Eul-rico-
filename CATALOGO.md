@@ -11,7 +11,7 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
 **Repositório:** https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-  
 **Biblioteca digital:** https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ (publicação GitHub Pages ainda depende da ativação em Settings → Pages).
 
-> **Estado documental:** o WordPress reúne 22 publicações listadas abaixo. Este repositório contém atualmente nove arquivos-fonte Markdown de poemas e uma memória de composição, além de oito edições HTML correspondentes. As demais publicações estão ligadas às suas páginas oficiais no WordPress; seus textos não foram copiados automaticamente para evitar divergências entre versões.
+> **Estado documental:** o catálogo reúne as publicações listadas no site. Os arquivos-fonte Markdown e as edições HTML correspondentes estão organizados neste repositório; as demais publicações permanecem ligadas às suas páginas oficiais no WordPress.
 
 ---
 
@@ -107,17 +107,21 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
    Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/15/em-branco-memorias-de-composicao/)  
    Arquivo-fonte: [entrelinhas/em-branco.md](entrelinhas/em-branco.md).
 
+2. **Raio de Sol**  
+   Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/15/raio-de-sol-memorias-de-composicao/)  
+   Arquivo-fonte: [entrelinhas/raio-de-sol.md](entrelinhas/raio-de-sol.md).
+
 ## 8. Livro e coletânea em desenvolvimento
 
 **Coração**  
-Projeto de organização literária em desenvolvimento. Não contabilizado entre as 21 publicações acima.
+Projeto de organização literária em desenvolvimento.
 
 ---
 
 ## Critérios de referência e autoria
 
 - As obras são de autoria de **Nissiel, O Eulírico**.
-- Os arquivos Markdown existentes neste repositório são as fontes textuais de referência para as oito obras correspondentes.
+- Os arquivos Markdown existentes neste repositório são as fontes textuais de referência para as obras correspondentes.
 - As edições HTML em `docs/obras/` são versões de leitura dessas fontes.
 - Para as demais publicações, a página WordPress indicada é a referência pública até que o respectivo arquivo-fonte seja incorporado. As memórias de composição ficam organizadas separadamente em `entrelinhas/`.
 - Ferramentas digitais podem apoiar organização, revisão técnica, formatação e publicação, sem assumir autoria ou coautoria.
