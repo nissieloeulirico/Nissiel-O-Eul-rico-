@@ -139,7 +139,7 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
    Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/16/o-guerreiro-ferido-memorias-de-composicao/)  
    Arquivo-fonte: [entrelinhas/o-guerreiro-ferido.md](entrelinhas/o-guerreiro-ferido.md).
 
-## 8. Livro e coletânea
+## 8. Obras publicadas em outras plataformas
 
 **Coração**  
 E-book de poesias publicado no [Recanto das Letras](https://www.recantodasletras.com.br/e-livros-de-poesias/8765826).  
