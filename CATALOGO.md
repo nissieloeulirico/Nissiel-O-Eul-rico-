@@ -127,6 +127,10 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
    Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/15/graos-de-vidro-memorias-de-composicao/)  
    Arquivo-fonte: [entrelinhas/graos-de-vidro.md](entrelinhas/graos-de-vidro.md).
 
+7. **Vende-se um Coração**  
+   Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/15/vende-se-um-coracao-memorias-de-composicao/)  
+   Arquivo-fonte: [entrelinhas/vende-se-um-coracao.md](entrelinhas/vende-se-um-coracao.md).
+
 ## 8. Livro e coletânea em desenvolvimento
 
 **Coração**  
