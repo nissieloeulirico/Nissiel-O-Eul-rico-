@@ -59,6 +59,7 @@ As obras e ideias literárias deste acervo são de autoria de Nissiel, O Eulíri
 ### Memórias de composição · Entrelinhas
 - Em Branco... — https://nissieloeulirico.wordpress.com/2026/11/15/em-branco-memorias-de-composicao/ · `entrelinhas/em-branco.md`
 - Raio de Sol — https://nissieloeulirico.wordpress.com/2026/11/15/raio-de-sol-memorias-de-composicao/ · `entrelinhas/raio-de-sol.md`
+- Borboletinha — https://nissieloeulirico.wordpress.com/2026/11/15/borboletinha-memorias-de-composicao/ · `entrelinhas/borboletinha.md`
 
 ## Fontes textuais presentes no GitHub
 - 26-25=1 — poemas/26-25-1.md
