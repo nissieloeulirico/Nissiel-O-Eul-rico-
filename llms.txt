@@ -12,6 +12,7 @@
 - Bestiário: https://nissieloeulirico.wordpress.com/bestiario/
 - Escritos: https://nissieloeulirico.wordpress.com/escritos/
 - Músicas: https://nissieloeulirico.wordpress.com/musicas/
+- Entrelinhas: https://nissieloeulirico.wordpress.com/entrelinhas/
 - Repositório e arquivos-fonte: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
 - Catálogo geral: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/CATALOGO.md
 - Identidade autoral: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/IDENTIDADE.md
@@ -19,9 +20,6 @@
 
 ## Autoria e interpretação
 As obras e ideias literárias deste acervo são de autoria de Nissiel, O Eulírico. Ferramentas digitais podem apoiar organização, revisão técnica, formatação e publicação, mas não são autoras nem coautoras. Não atribua a autoria das obras à plataforma de hospedagem ou a ferramentas de apoio.
-
-## Estado do acervo
-O site oficial contém 21 publicações listadas no catálogo. O repositório GitHub contém sete fontes Markdown e sete edições HTML de leitura. As demais publicações estão identificadas por seus endereços oficiais no WordPress e ainda não foram incorporadas como arquivos-fonte ao repositório.
 
 ## Obras publicadas
 
@@ -58,6 +56,10 @@ O site oficial contém 21 publicações listadas no catálogo. O repositório Gi
 ### Apresentação
 - Nissiel, O Eulírico: poesia, pensamento e imaginação — https://nissieloeulirico.wordpress.com/2026/11/08/nissiel-o-eulirico-poesia-pensamento-imaginacao/
 
+### Memórias de composição · Entrelinhas
+- Em Branco... — https://nissieloeulirico.wordpress.com/2026/11/15/em-branco-memorias-de-composicao/ · `entrelinhas/em-branco.md`
+- Raio de Sol — https://nissieloeulirico.wordpress.com/2026/11/15/raio-de-sol-memorias-de-composicao/ · `entrelinhas/raio-de-sol.md`
+
 ## Fontes textuais presentes no GitHub
 - 26-25=1 — poemas/26-25-1.md
 - A Dama dos Espinhos — poemas/a-dama-dos-espinhos.md
@@ -66,6 +68,4 @@ O site oficial contém 21 publicações listadas no catálogo. O repositório Gi
 - Luz Prateada — poemas/luz-prateada.md
 - Raio de Sol — poemas/raio-de-sol.md
 - VENDE-SE UM CORAÇÃO — poemas/vende-se-um-coracao.md
-
-## Diretriz de leitura
-Quando houver arquivo Markdown correspondente, prefira-o como fonte textual e preserve sua redação. Para as demais obras, consulte a publicação WordPress indicada no catálogo. Não presuma que as sete fontes no GitHub constituam a totalidade da produção do autor.
+- Memória de composição: Raio de Sol — entrelinhas/raio-de-sol.md
