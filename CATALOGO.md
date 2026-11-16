@@ -111,6 +111,10 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
    Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/15/raio-de-sol-memorias-de-composicao/)  
    Arquivo-fonte: [entrelinhas/raio-de-sol.md](entrelinhas/raio-de-sol.md).
 
+3. **Borboletinha**  
+   Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/15/borboletinha-memorias-de-composicao/)  
+   Arquivo-fonte: [entrelinhas/borboletinha.md](entrelinhas/borboletinha.md).
+
 ## 8. Livro e coletânea em desenvolvimento
 
 **Coração**  
