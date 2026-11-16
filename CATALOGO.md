@@ -51,7 +51,7 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
 
 9. **Grãos de Vidro**  
    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/31/graos-de-vidro/)  
-   Classificação: Poema.
+   Arquivo-fonte: [poemas/graos-de-vidro.md](poemas/graos-de-vidro.md) · [Edição digital](docs/obras/graos-de-vidro.html)
 
 10. **Dai-me o Teu… e o meu te darei.**  
     Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/31/dai-me-o-teu/)
