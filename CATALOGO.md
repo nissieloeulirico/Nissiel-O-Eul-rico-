@@ -123,6 +123,10 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
    Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/15/26-25-1-memorias-de-composicao/)  
    Arquivo-fonte: [entrelinhas/26-25-1.md](entrelinhas/26-25-1.md).
 
+6. **Grãos de Vidro**  
+   Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/15/graos-de-vidro-memorias-de-composicao/)  
+   Arquivo-fonte: [entrelinhas/graos-de-vidro.md](entrelinhas/graos-de-vidro.md).
+
 ## 8. Livro e coletânea em desenvolvimento
 
 **Coração**  
