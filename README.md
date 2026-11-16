@@ -10,6 +10,7 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém a
 - **Acervo geral:** [WordPress](https://nissieloeulirico.wordpress.com/acervo/)
 - **Poemas publicados:** [WordPress](https://nissieloeulirico.wordpress.com/poemas/)
 - **Biblioteca digital:** [GitHub Pages](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/) — arquivos preparados em `docs/`; a publicação ainda depende de ativação em **Settings → Pages**.
+- **Obras publicadas em outras plataformas:** Coração — [Recanto das Letras](https://www.recantodasletras.com.br/e-livros-de-poesias/8765826)
 - **Catálogo:** [CATALOGO.md](CATALOGO.md)
 - **Identidade autoral:** [IDENTIDADE.md](IDENTIDADE.md)
 - **Orientação para sistemas de IA:** [llms.txt](llms.txt)
