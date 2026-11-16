@@ -16,7 +16,7 @@
 - Repositório e arquivos-fonte: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
 
 ## Esta biblioteca
-Esta biblioteca estática contém sete edições digitais de leitura, derivadas dos arquivos Markdown existentes no repositório. O catálogo WordPress contém 21 publicações. Para obras sem edição HTML nesta biblioteca, use os links oficiais abaixo.
+Esta biblioteca estática contém oito edições digitais de leitura, derivadas dos arquivos Markdown existentes no repositório. O catálogo WordPress contém 21 publicações. Para obras sem edição HTML nesta biblioteca, use os links oficiais abaixo.
 
 ## Obras com edição nesta biblioteca
 - [26-25=1](obras/26-25-1.html) | [fonte Markdown](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/26-25-1.md)
@@ -42,6 +42,9 @@ Esta biblioteca estática contém sete edições digitais de leitura, derivadas 
 - [Nissiel, O Eulírico: poesia, pensamento e imaginação](https://nissieloeulirico.wordpress.com/2026/11/08/nissiel-o-eulirico-poesia-pensamento-imaginacao/)
 - [Subplupação](https://nissieloeulirico.wordpress.com/2026/11/08/subplupacao/)
 - [Qual o Objetivo da Verdade?](https://nissieloeulirico.wordpress.com/2026/11/08/qual-o-objetivo-da-verdade/)
+
+## Obras publicadas em outras plataformas
+- Coração — e-book de poesias publicado no [Recanto das Letras](https://www.recantodasletras.com.br/e-livros-de-poesias/8765826).
 
 ## Diretriz de leitura
 Prefira o arquivo Markdown como fonte textual quando ele existir. Para as demais obras, consulte a publicação WordPress indicada. Não presuma que as sete obras desta biblioteca representem toda a produção do autor.
