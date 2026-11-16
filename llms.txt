@@ -62,6 +62,7 @@ As obras e ideias literárias deste acervo são de autoria de Nissiel, O Eulíri
 - Borboletinha — https://nissieloeulirico.wordpress.com/2026/11/15/borboletinha-memorias-de-composicao/ · `entrelinhas/borboletinha.md`
 - Luz Prateada — https://nissieloeulirico.wordpress.com/2026/11/15/luz-prateada-memorias-de-composicao/ · `entrelinhas/luz-prateada.md`
 - 26-25=1 — https://nissieloeulirico.wordpress.com/2026/11/15/26-25-1-memorias-de-composicao/ · `entrelinhas/26-25-1.md`
+- Grãos de Vidro — https://nissieloeulirico.wordpress.com/2026/11/15/graos-de-vidro-memorias-de-composicao/ · `entrelinhas/graos-de-vidro.md`
 
 ## Fontes textuais presentes no GitHub
 - 26-25=1 — poemas/26-25-1.md
@@ -74,3 +75,4 @@ As obras e ideias literárias deste acervo são de autoria de Nissiel, O Eulíri
 - Memória de composição: Raio de Sol — entrelinhas/raio-de-sol.md
 - Memória de composição: Luz Prateada — entrelinhas/luz-prateada.md
 - Memória de composição: 26-25=1 — entrelinhas/26-25-1.md
+- Memória de composição: Grãos de Vidro — entrelinhas/graos-de-vidro.md
