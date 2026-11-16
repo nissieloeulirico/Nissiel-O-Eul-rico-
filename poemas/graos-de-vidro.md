@@ -356,12 +356,12 @@ Viver é o verdadeiro sacrifício.*
 *¹⁰⁵ Então, viva, sinta a breve brisa da manhã
 que beija teus dias.*
 
-*Sorria poeta.
-Alegra-tei com a vida.
-Eis que um coração quebrado pelo divino é preenchido
-Nele, seja por dentro ou por fora
-As trevas não encontram abrigo.
-Pois cada rachadura, se torna da luz um caminho*
+*¹⁰⁶ Sorria, poeta.
+Alegra-te com a vida.
+Eis que um coração quebrado pelo divino é preenchido.
+Nele, seja por dentro ou por fora,
+as trevas não encontram abrigo.
+Pois cada rachadura se torna da luz um caminho.*
 
 ---
 
