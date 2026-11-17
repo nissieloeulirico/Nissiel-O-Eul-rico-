@@ -139,6 +139,12 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
    Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/16/o-guerreiro-ferido-memorias-de-composicao/)  
    Arquivo-fonte: [entrelinhas/o-guerreiro-ferido.md](entrelinhas/o-guerreiro-ferido.md).
 
+
+
+10. **Eco** · Registro bruto de um poema em gestação  
+    Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/17/eco-memoria-de-um-poema-em-gestacao/)  
+    Arquivo-fonte: [entrelinhas/eco.md](entrelinhas/eco.md).
+
 ## 8. Obras publicadas em outras plataformas
 
 **Coração**  
