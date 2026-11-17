@@ -143,7 +143,8 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
 
 **Coração**  
 E-book de poesias publicado no [Recanto das Letras](https://www.recantodasletras.com.br/e-livros-de-poesias/8765826).  
-Estado: publicação externa disponível para leitura.
+**DOI:** [10.5281/zenodo.24296793](https://doi.org/10.5281/zenodo.24296793) · [Registro no Zenodo](https://zenodo.org/records/24296793).  
+Estado: publicação externa disponível para leitura; identificador DOI registrado.
 
 ---
 
