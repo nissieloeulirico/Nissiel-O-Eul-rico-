@@ -17,8 +17,9 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém a
 
 ## Estrutura
 - `poemas/`: arquivos-fonte dos poemas em Markdown.
+- `narrativas/`: arquivos-fonte dos contos e narrativas em Markdown.
 - `entrelinhas/`: memórias de composição, separadas dos textos literários.
-- `docs/`: oito edições HTML de leitura, folha de estilos, sitemap e instruções para rastreadores.
+- `docs/`: nove edições HTML de leitura, folha de estilos, sitemap e instruções para rastreadores.
 - `CATALOGO.md`: índice das 21 publicações do site oficial, com distinção entre fontes presentes e publicações externas.
 - `IDENTIDADE.md`: identificação pública, canais oficiais e declaração de autoria.
 - `CITATION.cff`: metadados bibliográficos para citação.
