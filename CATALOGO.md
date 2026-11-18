@@ -70,8 +70,9 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
 
 ## 3. Narrativas
 
-1. **…Era Um Vez** · Conto  
-   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/29/era-um-vez/)
+1. **Era Uma Vez...** · Conto em quatro tempos  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/29/era-um-vez/)  
+   Arquivo-fonte: [narrativas/era-uma-vez.md](narrativas/era-uma-vez.md) · [Edição digital](docs/obras/era-uma-vez.html)
 
 2. **O Odre** · Novela  
    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/o-odre/)
