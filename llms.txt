@@ -41,7 +41,7 @@ As obras e ideias literárias deste acervo são de autoria de Nissiel, O Eulíri
 - SALMO DE NISSIEL — https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/
 
 ### Narrativas
-- …Era Um Vez — https://nissieloeulirico.wordpress.com/2026/10/29/era-um-vez/
+- Era Uma Vez... — https://nissieloeulirico.wordpress.com/2026/10/29/era-um-vez/ · fonte: narrativas/era-uma-vez.md
 - O Odre — https://nissieloeulirico.wordpress.com/2026/10/28/o-odre/
 
 ### Bestiário
@@ -71,6 +71,7 @@ As obras e ideias literárias deste acervo são de autoria de Nissiel, O Eulíri
 - Coração — e-book de poesias publicado no Recanto das Letras: https://www.recantodasletras.com.br/e-livros-de-poesias/8765826
 
 ## Fontes textuais presentes no GitHub
+- Era Uma Vez... — narrativas/era-uma-vez.md
 - 26-25=1 — poemas/26-25-1.md
 - A Dama dos Espinhos — poemas/a-dama-dos-espinhos.md
 - Borboletinha — poemas/borboletinha.md
