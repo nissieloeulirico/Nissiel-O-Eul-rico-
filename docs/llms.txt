@@ -16,9 +16,10 @@
 - Repositório e arquivos-fonte: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
 
 ## Esta biblioteca
-Esta biblioteca estática contém oito edições digitais de leitura, derivadas dos arquivos Markdown existentes no repositório. O catálogo WordPress contém 21 publicações. Para obras sem edição HTML nesta biblioteca, use os links oficiais abaixo.
+Esta biblioteca estática contém nove edições digitais de leitura, derivadas dos arquivos Markdown existentes no repositório. O catálogo WordPress contém 21 publicações. Para obras sem edição HTML nesta biblioteca, use os links oficiais abaixo.
 
 ## Obras com edição nesta biblioteca
+- [Era Uma Vez...](obras/era-uma-vez.html) | [fonte Markdown](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/narrativas/era-uma-vez.md)
 - [26-25=1](obras/26-25-1.html) | [fonte Markdown](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/26-25-1.md)
 - [A Dama dos Espinhos](obras/a-dama-dos-espinhos.html) | [fonte Markdown](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/a-dama-dos-espinhos.md)
 - [Borboletinha](obras/borboletinha.html) | [fonte Markdown](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/borboletinha.md)
@@ -31,7 +32,6 @@ Esta biblioteca estática contém oito edições digitais de leitura, derivadas 
 - […Em Branco](https://nissieloeulirico.wordpress.com/2026/10/28/em-branco/)
 - [Anjo Rebelde](https://nissieloeulirico.wordpress.com/2026/10/28/anjo-rebelde/)
 - [SALMO DE NISSIEL](https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/)
-- […Era Um Vez](https://nissieloeulirico.wordpress.com/2026/10/29/era-um-vez/)
 - [O Odre](https://nissieloeulirico.wordpress.com/2026/10/28/o-odre/)
 - [Grãos de Vidro](https://nissieloeulirico.wordpress.com/2026/10/31/graos-de-vidro/)
 - [Dai-me o Teu… e o meu te darei.](https://nissieloeulirico.wordpress.com/2026/10/31/dai-me-o-teu/)
