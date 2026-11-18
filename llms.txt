@@ -57,6 +57,7 @@ As obras e ideias literárias deste acervo são de autoria de Nissiel, O Eulíri
 - Nissiel, O Eulírico: poesia, pensamento e imaginação — https://nissieloeulirico.wordpress.com/2026/11/08/nissiel-o-eulirico-poesia-pensamento-imaginacao/
 
 ### Memórias de composição · Entrelinhas
+- Eco — duas memórias estruturais: Versão 0 (registro bruto, 17/11/2026) e Versão 1 (primeira reconstrução do autor, 18/11/2026) — https://nissieloeulirico.wordpress.com/2026/11/17/eco-memoria-de-um-poema-em-gestacao/ · `entrelinhas/eco.md`
 - Em Branco... — https://nissieloeulirico.wordpress.com/2026/11/15/em-branco-memorias-de-composicao/ · `entrelinhas/em-branco.md`
 - Raio de Sol — https://nissieloeulirico.wordpress.com/2026/11/15/raio-de-sol-memorias-de-composicao/ · `entrelinhas/raio-de-sol.md`
 - Borboletinha — https://nissieloeulirico.wordpress.com/2026/11/15/borboletinha-memorias-de-composicao/ · `entrelinhas/borboletinha.md`
