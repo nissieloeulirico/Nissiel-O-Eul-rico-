@@ -5,6 +5,7 @@
 Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém arquivos-fonte em Markdown, edições digitais de leitura, catálogo, identificação autoral e histórico das alterações.
 
 ## Acesse
+- **Apresentação de Coração:** [Um primeiro passo](APRESENTACAO-CORACAO.md) · [Publicação no site](https://nissieloeulirico.wordpress.com/2026/11/19/um-primeiro-passo-coracao/)
 - **Site oficial:** [Nissiel, O Eulírico](https://nissieloeulirico.wordpress.com/)
 - **Sobre o autor:** [Apresentação autoral](https://nissieloeulirico.wordpress.com/sobre-o-autor/)
 - **Acervo geral:** [WordPress](https://nissieloeulirico.wordpress.com/acervo/)
