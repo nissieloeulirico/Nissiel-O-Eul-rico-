@@ -10,7 +10,7 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém a
 - **Acervo geral:** [WordPress](https://nissieloeulirico.wordpress.com/acervo/)
 - **Poemas publicados:** [WordPress](https://nissieloeulirico.wordpress.com/poemas/)
 - **Biblioteca digital:** [GitHub Pages](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/) — arquivos preparados em `docs/`; a publicação ainda depende de ativação em **Settings → Pages**.
-- **Livro publicado — Coração:** [Página oficial e compra na PerSe](https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604) · [Apresentação do livro no site oficial](https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/) · [Recanto das Letras](https://www.recantodasletras.com.br/e-livros-de-poesias/8765826) · [DOI 10.5281/zenodo.24296793](https://doi.org/10.5281/zenodo.24296793)
+- **Livro publicado — Coração:** [Página oficial e compra na PerSe](https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604) · [Apresentação do livro no site oficial](https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/) · [Recanto das Letras](https://www.recantodasletras.com.br/e-livros-de-poesias/8765826) · [DOI 10.5281/zenodo.24296793](https://doi.org/10.5281/zenodo.24296793) · [Repositório do livro no GitHub](https://github.com/nissieloeulirico/Cora-o-)
 - **Catálogo:** [CATALOGO.md](CATALOGO.md)
 - **Identidade autoral:** [IDENTIDADE.md](IDENTIDADE.md)
 - **Orientação para sistemas de IA:** [llms.txt](llms.txt)
