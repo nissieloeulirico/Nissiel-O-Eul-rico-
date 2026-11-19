@@ -3,6 +3,7 @@
 Autor, poeta e pensador. Este perfil reúne o acervo literário autoral, seus registros e projetos de escrita.
 
 **Site oficial:** https://nissieloeulirico.wordpress.com/  
+**Livro publicado — Coração:** [Conheça e adquira na PerSe](https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604) · [Apresentação do livro](https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/)  
 **Sobre o autor:** https://nissieloeulirico.wordpress.com/sobre-o-autor/  
 **Biblioteca digital:** https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ (publicação GitHub Pages após ativação).  
 **Acervo e arquivos-fonte:** https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
