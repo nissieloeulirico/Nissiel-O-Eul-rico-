@@ -148,10 +148,11 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
 
 ## 8. Obras publicadas em outras plataformas
 
-**Coração**  
-E-book de poesias publicado no [Recanto das Letras](https://www.recantodasletras.com.br/e-livros-de-poesias/8765826).  
-**DOI:** [10.5281/zenodo.24296793](https://doi.org/10.5281/zenodo.24296793) · [Registro no Zenodo](https://zenodo.org/records/24296793).  
-Estado: publicação externa disponível para leitura; identificador DOI registrado.
+**Coração — Quatro movimentos, um só pulsar**  
+Livro de poesia de **Nissiel, O Eulírico**, publicado em edição impressa e e-book pela [PerSe — página oficial e compra](https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604).  
+Página de apresentação no site do autor: [Coração — Livro de Nissiel, O Eulírico](https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/).  
+Outras referências: [Recanto das Letras](https://www.recantodasletras.com.br/e-livros-de-poesias/8765826) · [DOI 10.5281/zenodo.24296793](https://doi.org/10.5281/zenodo.24296793) · [Registro no Zenodo](https://zenodo.org/records/24296793).  
+Dados da edição PerSe: 109 páginas. Estado: publicado e disponível em formatos impresso e digital.
 
 ---
 
