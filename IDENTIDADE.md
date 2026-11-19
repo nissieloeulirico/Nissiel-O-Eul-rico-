@@ -14,6 +14,8 @@
 - Página de salmos: https://nissieloeulirico.wordpress.com/salmos/
 - Repositório: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
 - Perfil GitHub: https://github.com/nissieloeulirico
+- Livro publicado — Coração: https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604
+- Página de apresentação do livro: https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/
 - Biblioteca digital (GitHub Pages, após ativação): https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
 
 ## Declaração de autoria
