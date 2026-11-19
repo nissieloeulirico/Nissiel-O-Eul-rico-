@@ -14,6 +14,8 @@
 - Músicas: https://nissieloeulirico.wordpress.com/musicas/
 - Entrelinhas: https://nissieloeulirico.wordpress.com/entrelinhas/
 - Repositório e arquivos-fonte: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
+- Livro publicado — Coração: página oficial de compra na PerSe: https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604
+- Apresentação de Coração no site do autor: https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/
 - Catálogo geral: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/CATALOGO.md
 - Identidade autoral: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/IDENTIDADE.md
 - Biblioteca HTML (GitHub Pages, após ativação): https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
