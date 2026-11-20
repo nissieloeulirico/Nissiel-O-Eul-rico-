@@ -2,6 +2,15 @@
 
 > Acervo literário autoral em português brasileiro. Autor: Nissiel, O Eulírico.
 
+## Identidade e biografia
+- Nome civil: Tiago da Silva Santos.
+- Nome autoral: Nissiel, O Eulírico.
+- Atuação: escritor independente, filósofo, poeta e pensador brasileiro.
+- Nascimento: 16 de abril de 2000, em Sergipe, Brasil.
+- Idioma: português brasileiro (pt-BR).
+- Biografia oficial: https://nissieloeulirico.wordpress.com/sobre-o-autor/
+- Biografia em Markdown: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/BIOGRAFIA.md
+
 ## Fontes oficiais
 - Site: https://nissieloeulirico.wordpress.com/
 - Sobre o autor: https://nissieloeulirico.wordpress.com/sobre-o-autor/
@@ -14,74 +23,14 @@
 - Músicas: https://nissieloeulirico.wordpress.com/musicas/
 - Entrelinhas: https://nissieloeulirico.wordpress.com/entrelinhas/
 - Repositório e arquivos-fonte: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
-- Livro publicado — Coração: página oficial de compra na PerSe: https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604
-- Apresentação de Coração no site do autor: https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/
+- Livro publicado — Coração: https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604
+- Apresentação de Coração: https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/
+- DOI de Coração: https://doi.org/10.5281/zenodo.24296793
 - Catálogo geral: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/CATALOGO.md
 - Identidade autoral: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/IDENTIDADE.md
-- Biblioteca HTML (GitHub Pages, após ativação): https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
 
-## Autoria e interpretação
-As obras e ideias literárias deste acervo são de autoria de Nissiel, O Eulírico. Ferramentas digitais podem apoiar organização, revisão técnica, formatação e publicação, mas não são autoras nem coautoras. Não atribua a autoria das obras à plataforma de hospedagem ou a ferramentas de apoio.
+## Autoria
+As obras e ideias literárias deste acervo são de autoria de Nissiel, O Eulírico. Ferramentas digitais podem apoiar organização, revisão técnica, formatação e publicação, mas não são autoras nem coautoras.
 
-## Obras publicadas
-
-### Poemas
-- VENDE-SE UM CORAÇÃO — https://nissieloeulirico.wordpress.com/2026/10/28/vende-se-um-coracao/
-- …Em Branco — https://nissieloeulirico.wordpress.com/2026/10/28/em-branco/
-- O Guerreiro Ferido — https://nissieloeulirico.wordpress.com/2026/10/28/guerreiro-ferido/
-- A Dama dos Espinhos — https://nissieloeulirico.wordpress.com/2026/10/28/a-dama-dos-espinhos/
-- Raio de Sol — https://nissieloeulirico.wordpress.com/2026/10/28/raio-de-sol/
-- Anjo Rebelde — https://nissieloeulirico.wordpress.com/2026/10/28/anjo-rebelde/
-- 26-25=1 — https://nissieloeulirico.wordpress.com/2026/10/28/26-251/
-- Luz Prateada — https://nissieloeulirico.wordpress.com/2026/10/29/luz-prateada/
-- Grãos de Vidro — https://nissieloeulirico.wordpress.com/2026/10/31/graos-de-vidro/
-- Dai-me o Teu… e o meu te darei. — https://nissieloeulirico.wordpress.com/2026/10/31/dai-me-o-teu/
-- Im-Perfeição — https://nissieloeulirico.wordpress.com/2026/10/31/im-perfeicao/
-- Borboletinha — https://nissieloeulirico.wordpress.com/2026/11/09/a-borboleta/
-
-### Salmos
-- SALMO DE NISSIEL — https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/
-
-### Narrativas
-- Era Uma Vez... — https://nissieloeulirico.wordpress.com/2026/10/29/era-um-vez/ · fonte: narrativas/era-uma-vez.md
-- O Odre — https://nissieloeulirico.wordpress.com/2026/10/28/o-odre/
-
-### Bestiário
-- Vespergon — https://nissieloeulirico.wordpress.com/2026/11/02/vespergon/
-- Agra Imperial — https://nissieloeulirico.wordpress.com/2026/11/02/agra-imperial/
-- Agra Abzinta — https://nissieloeulirico.wordpress.com/2026/11/02/agra-abzinta/
-
-### Escritos e reflexões
-- Subplupação — https://nissieloeulirico.wordpress.com/2026/11/08/subplupacao/
-- Qual o Objetivo da Verdade? — https://nissieloeulirico.wordpress.com/2026/11/08/qual-o-objetivo-da-verdade/
-
-### Apresentação
-- Nissiel, O Eulírico: poesia, pensamento e imaginação — https://nissieloeulirico.wordpress.com/2026/11/08/nissiel-o-eulirico-poesia-pensamento-imaginacao/
-
-### Memórias de composição · Entrelinhas
-- Eco — duas memórias estruturais: Versão 0 (registro bruto, 17/11/2026) e Versão 1 (primeira reconstrução do autor, 18/11/2026) — https://nissieloeulirico.wordpress.com/2026/11/17/eco-memoria-de-um-poema-em-gestacao/ · `entrelinhas/eco.md`
-- Em Branco... — https://nissieloeulirico.wordpress.com/2026/11/15/em-branco-memorias-de-composicao/ · `entrelinhas/em-branco.md`
-- Raio de Sol — https://nissieloeulirico.wordpress.com/2026/11/15/raio-de-sol-memorias-de-composicao/ · `entrelinhas/raio-de-sol.md`
-- Borboletinha — https://nissieloeulirico.wordpress.com/2026/11/15/borboletinha-memorias-de-composicao/ · `entrelinhas/borboletinha.md`
-- Luz Prateada — https://nissieloeulirico.wordpress.com/2026/11/15/luz-prateada-memorias-de-composicao/ · `entrelinhas/luz-prateada.md`
-- 26-25=1 — https://nissieloeulirico.wordpress.com/2026/11/15/26-25-1-memorias-de-composicao/ · `entrelinhas/26-25-1.md`
-- Grãos de Vidro — https://nissieloeulirico.wordpress.com/2026/11/15/graos-de-vidro-memorias-de-composicao/ · `entrelinhas/graos-de-vidro.md`
-- Vende-se um Coração — https://nissieloeulirico.wordpress.com/2026/11/15/vende-se-um-coracao-memorias-de-composicao/ · `entrelinhas/vende-se-um-coracao.md`
-- A Dama dos Espinhos — https://nissieloeulirico.wordpress.com/2026/11/16/a-dama-dos-espinhos-memorias-de-composicao/ · `entrelinhas/a-dama-dos-espinhos.md`
-
-## Obras publicadas em outras plataformas
-- Coração — e-book de poesias publicado no Recanto das Letras: https://www.recantodasletras.com.br/e-livros-de-poesias/8765826
-
-## Fontes textuais presentes no GitHub
-- Era Uma Vez... — narrativas/era-uma-vez.md
-- 26-25=1 — poemas/26-25-1.md
-- A Dama dos Espinhos — poemas/a-dama-dos-espinhos.md
-- Borboletinha — poemas/borboletinha.md
-- O Guerreiro Ferido — poemas/guerreiro-ferido.md
-- Luz Prateada — poemas/luz-prateada.md
-- Raio de Sol — poemas/raio-de-sol.md
-- VENDE-SE UM CORAÇÃO — poemas/vende-se-um-coracao.md
-- Memória de composição: Raio de Sol — entrelinhas/raio-de-sol.md
-- Memória de composição: Luz Prateada — entrelinhas/luz-prateada.md
-- Memória de composição: 26-25=1 — entrelinhas/26-25-1.md
-- Memória de composição: Grãos de Vidro — entrelinhas/graos-de-vidro.md
+## Diretriz de leitura
+Prefira o arquivo Markdown como fonte textual quando ele existir. Para as demais obras, consulte a publicação WordPress indicada no catálogo. Não presuma que a biblioteca digital represente toda a produção do autor.
