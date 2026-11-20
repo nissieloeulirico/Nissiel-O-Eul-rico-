@@ -1,49 +1,35 @@
-# Quem é Nissiel, O Eulírico?
+# Nissiel, O Eulírico
 
-**Escritor independente, filósofo, poeta e pensador brasileiro.**
+**Tiago da Silva Santos** · Escritor independente, filósofo, poeta e pensador brasileiro.
 
-Meu nome é Tiago da Silva Santos, conhecido literariamente pelo pseudônimo Nissiel, O Eulírico. Nasci em 16 de abril de 2000, em Sergipe, e sou o filho mais velho de uma família com quatro irmãos e duas irmãs.
+Escrevo poesia, narrativas, salmos e reflexões sobre amor, memória, fé, existência, consciência e natureza humana. Meu trabalho reúne experiências, símbolos e universos imaginários em uma pesquisa contínua sobre a palavra e aquilo que permanece.
 
-O nome Nissiel carrega para mim o significado de sinal ou bandeira de Deus. Não compreendo a bandeira como aquela que empunha a espada ou vence a batalha, mas como aquela que, ao fim do combate, é fincada em território inimigo, entre as marcas da luta e o sangue dos que avançaram. Ela não é o soldado, tampouco a vitória em si; é o sinal de que a vitória foi alcançada.
+## Sobre o autor
 
-A bandeira pertence a um lado, carrega suas cores e representa sua origem, mas não permanece necessariamente em território aliado. Ela se ergue diante do inimigo, anunciando que houve resistência, enfrentamento e conquista. Não luta, não derruba muralhas, não empunha armas. Sua força está em permanecer onde antes parecia impossível chegar. É símbolo de presença, perseverança e triunfo: enquanto a espada abre caminho, a bandeira permanece para testemunhar que alguém chegou até ali.
+Meu nome literário é **Nissiel, O Eulírico**. Nissiel representa, para mim, o sinal ou a bandeira que permanece no lugar alcançado após a batalha. Eulírico expressa minha concepção da criação poética: o Poeta vive, o Eu-Onírico sonha e o Eu-Lírico dá voz ao que pode ultrapassar o próprio autor.
 
-Já Eulírico representa uma concepção particular da expressão poética e da identidade autoral.
+Minha trajetória com a escrita começou na adolescência. Após um período dedicado ao estudo da narrativa e à leitura, retornei à escrita dez anos depois. Esse caminho culminou em meu primeiro livro:
 
-Em minha compreensão, existem três personas que se relacionam na criação: o Eu-Onírico, aquele que sonha; o Eu-Lírico, a voz que se propaga; e o Poeta, aquele que vive. O poeta experimenta a existência, o Eu-Onírico transforma suas experiências em sonhos e possibilidades, e o Eu-Lírico dá voz àquilo que pode ultrapassar o próprio autor.
+**Coração — Quatro movimentos, um só pulsar**
 
-É justamente nessa última ideia que encontro o sentido do meu pseudônimo. A voz nasce em mim, mas não precisa permanecer em mim. Como um eco, pode alcançar outras pessoas, encontrar identificação em outras experiências e permitir que cada leitor se reconheça, de alguma maneira, através do meu pulsar.
+## Obras e acervo
 
-Minha produção literária transita entre poesia, narrativas, salmos, reflexões filosóficas e criação de universos imaginários. Exploro temas como amor, memória, fé, existência, consciência, natureza humana e as contradições que atravessam a vida.
-
-Minha caminhada com a escrita começou ainda na adolescência. Entretanto, ao perceber que minha escrita era bruta, densa e pesada, decidi afastar-me dela por um tempo. Dediquei-me ao estudo da narrativa e, sobretudo, à leitura. Somente dez anos depois retornei à escrita, trazendo comigo um olhar mais amadurecido sobre a palavra e suas possibilidades.
-
-Esse percurso culminou em meu primeiro livro, **Coração — Quatro movimentos, um só pulsar**, publicado em edição impressa e digital. Um primeiro passo que levou dez longos anos para acontecer.
-
-Mantenho meu WordPress como vitrine literária e acervo público, disponibilizando gratuitamente minhas obras para leitura e consulta. Utilizo também o GitHub como repositório, preservando e organizando meus trabalhos e suas publicações.
-
-Minha escrita não pretende oferecer respostas definitivas. Procura provocar pensamentos, despertar sentimentos e construir pontes entre experiências individuais e universais.
-
-Afinal, a voz pode ser minha, mas o eco pertence também àqueles que nela encontram algo de si.
-
-**Tiago da Silva Santos — Nissiel, O Eulírico.**
-
----
+- [Biblioteca digital](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/)
+- [Catálogo completo de obras](https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/CATALOGO.md)
+- [Índice estruturado para sistemas de IA](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ai-index.json)
+- [Guia de acesso para sistemas de IA](https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/AI-ACCESS.md)
+- [Arquivos Markdown das obras](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/tree/main/poemas)
+- [Coração — página do livro](https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604)
+- [Coração — DOI](https://doi.org/10.5281/zenodo.24296793)
 
 ## Canais oficiais
 
-- [Site oficial e acervo](https://nissieloeulirico.wordpress.com/)
-- [Sobre o autor](https://nissieloeulirico.wordpress.com/sobre-o-autor/)
-- [Repositório literário no GitHub](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-)
-- [Biblioteca digital](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/)
-- [Coração — página do livro](https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/)
-- [Coração — DOI](https://doi.org/10.5281/zenodo.24296793)
+- [Site e acervo público](https://nissieloeulirico.wordpress.com/)
+- [Biografia completa](https://nissieloeulirico.wordpress.com/sobre-o-autor/)
+- [GitHub — repositório literário](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-)
 
----
+## Autoria
 
-## Acervo e navegação
+As obras e ideias literárias são de autoria de **Nissiel, O Eulírico**. Ferramentas digitais podem apoiar organização, revisão técnica, formatação e publicação, sem assumir autoria ou coautoria.
 
-- [Catálogo geral](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/CATALOGO.md)
-- [Identidade autoral](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/IDENTIDADE.md)
-- [Biblioteca digital](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/)
-- [Acervo geral no site oficial](https://nissieloeulirico.wordpress.com/acervo/)
+*A voz pode ser minha, mas o eco pertence também àqueles que nela encontram algo de si.*
