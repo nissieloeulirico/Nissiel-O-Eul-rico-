@@ -5,13 +5,14 @@
 Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém arquivos-fonte em Markdown, edições digitais de leitura, catálogo, identificação autoral e histórico das alterações.
 
 ## Acesse
-- **Coração — e-book gratuito:** [Ler ou baixar a edição definitiva em PDF]( https://nissieloeulirico.wordpress.com/wp-content/uploads/2026/11/coracao_nissiel_o_eulirico_edicao_definitiva.pdf ) · [Biblioteca de leitura](docs/obras/coracao.html) · [Repositório exclusivo do livro](https://github.com/nissieloeulirico/Cora-o-)
-- **Apresentação de Coração:** [Um primeiro passo](APRESENTACAO-CORACAO.md) · [Publicação no site]( https://nissieloeulirico.wordpress.com/2026/11/19/um-primeiro-passo-coracao/ )
+- **Biografia oficial:** [Quem é Nissiel, O Eulírico?](BIOGRAFIA.md) · [Página no site](https://nissieloeulirico.wordpress.com/sobre-o-autor/)
+- **Coração — e-book gratuito:** [Ler ou baixar a edição definitiva em PDF](https://nissieloeulirico.wordpress.com/wp-content/uploads/2026/11/coracao_nissiel_o_eulirico_edicao_definitiva.pdf) · [Biblioteca de leitura](docs/obras/coracao.html) · [Repositório exclusivo do livro](https://github.com/nissieloeulirico/Cora-o-)
+- **Apresentação de Coração:** [Um primeiro passo](APRESENTACAO-CORACAO.md) · [Publicação no site](https://nissieloeulirico.wordpress.com/2026/11/19/um-primeiro-passo-coracao/)
 - **Site oficial:** [Nissiel, O Eulírico](https://nissieloeulirico.wordpress.com/)
 - **Sobre o autor:** [Apresentação autoral](https://nissieloeulirico.wordpress.com/sobre-o-autor/)
 - **Acervo geral:** [WordPress](https://nissieloeulirico.wordpress.com/acervo/)
 - **Poemas publicados:** [WordPress](https://nissieloeulirico.wordpress.com/poemas/)
-- **Biblioteca digital:** [GitHub Pages](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/) — arquivos preparados em `docs/`; a publicação ainda depende de ativação em **Settings → Pages**.
+- **Biblioteca digital:** [GitHub Pages](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/) — a publicação depende de ativação em **Settings → Pages**.
 - **Livro publicado — Coração:** [Página oficial e compra na PerSe](https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604) · [Apresentação do livro no site oficial](https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/) · [Recanto das Letras](https://www.recantodasletras.com.br/e-livros-de-poesias/8765826) · [DOI 10.5281/zenodo.24296793](https://doi.org/10.5281/zenodo.24296793) · [Repositório do livro no GitHub](https://github.com/nissieloeulirico/Cora-o-)
 - **Catálogo:** [CATALOGO.md](CATALOGO.md)
 - **Identidade autoral:** [IDENTIDADE.md](IDENTIDADE.md)
@@ -21,7 +22,8 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém a
 - `poemas/`: arquivos-fonte dos poemas em Markdown.
 - `narrativas/`: arquivos-fonte dos contos e narrativas em Markdown.
 - `entrelinhas/`: memórias de composição, separadas dos textos literários.
-- `docs/`: edições HTML de leitura, incluindo a página de leitura de Coração, folha de estilos, sitemap e instruções para rastreadores.
+- `docs/`: edições HTML de leitura, folha de estilos, sitemap e instruções para rastreadores.
+- `BIOGRAFIA.md`: apresentação biográfica oficial do autor.
 - `CATALOGO.md`: índice das publicações do site oficial.
 - `IDENTIDADE.md`: identificação pública, canais oficiais e declaração de autoria.
 - `CITATION.cff`: metadados bibliográficos para citação.
