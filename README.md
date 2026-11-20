@@ -4,6 +4,12 @@
 
 Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém arquivos-fonte em Markdown, edições digitais de leitura, catálogo, identificação autoral e histórico das alterações.
 
+## Acesso para leitores e sistemas de IA
+- **Guia de acesso para IA:** [AI-ACCESS.md](AI-ACCESS.md)
+- **Índice estruturado das obras:** [ai-index.json](docs/ai-index.json)
+- **Índice de leitura para modelos:** [llms.txt](llms.txt)
+- **Modelo de perfil público do GitHub:** [PROFILE-README.md](PROFILE-README.md)
+
 ## Acesse
 - **Biografia oficial:** [Quem é Nissiel, O Eulírico?](BIOGRAFIA.md) · [Página no site](https://nissieloeulirico.wordpress.com/sobre-o-autor/)
 - **Coração — e-book gratuito:** [Ler ou baixar a edição definitiva em PDF](https://nissieloeulirico.wordpress.com/wp-content/uploads/2026/11/coracao_nissiel_o_eulirico_edicao_definitiva.pdf) · [Biblioteca de leitura](docs/obras/coracao.html) · [Repositório exclusivo do livro](https://github.com/nissieloeulirico/Cora-o-)
