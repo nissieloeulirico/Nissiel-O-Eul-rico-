@@ -9,7 +9,8 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
 **Sobre o autor:** https://nissieloeulirico.wordpress.com/sobre-o-autor/  
 **Acervo geral:** https://nissieloeulirico.wordpress.com/acervo/  
 **Repositório:** https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-  
-**Biblioteca digital:** https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ (publicação GitHub Pages ainda depende da ativação em Settings → Pages).
+**Biblioteca digital:** https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ (a publicação depende da ativação em Settings → Pages).  
+**Guia de acesso para IA:** [AI-ACCESS.md](AI-ACCESS.md) · **Índice estruturado:** [docs/ai-index.json](docs/ai-index.json) · **llms.txt:** [llms.txt](llms.txt).
 
 > **Estado documental:** o catálogo reúne as publicações listadas no site. Os arquivos-fonte Markdown e as edições HTML correspondentes estão organizados neste repositório; as demais publicações permanecem ligadas às suas páginas oficiais no WordPress.
 
