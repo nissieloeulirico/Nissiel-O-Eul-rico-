@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "DataCatalog",
   "name": "Acervo literário de Nissiel, O Eulírico",
-  "description": "Índice de obras literárias autorais de Tiago da Silva Santos, publicadas sob o pseudônimo Nissiel, O Eulírico.",
+  "description": "Índice de obras literárias autorais de Tiago da Silva Santos, publicadas sob o pseudônimo Nissiel, O Eulírico. Inclui poemas, salmos, narrativas, bestiário, ensaios e livro.",
   "creator": {
     "@type": "Person",
     "name": "Nissiel, O Eulírico",
@@ -11,467 +11,364 @@
   },
   "inLanguage": "pt-BR",
   "url": "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ai-index.json",
-  "distribution": [
+  "hasPart": [
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "VENDE-SE UM CORAÇÃO",
-      "encodingFormat": "text/markdown",
       "genre": "poema",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/vende-se-um-coracao.md",
+      "inLanguage": "pt-BR",
+      "url": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/vende-se-um-coracao.md",
+      "encodingFormat": "text/markdown",
       "sameAs": [
         "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/vende-se-um-coracao.html",
         "https://nissieloeulirico.wordpress.com/2026/10/28/vende-se-um-coracao/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/vende-se-um-coracao.md"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "Markdown source available"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "…Em Branco",
-      "encodingFormat": "text/markdown",
       "genre": "poema",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/em-branco.md",
+      "inLanguage": "pt-BR",
+      "url": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/em-branco.md",
+      "encodingFormat": "text/markdown",
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/28/em-branco/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/em-branco.md"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "Markdown source available"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "O Guerreiro Ferido",
-      "encodingFormat": "text/markdown",
       "genre": "poema",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/guerreiro-ferido.md",
+      "inLanguage": "pt-BR",
+      "url": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/guerreiro-ferido.md",
+      "encodingFormat": "text/markdown",
       "sameAs": [
         "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/guerreiro-ferido.html",
         "https://nissieloeulirico.wordpress.com/2026/10/28/guerreiro-ferido/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/guerreiro-ferido.md"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "Markdown source available"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "A Dama dos Espinhos",
-      "encodingFormat": "text/markdown",
       "genre": "poema",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/a-dama-dos-espinhos.md",
+      "inLanguage": "pt-BR",
+      "url": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/a-dama-dos-espinhos.md",
+      "encodingFormat": "text/markdown",
       "sameAs": [
         "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/a-dama-dos-espinhos.html",
         "https://nissieloeulirico.wordpress.com/2026/10/28/a-dama-dos-espinhos/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/a-dama-dos-espinhos.md"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "Markdown source available"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Raio de Sol",
-      "encodingFormat": "text/markdown",
       "genre": "poema",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/raio-de-sol.md",
+      "inLanguage": "pt-BR",
+      "url": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/raio-de-sol.md",
+      "encodingFormat": "text/markdown",
       "sameAs": [
         "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/raio-de-sol.html",
         "https://nissieloeulirico.wordpress.com/2026/10/28/raio-de-sol/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/raio-de-sol.md"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "Markdown source available"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Anjo Rebelde",
-      "encodingFormat": "text/html",
       "genre": "poema",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://nissieloeulirico.wordpress.com/2026/10/28/anjo-rebelde/",
+      "inLanguage": "pt-BR",
+      "url": "https://nissieloeulirico.wordpress.com/2026/10/28/anjo-rebelde/",
+      "encodingFormat": "text/html",
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/28/anjo-rebelde/"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "WordPress publication is the current public reference"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "26-25=1",
-      "encodingFormat": "text/markdown",
       "genre": "poema",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/26-25-1.md",
+      "inLanguage": "pt-BR",
+      "url": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/26-25-1.md",
+      "encodingFormat": "text/markdown",
       "sameAs": [
         "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/26-25-1.html",
         "https://nissieloeulirico.wordpress.com/2026/10/28/26-251/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/26-25-1.md"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "Markdown source available"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Luz Prateada",
-      "encodingFormat": "text/markdown",
       "genre": "poema",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/luz-prateada.md",
+      "inLanguage": "pt-BR",
+      "url": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/luz-prateada.md",
+      "encodingFormat": "text/markdown",
       "sameAs": [
         "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/luz-prateada.html",
         "https://nissieloeulirico.wordpress.com/2026/10/29/luz-prateada/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/luz-prateada.md"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "Markdown source available"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Grãos de Vidro",
-      "encodingFormat": "text/markdown",
       "genre": "poema",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/graos-de-vidro.md",
+      "inLanguage": "pt-BR",
+      "url": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/graos-de-vidro.md",
+      "encodingFormat": "text/markdown",
       "sameAs": [
         "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/graos-de-vidro.html",
         "https://nissieloeulirico.wordpress.com/2026/10/31/graos-de-vidro/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/graos-de-vidro.md"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "Markdown source available"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Dai-me o Teu… e o meu te darei.",
-      "encodingFormat": "text/html",
       "genre": "poema",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://nissieloeulirico.wordpress.com/2026/10/31/dai-me-o-teu/",
+      "inLanguage": "pt-BR",
+      "url": "https://nissieloeulirico.wordpress.com/2026/10/31/dai-me-o-teu/",
+      "encodingFormat": "text/html",
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/31/dai-me-o-teu/"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "WordPress publication is the current public reference"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Im-Perfeição",
-      "encodingFormat": "text/html",
       "genre": "poema",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://nissieloeulirico.wordpress.com/2026/10/31/im-perfeicao/",
+      "inLanguage": "pt-BR",
+      "url": "https://nissieloeulirico.wordpress.com/2026/10/31/im-perfeicao/",
+      "encodingFormat": "text/html",
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/31/im-perfeicao/"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "WordPress publication is the current public reference"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Borboletinha",
-      "encodingFormat": "text/markdown",
       "genre": "poema",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/borboletinha.md",
+      "inLanguage": "pt-BR",
+      "url": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/borboletinha.md",
+      "encodingFormat": "text/markdown",
       "sameAs": [
         "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/borboletinha.html",
         "https://nissieloeulirico.wordpress.com/2026/11/09/a-borboleta/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/borboletinha.md"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "Markdown source available"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "SALMO DE NISSIEL",
-      "encodingFormat": "text/html",
       "genre": "salmo",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/",
+      "inLanguage": "pt-BR",
+      "url": "https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/",
+      "encodingFormat": "text/html",
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "WordPress publication is the current public reference"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Era Uma Vez...",
-      "encodingFormat": "text/markdown",
       "genre": "narrativa",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/narrativas/era-uma-vez.md",
+      "inLanguage": "pt-BR",
+      "url": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/narrativas/era-uma-vez.md",
+      "encodingFormat": "text/markdown",
       "sameAs": [
         "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/era-uma-vez.html",
         "https://nissieloeulirico.wordpress.com/2026/10/29/era-um-vez/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/narrativas/era-uma-vez.md"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "Markdown source available"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "O Odre",
-      "encodingFormat": "text/html",
       "genre": "narrativa",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://nissieloeulirico.wordpress.com/2026/10/28/o-odre/",
+      "inLanguage": "pt-BR",
+      "url": "https://nissieloeulirico.wordpress.com/2026/10/28/o-odre/",
+      "encodingFormat": "text/html",
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/28/o-odre/"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "WordPress publication is the current public reference"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Vespergon",
-      "encodingFormat": "text/html",
       "genre": "bestiário",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://nissieloeulirico.wordpress.com/2026/11/02/vespergon/",
+      "inLanguage": "pt-BR",
+      "url": "https://nissieloeulirico.wordpress.com/2026/11/02/vespergon/",
+      "encodingFormat": "text/html",
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/02/vespergon/"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "WordPress publication is the current public reference"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Agra Imperial",
-      "encodingFormat": "text/html",
       "genre": "bestiário",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://nissieloeulirico.wordpress.com/2026/11/02/agra-imperial/",
+      "inLanguage": "pt-BR",
+      "url": "https://nissieloeulirico.wordpress.com/2026/11/02/agra-imperial/",
+      "encodingFormat": "text/html",
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/02/agra-imperial/"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "WordPress publication is the current public reference"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Agra Abzinta",
-      "encodingFormat": "text/html",
       "genre": "bestiário",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://nissieloeulirico.wordpress.com/2026/11/02/agra-abzinta/",
+      "inLanguage": "pt-BR",
+      "url": "https://nissieloeulirico.wordpress.com/2026/11/02/agra-abzinta/",
+      "encodingFormat": "text/html",
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/02/agra-abzinta/"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "WordPress publication is the current public reference"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Subplupação: o nascimento de novas estruturas a partir das relações",
-      "encodingFormat": "text/html",
       "genre": "ensaio",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://nissieloeulirico.wordpress.com/2026/11/08/subplupacao/",
+      "inLanguage": "pt-BR",
+      "url": "https://nissieloeulirico.wordpress.com/2026/11/08/subplupacao/",
+      "encodingFormat": "text/html",
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/08/subplupacao/"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "WordPress publication is the current public reference"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Qual o Objetivo da Verdade?",
-      "encodingFormat": "text/html",
       "genre": "reflexão",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://nissieloeulirico.wordpress.com/2026/11/08/qual-o-objetivo-da-verdade/",
+      "inLanguage": "pt-BR",
+      "url": "https://nissieloeulirico.wordpress.com/2026/11/08/qual-o-objetivo-da-verdade/",
+      "encodingFormat": "text/html",
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/08/qual-o-objetivo-da-verdade/"
-      ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "WordPress publication is the current public reference"
-        }
       ]
     },
     {
-      "@type": "DataDownload",
+      "@type": "CreativeWork",
       "name": "Coração — Quatro movimentos, um só pulsar",
-      "encodingFormat": "text/html",
       "genre": "livro",
-      "creator": {
+      "author": {
         "@type": "Person",
-        "name": "Nissiel, O Eulírico"
+        "name": "Nissiel, O Eulírico",
+        "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
-      "contentUrl": "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/coracao.html",
+      "inLanguage": "pt-BR",
+      "url": "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/coracao.html",
+      "encodingFormat": "text/html",
       "sameAs": [
         "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/coracao.html",
         "https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/"
       ],
-      "additionalProperty": [
-        {
-          "@type": "PropertyValue",
-          "name": "sourceAvailability",
-          "value": "HTML edition available"
-        }
-      ]
+      "identifier": "https://doi.org/10.5281/zenodo.24296793",
+      "bookFormat": "https://schema.org/EBook"
     }
   ]
 }
