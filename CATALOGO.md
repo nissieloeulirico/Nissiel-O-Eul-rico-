@@ -149,7 +149,7 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
 ## 8. Obras publicadas em outras plataformas
 
 **Coração — Quatro movimentos, um só pulsar**  
-Livro de poesia de **Nissiel, O Eulírico**, publicado em edição impressa e e-book pela [PerSe — página oficial e compra](https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604).  
+Livro de poesia de **Nissiel, O Eulírico**, publicado em edição impressa e e-book pela [PerSe — página oficial e compra](https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604). A edição definitiva integral também está disponível gratuitamente em [PDF para leitura e download](https://nissieloeulirico.wordpress.com/wp-content/uploads/2026/11/coracao_nissiel_o_eulirico_edicao_definitiva.pdf).  
 Página de apresentação no site do autor: [Coração — Livro de Nissiel, O Eulírico](https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/).  
 Outras referências: [Recanto das Letras](https://www.recantodasletras.com.br/e-livros-de-poesias/8765826) · [DOI 10.5281/zenodo.24296793](https://doi.org/10.5281/zenodo.24296793) · [Registro no Zenodo](https://zenodo.org/records/24296793).  
 Dados da edição PerSe: 109 páginas. Estado: publicado e disponível em formatos impresso e digital.
