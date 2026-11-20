@@ -1,101 +1,81 @@
-# A Dama Dos Espinhos
+# A DAMA DOS ESPINHOS
 
-*¹ Em certo jardim, enfeitado por inúmeras flores,*
-*uma formosa rosa nasceu*
-*com um grande sorriso no rosto.*
+## SUBPLUPAÇÃO ⅓
 
-*² Sorriso esse que metade do jardim encantava,*
-*enquanto a outra metade perturbava.*
+### Vesmência ¹
 
-*³ Para uns, era como o sol nascente,*
-*o primeiro raio de luz que iluminava seus dias,*
-*a esperança do mundo que, na formosura*
-*de suas pétalas, escondida permanecia.*
+¹ Em certo jardim, enfeitado por inúmeras flores, uma formosa rosa nasceu com um grande sorriso no rosto.
 
-*⁴ Trazendo paz, esperança e luz,*
-*como o sol que, ao amanhecer, conduz.*
-*E, no desabrochar de suas pétalas,*
-*liam a promessa de um mundo melhor,*
-*sem pranto, tristeza ou dores.*
+² Sorriso esse que metade do jardim encantava, enquanto a outra metade perturbava.
 
-*⁵ Para outros, era a fria escuridão da noite que caía,*
-*assombrando suas vidas com demônios ocultos,*
-*um ar noturno de puro sadismo e orgulho*
-*que em seus espinhos se mantinha.*
+### Vesmência ²
 
-*⁶ Viam malícia em seus espinhos,*
-*em sua presença, uma mórbida brisa cruel,*
-*e diziam que seu sorriso brilhante*
-*zombava dos céus.*
+³ Para uns, era como o sol nascente, o primeiro raio de luz que iluminava seus dias, a esperança do mundo que, na formosura de suas pétalas, escondida permanecia.
 
-*⁷ Todavia, poucos podiam ver que, na verdade,*
-*o brilhante sorriso era uma máscara,*
-*pois, ocultas na beleza de suas pétalas,*
-*as lágrimas rolavam:*
-*lágrimas escarlates, de puro sangue,*
-*que a formosa rosa, à espera de seu amor, chorava.*
+⁴ Trazendo paz, esperança e luz, como o sol que, ao amanhecer, conduz. E, no desabrochar de suas pétalas, liam a promessa de um mundo melhor, sem pranto, tristeza ou dores.
 
-*⁸ Chora, ó rosa, chora,*
-*pois, por tuas pétalas, o ar da vida*
-*atravessa as flores e as faz respirar.*
+### Vesmência ³
 
-*⁹ Oh, por que no fim do jardim vieste a nascer?*
-*Hás de às outras flores te igualar?*
+⁵ Para outros, era a fria escuridão da noite que caía, assombrando suas vidas com demônios ocultos, um ar noturno de puro sadismo e orgulho que em seus espinhos se mantinha.
 
-*¹⁰ Eis que desabrochas,*
-*te fechas e tornas a florir,*
-*mas, quando tuas pétalas se recolhem,*
-*os espinhos continuam ali.*
+⁶ Viam malícia em seus espinhos, em sua presença, uma mórbida brisa cruel, e diziam que seu sorriso brilhante zombava dos céus.
 
-*¹¹ Chora, ó rosa, chora,*
-*e tuas forças hão de voltar,*
-*pois, enquanto todos dormem,*
-*tu, em teu próprio interior,*
-*calada, te recolhes.*
-*Mas dos espinhos não podes te livrar.*
+### Vesmência ⁴
 
-*¹² Será que teu amor virá?*
-*Será que a voz do jardim*
-*ele conseguirá superar?*
+⁷ Todavia, poucos podiam ver que, na verdade, o brilhante sorriso era uma máscara, pois, ocultas na beleza de suas pétalas, as lágrimas rolavam: lágrimas escarlates, de puro sangue, que a formosa rosa, à espera de seu amor, chorava.
 
-*¹³ Será que, ao tocar-te,*
-*sentiria tuas pétalas*
-*além daquilo que fere?*
+---
 
-*¹⁴ Será que, ao machucar-se, *
-*ainda veria a rosa na mão*
-*ou veria apenas os espinhos cravados na carne *
-*e o sangue a cair no chão?*
+## SUBPLUPAÇÃO ⅔
 
-*¹⁵ Quem te amará,*
-*se, antes de se aproximar,*
-*já decidiu quem tu és,*
-*sem sequer ouvir*
-*teu coração a palpitar?*
+### Vesmência ¹
 
-*¹⁶ Quem disse que és indigna de amor?*
+⁸ Chora, ó rosa, chora, pois, por tuas pétalas, o ar da vida atravessa as flores e as faz respirar.
 
-*¹⁷ Quem, pelos espinhos,*
-*definiu o teu valor?*
+⁹ Oh, por que no fim do jardim vieste a nascer? Hás de às outras flores te igualar?
 
-*¹⁸ No fim de um jardim, enfeitado por inúmeras cores,*
-*eis que sorri uma rosa,*
-*escondendo a vergonha de seus espinhos*
-*e o segredo de suas dores.*
+### Vesmência ²
 
-*¹⁹ E, quando a noite vem envolvê-la,*
-*as lágrimas fogem de seu interior,*
-*enquanto aguarda um amor*
+¹⁰ Eis que desabrochas, te fechas e tornas a florir, mas, quando tuas pétalas se recolhem, os espinhos continuam ali.
 
-*²⁰ que talvez…*
+¹¹ Chora, ó rosa, chora, e tuas forças hão de voltar, pois, enquanto todos dormem, tu, em teu próprio interior, calada, te recolhes. Mas dos espinhos não podes te livrar.
 
-*nunca venha a conhecer.*
+### Vesmência ³
 
-*²¹ Ai de ti, ó bela rosa!*
+¹² Será que teu amor virá? Será que a voz do jardim ele conseguirá superar?
 
-*²² Por que dizem que, para seres digna do amor,*
-*Por toda a tua vida, merecedora tens de te tornar.*
+¹³ Será que, ao tocar-te, sentiria tuas pétalas além daquilo que fere?
 
-*²³ Chora, oh rosa, chora*
-*Pois se não forem teus olhos*
-*Quem o jardim há de regar.*
+¹⁴ Será que, ao machucar-se, ainda veria a rosa na mão ou veria apenas os espinhos cravados na carne e o sangue a cair no chão?
+
+### Vesmência ⁴
+
+¹⁵ Quem te amará, se, antes de se aproximar, já decidiu quem tu és, sem sequer ouvir teu coração a palpitar?
+
+¹⁶ Quem disse que és indigna de amor?
+
+¹⁷ Quem, pelos espinhos, definiu o teu valor?
+
+---
+
+## SUBPLUPAÇÃO 1
+
+### Vesmência ¹
+
+¹⁸ No fim de um jardim, enfeitado por inúmeras cores, eis que sorri uma rosa, escondendo a vergonha de seus espinhos e o segredo de suas dores.
+
+¹⁹ E, quando a noite vem envolvê-la, as lágrimas fogem de seu interior, enquanto aguarda um amor
+
+²⁰ que talvez…
+
+nunca venha a conhecer.
+
+### Vesmência ²
+
+²¹ Ai de ti, ó bela rosa!
+
+²² Por que dizem que, para seres digna do amor, por toda a tua vida, merecedora tens de te tornar?
+
+### Vesmência ³
+
+²³ Chora, ó rosa, chora, pois, se não forem teus olhos, quem o jardim há de regar?
