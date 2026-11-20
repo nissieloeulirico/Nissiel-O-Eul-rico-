@@ -2,7 +2,9 @@
 
 *Conto · Nissiel, O Eulírico*
 
-## TEMPO 1
+## SUBPLUPAÇÃO ¼
+
+### Vesmência ¹
 
 *¹ Era uma vez um mundo belo, florido e cantante…*
 
@@ -12,9 +14,13 @@
 
 *⁴ Ali não havia noite. Nem mesmo dia. A claridade era eterna. Ninguém dormia.*
 
+### Vesmência ²
+
 *⁵ No clima quentinho e confortável, corças e coelhos corriam, saltavam, brincavam, sem pensar no amanhã…*
 
 *⁶ Ah! É mesmo. Que cabeça a minha! O amanhã não existia.*
+
+### Vesmência ³
 
 *⁷ Era uma terra tão bela de se olhar, que até a própria beleza se punha a admirar.*
 
@@ -26,17 +32,23 @@
 
 *¹¹ Por medo do desconhecido, jamais era lembrada entre os seres vivos.*
 
-## TEMPO 2
+## SUBPLUPAÇÃO ⅓
+
+### Vesmência ¹
 
 *²⁴ Ao sopro de uma brisa quente (e depois ao da fria), ergueu-se o grito da mamãe cervo.*
 
 *²³ Chamava pelo filho desaparecido, enquanto seus gritos pelo vento eram conduzidos. Mais um sumido?*
+
+### Vesmência ²
 
 *²² – Eu o vi passeando perto da caverna – sussurrou uma voz na relva.*
 
 *²¹ – Quem disse isso? – perguntou o curioso Ítalo.*
 
 *²⁰ O farfalhar da grama foi tudo o que se ouviu. Todavia, foi rompido pelo estalar de galhos.*
+
+### Vesmência ³
 
 *¹⁹ Os passos da mãe se apressaram, enquanto os demais familiares, tentando contê-la, de vista a perdiam.*
 
@@ -46,11 +58,15 @@
 
 *¹⁶ – CUSPA MEU FILHO!!!*
 
+### Vesmência ⁴
+
 *¹⁵ A velha caverna respondeu, calma:*
 
 *¹⁴ – Não está comigo, nobre senhora. O perigo não está em mim, mas em vosso meio jaz escondido. Anda sob a luz, de modo que, ofuscando vossa visão, não pode ser visto. Na vossa beleza passa despercebido. Refugia-se em mim apenas para descanso, pois vossos olhos, pelo cansaço, estão confundidos.*
 
 *¹³ – Espera… Cadê o Ítalo? – um familiar sussurrou, mas passou despercebido.*
+
+### Vesmência ⁵
 
 *¹² – MENTIRA! NÓS NOS CONHECEMOS! SÓ ME DIGA ONDE ESTÁ MEU FILHO!*
 
@@ -59,6 +75,8 @@
 *¹⁰ A mamãe desabou, pois nunca mais poderia chamar o nome de seu filho.*
 
 *⁹ Mais uma ausência. Mais uma criança. Que a velha e feia caverna levara – e não há de voltar.*
+
+### Vesmência ⁶
 
 *⁸ Reuniram-se diante dela para o julgamento.*
 
@@ -76,13 +94,19 @@
 
 *¹ Mesmo assim, os sumiços prosseguiam, e as carcaças mortas se escondiam, alimentando a vasta beleza que enfeitava aquele vasto mundo de ilusão.*
 
-## TEMPO 3
+## SUBPLUPAÇÃO ½
+
+### Vesmência ¹
 
 *¹ Um dente-de-leão balançou com o vento. Um pequeno talo desprendeu-se e foi levado, contra a vontade, para a boca da caverna morta.*
 
 *² Resistindo à brisa que o levava, o jovem dente-de-leão começou a gritar por seus irmãos. Todavia, temerosos, aqueles que com ele se aconchegavam fingiram não ouvir. E o pequeno sumiu na vazia imensidão.*
 
+### Vesmência ²
+
 *³ Adentrando a fria escuridão, o pequeno dente-de-leão, com o coração na mão, silenciou-se com medo de despertar os tais ditos demônios. E, cansado de lutar contra o vento, deixou-se conduzir a observar. A luz do lado de fora foi ficando distante, até se dissipar. Passando por dentro da caverna, ouviu o tímido rugido de um leão a acordar. A fera peluda se ergueu e, em direção de onde ele viera, pôs-se a caminhar.*
+
+### Vesmência ³
 
 *⁴ Mais adiante, passou por cristais que enfeitavam o interior da feia e velha caverna. Uma beleza maior que a do mundo lá fora dormia juntamente com o perigo, dentro dela.*
 
@@ -90,25 +114,35 @@
 
 *⁶ Mais adiante, sua visão foi ofuscada por uma nova luz intensa no fim do túnel. Foi então que o pequeno dente-de-leão descobriu um novo mundo.*
 
+### Vesmência ⁴
+
 *⁷ Um mundo feio, cru. Velho. Fedorento. Frio e quente ao mesmo tempo. Onde animais devoravam animais. E até mesmo gente matava gente. Sem um rei certo. Cheio de leis, máscaras e diferentes regentes.*
 
 *⁸ Após presenciar tudo isso, o dia foi engolido pela noite. E o cansaço, pela primeira vez, lhe bateu. Adormecendo, o pequeno dente-de-leão, com suavidade, pendeu. Frente ao cansaço, pela escuridão foi amparado. E ali, como uma criança recém-nascida, no seio daquela de coração perfurado, estava seguro… Bem guardado.*
+
+### Vesmência ⁵
 
 *⁹ O dia que outrora havia sido devorado engoliu a noite de dentro para fora. Um novo ciclo se iniciava a partir de agora. E Dentinho não se perdeu, pois a boca da velha caverna estava bem às suas costas.*
 
 *¹⁰ Ao despertar, pelo irmão gêmeo do vento, Dentinho de volta foi conduzido. De mente, corpo e alma limpos. Revigorado. Revivido. Pois, pela primeira vez, havia dormido.*
 
+### Vesmência ⁶
+
 *¹¹ Dentro da caverna, novamente ouviu, dos mortos, o inesquecível rugido. E assim, seguindo o assassino, o jovem dente-de-leão ao seu mundo foi restituído.*
 
 *¹² Pois eis que a memória das vítimas sobrevive onde a memória dos sobreviventes vem a se apagar.*
 
-## TEMPO 4
+## SUBPLUPAÇÃO 1
+
+### Vesmência ¹
 
 *²³ A verdade havia retornado. O perigo, entretanto, nunca havia partido. Enquanto todos admiravam a relva, algo nela continuava faminto.*
 
 *²² A beleza, como sempre, tinha outras coisas a esconder. Sob a relva verdejante, os mortos continuavam a servir de alimento à vida que florescia.*
 
 *²¹ E a cena seguinte não foi nada bonita. Mas, diante de tamanha formosura, quem haveria de perceber?*
+
+### Vesmência ²
 
 *²⁰ Todavia Dentinho viu o que não podia desver, pois, ainda assim, ao menos o último fragmento, o fim da história haveria de dizer:*
 
@@ -120,11 +154,15 @@
 
 *¹⁶ Uma fera. Dois pratos.*
 
+### Vesmência ³
+
 *¹⁵ O jovem, que o novo mundo havia descoberto, correu para contar a seus irmãos. Depois contou ao povo e espalhou na nação.*
 
 *¹⁴ Até que tal aventura pelo rei do antigo mundo foi ouvida.*
 
 *¹³ Convocado à presença real, Dentinho foi, com grande empolgação, contou tudo o que tinha visto, ouvido e vivido. Inocentando a caverna. Dando veracidade à voz daquela que morreu sozinha. Dando importância às sombras tão temidas.*
+
+### Vesmência ⁴
 
 *¹² – É verdade? – perguntou o rei aos irmãos.*
 
@@ -142,10 +180,14 @@
 
 *⁵ Enquanto o felino, devido à sua imensa beleza, era coroado como novo rei. Novo deus daquele mundo.*
 
+### Vesmência ⁵
+
 *⁴ E assim, com suas mentes cansadas, até hoje aquele povo é extinto. E entre bocas que se abrem e vozes que foram caladas, somente duas almas escaparam de serem consumidas nessa história amarga. Pois até mesmo aquele que foi devorado, foi devorado pela beleza que o ocultara.*
 
 *³ Por medo do escuro.*
 
 *² Que pelos vivos foi esquecido. Aquele povo, de um em um, foi sumindo.*
+
+### Vesmência ⁶
 
 *¹ Era uma vez um jovem dente-de-leão que, por tentar trazer escuridão e feiura ao seu mundo bonito, à guilhotina, pelo sangue do seu sangue, foi conduzido.*
