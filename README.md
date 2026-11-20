@@ -5,7 +5,8 @@
 Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém arquivos-fonte em Markdown, edições digitais de leitura, catálogo, identificação autoral e histórico das alterações.
 
 ## Acesse
-- **Apresentação de Coração:** [Um primeiro passo](APRESENTACAO-CORACAO.md) · [Publicação no site](https://nissieloeulirico.wordpress.com/2026/11/19/um-primeiro-passo-coracao/)
+- **Coração — e-book gratuito:** [Ler ou baixar a edição definitiva em PDF]( https://nissieloeulirico.wordpress.com/wp-content/uploads/2026/11/coracao_nissiel_o_eulirico_edicao_definitiva.pdf ) · [Biblioteca de leitura](docs/obras/coracao.html) · [Repositório exclusivo do livro](https://github.com/nissieloeulirico/Cora-o-)
+- **Apresentação de Coração:** [Um primeiro passo](APRESENTACAO-CORACAO.md) · [Publicação no site]( https://nissieloeulirico.wordpress.com/2026/11/19/um-primeiro-passo-coracao/ )
 - **Site oficial:** [Nissiel, O Eulírico](https://nissieloeulirico.wordpress.com/)
 - **Sobre o autor:** [Apresentação autoral](https://nissieloeulirico.wordpress.com/sobre-o-autor/)
 - **Acervo geral:** [WordPress](https://nissieloeulirico.wordpress.com/acervo/)
@@ -20,8 +21,8 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém a
 - `poemas/`: arquivos-fonte dos poemas em Markdown.
 - `narrativas/`: arquivos-fonte dos contos e narrativas em Markdown.
 - `entrelinhas/`: memórias de composição, separadas dos textos literários.
-- `docs/`: nove edições HTML de leitura, folha de estilos, sitemap e instruções para rastreadores.
-- `CATALOGO.md`: índice das 21 publicações do site oficial, com distinção entre fontes presentes e publicações externas.
+- `docs/`: edições HTML de leitura, incluindo a página de leitura de Coração, folha de estilos, sitemap e instruções para rastreadores.
+- `CATALOGO.md`: índice das publicações do site oficial.
 - `IDENTIDADE.md`: identificação pública, canais oficiais e declaração de autoria.
 - `CITATION.cff`: metadados bibliográficos para citação.
 - `llms.txt`: orientação legível por sistemas de IA.
@@ -29,29 +30,9 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém a
 ## Critérios do acervo
 - Os arquivos Markdown existentes são as fontes textuais de referência para as obras correspondentes.
 - As páginas HTML em `docs/` são edições de leitura derivadas dessas fontes.
-- Para obras ainda não espelhadas no repositório, a publicação WordPress indicada no catálogo é a referência pública.
+- O e-book integral de Coração é disponibilizado gratuitamente em PDF no endereço público indicado acima.
 - A autoria das obras e ideias pertence a **Nissiel, O Eulírico**. Ferramentas digitais podem apoiar organização e publicação, sem assumir coautoria.
 - Alterações devem preservar a integridade do texto e permanecer registradas no histórico de commits.
-
-## Estrutura atual
-```text
-.
-├── CATALOGO.md
-├── CITATION.cff
-├── IDENTIDADE.md
-├── PROFILE-README.md
-├── README.md
-├── llms.txt
-├── poemas/
-├── entrelinhas/
-└── docs/
-    ├── index.html
-    ├── assets/style.css
-    ├── obras/
-    ├── llms.txt
-    ├── robots.txt
-    └── sitemap.xml
-```
 
 **Autor:** Nissiel, O Eulírico  
 **Idioma principal:** português brasileiro (pt-BR)  
