@@ -1,18 +1,33 @@
 # Nissiel, O Eulírico
 
-## Identidade e biografia
-- Nome civil: Tiago da Silva Santos.
-- Nome autoral: Nissiel, O Eulírico.
-- Atuação: escritor independente, filósofo, poeta e pensador brasileiro.
-- Nascimento: 16 de abril de 2000, em Sergipe, Brasil.
+> Acervo literário autoral de Tiago da Silva Santos, publicado sob o pseudônimo Nissiel, O Eulírico. Escritor independente, filósofo, poeta e pensador brasileiro. Idioma: português brasileiro (pt-BR).
+
+## Comece por aqui
+- Guia para sistemas de IA: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/AI-ACCESS.md
+- Índice estruturado de obras: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ai-index.json
+- Catálogo geral: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/CATALOGO.md
 - Biografia oficial: https://nissieloeulirico.wordpress.com/sobre-o-autor/
-- Biografia nesta biblioteca: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/sobre-o-autor.html
-- Biografia em Markdown: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/BIOGRAFIA.md
+- Biografia em Markdown: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/BIOGRAFIA.md
 
 ## Fontes oficiais
 - Site: https://nissieloeulirico.wordpress.com/
 - Acervo geral: https://nissieloeulirico.wordpress.com/acervo/
-- Catálogo: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/CATALOGO.md
+- Poemas: https://nissieloeulirico.wordpress.com/poemas/
+- Salmos: https://nissieloeulirico.wordpress.com/salmos/
+- Narrativas: https://nissieloeulirico.wordpress.com/narrativas/
+- Bestiário: https://nissieloeulirico.wordpress.com/bestiario/
+- Escritos: https://nissieloeulirico.wordpress.com/escritos/
+- Entrelinhas: https://nissieloeulirico.wordpress.com/entrelinhas/
 - Repositório: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
+- Biblioteca digital: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
+
+## Publicação de referência
+- Livro: Coração — Quatro movimentos, um só pulsar.
+- Página do livro: https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/
+- PDF integral: https://nissieloeulirico.wordpress.com/wp-content/uploads/2026/11/coracao_nissiel_o_eulirico_edicao_definitiva.pdf
+- DOI: https://doi.org/10.5281/zenodo.24296793
+
+## Acesso por máquina
+Prefira o arquivo Markdown bruto quando listado no índice JSON. Use as páginas HTML para leitura e metadados Schema.org. Para obras sem fonte no GitHub, use a URL WordPress individual indicada no catálogo.
 
 As obras e ideias literárias são de autoria de Nissiel, O Eulírico. Ferramentas digitais podem apoiar organização, revisão técnica, formatação e publicação, mas não são autoras nem coautoras.
