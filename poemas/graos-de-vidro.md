@@ -1,5 +1,11 @@
 # Grãos de Vidro
 
+## SUBPLUPAÇÃO ¼
+
+### Vesmência ¹
+
+*A primeira exaustão e o desejo de desaparecer*
+
 *¹ Nasce o sol,
 e põe-se a deitar sobre o mar.*
 
@@ -34,6 +40,10 @@ Não quero quase nada…*
 *Apenas que minha existência
 seja apagada.*
 
+### Vesmência ²
+
+*A invocação da morte e a resistência da esperança*
+
 *⁹ Vem, Tânatos, ceifa minha alma.*
 
 *¹⁰ Vinde, Azrael,
@@ -63,6 +73,10 @@ que com a esperança me laça e amarra,
 pois, diante dela,
 tua espada será quebrada.*
 
+### Vesmência ³
+
+*O confronto com a voz que insiste em chamá-lo de volta*
+
 *¹⁶ POR QUE ME CHAMAS, SÓFIA?!*
 
 *¹⁷ POR QUE GRITAS MEU NOME?!*
@@ -75,6 +89,12 @@ afasta-te.*
 *²⁰ AFASTA-TE DE MIM!*
 
 *²¹ Não quero padecer de fome…*
+
+## SUBPLUPAÇÃO ⅓
+
+### Vesmência ¹
+
+*A poça de lágrimas e a contemplação do próprio sofrimento*
 
 *²² Vê!*
 
@@ -99,6 +119,10 @@ clamam, almejam ser levadas pelo vento.*
 *²⁸ Mas, com olhos secos como o deserto,
 um fingido sorriso
 é tudo o que tenho.*
+
+### Vesmência ²
+
+*O vidro quebrado, a identidade ferida e a raiz da existência*
 
 *²⁹ Vidro quebrado,
 estilhaços ao chão…*
@@ -126,6 +150,12 @@ deste miserável poeta.*
 
 *³⁵ A raiz da existência.*
 
+## SUBPLUPAÇÃO ½
+
+### Vesmência ¹
+
+*As identidades vistas pelos outros*
+
 *³⁶ (AOS OLHOS DE TODOS)*
 
 *³⁷ Do Eu-Louco.*
@@ -142,6 +172,10 @@ deste miserável poeta.*
 
 *⁴³ Eu-Bobo…*
 
+### Vesmência ²
+
+*O eu íntimo e a consciência de si*
+
 *⁴⁴ (AOS MEUS OLHOS)*
 
 *⁴⁵ Do Eu-Onírico.*
@@ -152,6 +186,10 @@ deste miserável poeta.*
 
 *⁴⁸ Um pobre e azarado vagabundo
 que por este mundo está a vagar perdido.*
+
+### Vesmência ³
+
+*A recusa da desistência e a esperança preservada*
 
 *⁴⁹ Mesmo que a vida insossa venha a ficar…
 Mesmo que estas letras transparentes
@@ -188,6 +226,12 @@ pois mesmo ela
 *⁵⁸ Mantém-se bem lá no fundo da caixa,
 uma bênção maldita,
 uma dádiva divina amaldiçoada.*
+
+## SUBPLUPAÇÃO 1
+
+### Vesmência ¹
+
+*A casa abandonada e o lamento da sereia do ar*
 
 *⁵⁹ Numa casa inabitada,
 os passos do eterno perdido
@@ -231,6 +275,10 @@ era incapaz de ouvir
 quem sempre estivera ao seu lado.
 Quem sempre estivera ali.*
 
+### Vesmência ²
+
+*A chegada dos senhores da morte*
+
 *⁶⁹ Olhos azuis moveram-se na escuridão
 para fitá-lo.*
 
@@ -269,6 +317,10 @@ anunciando a reunião de despedida
 de uma alma.*
 
 *⁷⁸ Da minha alma.*
+
+### Vesmência ³
+
+*O julgamento da alma e a intervenção de Zoe*
 
 *⁷⁹ Um copo de leite foi-me trazido.*
 
@@ -325,6 +377,10 @@ mostrou-me, pela milésima vez,
 a agradável brisa de seu domínio:*
 
 *⁹⁵ a vida.*
+
+### Vesmência ⁴
+
+*O retorno à vida e a reconstrução do sentido*
 
 *⁹⁶ — Sabes que tornarei para lá, não é?
 Então, por que insistes tanto
