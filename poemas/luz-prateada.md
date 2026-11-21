@@ -4,7 +4,6 @@
 
 ### Vesmência ¹
 
-*O encontro onírico e a descoberta da amada*
 
 *¹ Quem é esta que se ergue gloriosa como o Sol, cuja beleza, é como o esplendor da luminária, vista através de uma gota solitária de orvalho?*
 
@@ -14,7 +13,6 @@
 
 ### Vesmência ²
 
-*A confiança e o temor de perder o sonho*
 
 *⁴ Tuas ondas se quebravam impiedosas contra mim, mas, em bonança, minha alma se recolhia, confiando em ti.*
 
@@ -24,7 +22,6 @@
 
 ### Vesmência ¹
 
-*O despertar e a ruptura da presença*
 
 *⁶ Abri os olhos, e tu não estavas.*
 
@@ -38,7 +35,6 @@
 
 ### Vesmência ²
 
-*O desejo de regressar pelo sono e pela morte*
 
 *¹¹ Vem, ó noite, envolve-me com teu manto estrelado. Vem, ó morte, sufoca-me em teu abraço; mas que, ao fechar dos olhos, eu a encontre mais uma vez e, quando a tiver em meus braços, que o tempo se acabe.*
 
@@ -48,7 +44,6 @@
 
 ### Vesmência ¹
 
-*O retorno ao sonho e o reconhecimento mútuo*
 
 *¹³ E ao fechar dos olhos, lá tu estavas sentada na relva, sob um céu carmesim.*
 
@@ -70,7 +65,6 @@
 
 ### Vesmência ²
 
-*A declaração ao sonho e o desejo de torná-lo permanente*
 
 *²² Por favor, que o mundo lá fora não volte.*
 
@@ -94,7 +88,6 @@
 
 ### Vesmência ¹
 
-*O segundo despertar e a queda na realidade*
 
 *³¹ Não temo o fim que aguarda meus passos; temo abrir os olhos, temo o Sol a luzir, me apavora não te encontrar, me perder novamente de ti.*
 
