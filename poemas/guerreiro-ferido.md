@@ -4,7 +4,6 @@
 
 ### Vesmência ¹
 
-
 *¹ Peço-te, jovem princesa…*
 
 *² Faz-me apenas um favor:
@@ -26,7 +25,6 @@ E a gentil queda de águas, a levar as impurezas da alma em seu toque, pode ser 
 
 ### Vesmência ²
 
-
 *⁵ Com os punhos feridos e os pés encaliçados, sonhei que era um hábil lutador.
 E, com grande nome, dando bom exemplo, não salvei o mundo,
 mas dei esperança aos autodesacreditados.
@@ -40,7 +38,6 @@ lugar de sonhos inalcançáveis.
 Mas já não me importo de iludido viver a sonhar.*
 
 ### Vesmência ³
-
 
 *⁷ Pois, no jardim do sonhador, onde a dor regou o chão,
 uma rosa rompeu as trevas e floresceu no coração.
@@ -70,7 +67,6 @@ E o paraíso que buscava, hei de encontrar*
 
 ### Vesmência ¹
 
-
 *¹¹ Eis que o abismo me chama desde que sou menino.
 Eis que ele é caminho, do meu destino
 mas já não temo a escuridão se for pra estar contigo.*
@@ -98,7 +94,6 @@ Luto pra estar contigo; então, peço: não me deixes sozim.*
 
 ### Vesmência ²
 
-
 *¹⁷ Teu nome me acompanha ao leito,
 tuas letras me fazem sonhar.
 Tua lembrança me conduz a um mundo inalcançável do qual não queria acordar.*
@@ -120,7 +115,6 @@ pra chorar e pra sorrir por estar vivo, pois, tendo você, eu tenho tudo.*
 ## SUBPLUPAÇÃO ½
 
 ### Vesmência ¹
-
 
 *²¹ Vem, querida, Cheia de Graça, conforta-me com teus beijos.
 Consola-me com teu abraço quente, que sempre me acalma.
@@ -150,7 +144,6 @@ pra te guardar e proteger de noites frias e escuras.*
 
 ### Vesmência ²
 
-
 *²⁵ Rosa negra, ó minha rosa negra,
 que em meio às minhas lágrimas floresceu.*
 
@@ -176,9 +169,10 @@ será que ainda assim almejarias me querer?*
 
 ### Vesmência ¹
 
-
 *³⁰ O poeta de fome padece…
 Pois palavras não…*
+
+### Vesmência ²
 
 *³¹ Olhai a criança no berço.
 Antes mesmo de ser desejada, foi amada.
@@ -194,8 +188,7 @@ receber o amor antes de merecer.*
 *³³ Mas porque, pra ser digno dele, antes tenho que merecer?
 E que direi da mulher? Pois ao contrário, digna de amor, por toda a sua vida ela tem que se fazer.*
 
-### Vesmência ²
-
+### Vesmência ³
 
 *³⁴ E se amanhã eu for esquecido?
 E se a luz não voltar a nascer?
