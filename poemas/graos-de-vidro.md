@@ -4,7 +4,6 @@
 
 ### Vesmência ¹
 
-*A primeira exaustão e o desejo de desaparecer*
 
 *¹ Nasce o sol,
 e põe-se a deitar sobre o mar.*
@@ -28,7 +27,6 @@ Sem tudo.*
 
 *⁶ E o pior…*
 
-*De tardio fim.*
 
 *⁷ Por favor, que minha vida acabe,
 que meus dias cessem
@@ -42,7 +40,6 @@ seja apagada.*
 
 ### Vesmência ²
 
-*A invocação da morte e a resistência da esperança*
 
 *⁹ Vem, Tânatos, ceifa minha alma.*
 
@@ -75,7 +72,6 @@ tua espada será quebrada.*
 
 ### Vesmência ³
 
-*O confronto com a voz que insiste em chamá-lo de volta*
 
 *¹⁶ POR QUE ME CHAMAS, SÓFIA?!*
 
@@ -94,7 +90,6 @@ afasta-te.*
 
 ### Vesmência ¹
 
-*A poça de lágrimas e a contemplação do próprio sofrimento*
 
 *²² Vê!*
 
@@ -122,7 +117,6 @@ um fingido sorriso
 
 ### Vesmência ²
 
-*O vidro quebrado, a identidade ferida e a raiz da existência*
 
 *²⁹ Vidro quebrado,
 estilhaços ao chão…*
@@ -154,7 +148,6 @@ deste miserável poeta.*
 
 ### Vesmência ¹
 
-*As identidades vistas pelos outros*
 
 *³⁶ (AOS OLHOS DE TODOS)*
 
@@ -174,7 +167,6 @@ deste miserável poeta.*
 
 ### Vesmência ²
 
-*O eu íntimo e a consciência de si*
 
 *⁴⁴ (AOS MEUS OLHOS)*
 
@@ -189,7 +181,6 @@ que por este mundo está a vagar perdido.*
 
 ### Vesmência ³
 
-*A recusa da desistência e a esperança preservada*
 
 *⁴⁹ Mesmo que a vida insossa venha a ficar…
 Mesmo que estas letras transparentes
@@ -197,7 +188,6 @@ em minha alma venham a se tornar…
 Mesmo com motivos
 pra vida abindicar…*
 
-*Há! Há! Há!*
 
 *⁵⁰ NÃO!*
 
@@ -231,7 +221,6 @@ uma dádiva divina amaldiçoada.*
 
 ### Vesmência ¹
 
-*A casa abandonada e o lamento da sereia do ar*
 
 *⁵⁹ Numa casa inabitada,
 os passos do eterno perdido
@@ -277,7 +266,6 @@ Quem sempre estivera ali.*
 
 ### Vesmência ²
 
-*A chegada dos senhores da morte*
 
 *⁶⁹ Olhos azuis moveram-se na escuridão
 para fitá-lo.*
@@ -320,7 +308,6 @@ de uma alma.*
 
 ### Vesmência ³
 
-*O julgamento da alma e a intervenção de Zoe*
 
 *⁷⁹ Um copo de leite foi-me trazido.*
 
@@ -352,7 +339,6 @@ Sofia, a filha.*
 
 *⁸⁹ Por nome e título:*
 
-*Zoe, a intrometida.*
 
 *⁹⁰ As paredes, num alto estrondo, foram arrebentadas,
 e a escuridão, expurgada.*
@@ -380,7 +366,6 @@ a agradável brisa de seu domínio:*
 
 ### Vesmência ⁴
 
-*O retorno à vida e a reconstrução do sentido*
 
 *⁹⁶ — Sabes que tornarei para lá, não é?
 Então, por que insistes tanto
