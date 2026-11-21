@@ -15,7 +15,7 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém a
 - **Coração — e-book gratuito:** [Ler ou baixar a edição definitiva em PDF](https://nissieloeulirico.wordpress.com/wp-content/uploads/2026/11/coracao_nissiel_o_eulirico_edicao_definitiva.pdf) · [Biblioteca de leitura](docs/obras/coracao.html) · [Repositório exclusivo do livro](https://github.com/nissieloeulirico/Cora-o-)
 - **Apresentação de Coração:** [Um primeiro passo](APRESENTACAO-CORACAO.md) · [Publicação no site](https://nissieloeulirico.wordpress.com/2026/11/19/um-primeiro-passo-coracao/)
 - **Site oficial:** [Nissiel, O Eulírico](https://nissieloeulirico.wordpress.com/)
-- **Sobre o autor:** [Apresentação autoral](https://nissieloeulirico.wordpress.com/sobre-o-autor/)
+- **Sobre o autor:** [Apresentação biográfica](https://nissieloeulirico.wordpress.com/sobre-o-autor/) · [Pensamento e organização da obra](https://nissieloeulirico.wordpress.com/pensamento-e-organizacao-da-obra/) · [Fonte Markdown](PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md) · [Edição de leitura](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/pensamento-e-organizacao-da-obra.html)
 - **Acervo geral:** [WordPress](https://nissieloeulirico.wordpress.com/acervo/)
 - **Poemas publicados:** [WordPress](https://nissieloeulirico.wordpress.com/poemas/)
 - **Biblioteca digital:** [GitHub Pages](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/) — a publicação depende de ativação em **Settings → Pages**.
@@ -30,6 +30,7 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém a
 - `entrelinhas/`: memórias de composição, separadas dos textos literários.
 - `docs/`: edições HTML de leitura, folha de estilos, sitemap e instruções para rastreadores.
 - `BIOGRAFIA.md`: apresentação biográfica oficial do autor.
+- `PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md`: apresentação do pensamento, da arquitetura da realidade e da organização literária.
 - `CATALOGO.md`: índice das publicações do site oficial.
 - `IDENTIDADE.md`: identificação pública, canais oficiais e declaração de autoria.
 - `CITATION.cff`: metadados bibliográficos para citação.
