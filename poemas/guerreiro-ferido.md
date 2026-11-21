@@ -4,7 +4,6 @@
 
 ### Vesmência ¹
 
-*O pedido de acolhimento e a voz amada*
 
 *¹ Peço-te, jovem princesa…*
 
@@ -27,7 +26,6 @@ E a gentil queda de águas, a levar as impurezas da alma em seu toque, pode ser 
 
 ### Vesmência ²
 
-*O guerreiro sonhado e o amparo recebido*
 
 *⁵ Com os punhos feridos e os pés encaliçados, sonhei que era um hábil lutador.
 E, com grande nome, dando bom exemplo, não salvei o mundo,
@@ -43,7 +41,6 @@ Mas já não me importo de iludido viver a sonhar.*
 
 ### Vesmência ³
 
-*A rosa negra que nasce da dor*
 
 *⁷ Pois, no jardim do sonhador, onde a dor regou o chão,
 uma rosa rompeu as trevas e floresceu no coração.
@@ -73,7 +70,6 @@ E o paraíso que buscava, hei de encontrar*
 
 ### Vesmência ¹
 
-*A aceitação do abismo e a promessa de permanecer*
 
 *¹¹ Eis que o abismo me chama desde que sou menino.
 Eis que ele é caminho, do meu destino
@@ -102,7 +98,6 @@ Luto pra estar contigo; então, peço: não me deixes sozim.*
 
 ### Vesmência ²
 
-*O universo escrito e o abrigo construído no poema*
 
 *¹⁷ Teu nome me acompanha ao leito,
 tuas letras me fazem sonhar.
@@ -126,7 +121,6 @@ pra chorar e pra sorrir por estar vivo, pois, tendo você, eu tenho tudo.*
 
 ### Vesmência ¹
 
-*A entrega amorosa e o pedido de guardar a alma*
 
 *²¹ Vem, querida, Cheia de Graça, conforta-me com teus beijos.
 Consola-me com teu abraço quente, que sempre me acalma.
@@ -156,7 +150,6 @@ pra te guardar e proteger de noites frias e escuras.*
 
 ### Vesmência ²
 
-*A rosa, a Valquíria e o medo de deixar de ser amado*
 
 *²⁵ Rosa negra, ó minha rosa negra,
 que em meio às minhas lágrimas floresceu.*
@@ -183,7 +176,6 @@ será que ainda assim almejarias me querer?*
 
 ### Vesmência ¹
 
-*A fome do poeta e a pergunta sobre o amor recebido*
 
 *³⁰ O poeta de fome padece…
 Pois palavras não…*
@@ -204,7 +196,6 @@ E que direi da mulher? Pois ao contrário, digna de amor, por toda a sua vida el
 
 ### Vesmência ²
 
-*O temor do esquecimento e o desejo de pertencer*
 
 *³⁴ E se amanhã eu for esquecido?
 E se a luz não voltar a nascer?
