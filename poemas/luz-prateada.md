@@ -4,7 +4,6 @@
 
 ### Vesmência ¹
 
-
 *¹ Quem é esta que se ergue gloriosa como o Sol, cuja beleza, é como o esplendor da luminária, vista através de uma gota solitária de orvalho?*
 
 *² Ao te ver, meu coração dançou de júbilo e cantou de alegria minha alma. Mudo, sem palavras, conversávamos em um mundo sem luminária; nem noite nem dia ali haviam, mas era onde, em silêncio, nos entendíamos.*
@@ -13,7 +12,6 @@
 
 ### Vesmência ²
 
-
 *⁴ Tuas ondas se quebravam impiedosas contra mim, mas, em bonança, minha alma se recolhia, confiando em ti.*
 
 *⁵ Pois, em teu infindável mar de leite e mel, a única coisa que me faz tremer é perder-me de ti.*
@@ -21,7 +19,6 @@
 ## SUBPLUPAÇÃO ⅓
 
 ### Vesmência ¹
-
 
 *⁶ Abri os olhos, e tu não estavas.*
 
@@ -35,7 +32,6 @@
 
 ### Vesmência ²
 
-
 *¹¹ Vem, ó noite, envolve-me com teu manto estrelado. Vem, ó morte, sufoca-me em teu abraço; mas que, ao fechar dos olhos, eu a encontre mais uma vez e, quando a tiver em meus braços, que o tempo se acabe.*
 
 *¹² Pois a vida não tem quem eu procuro; então, que o sono me dê aquela que a minha alma ama. Pois choro por quem não posso chamar.*
@@ -43,7 +39,6 @@
 ## SUBPLUPAÇÃO ½
 
 ### Vesmência ¹
-
 
 *¹³ E ao fechar dos olhos, lá tu estavas sentada na relva, sob um céu carmesim.*
 
@@ -64,7 +59,6 @@
 *²¹ Pois, pela primeira vez, os céus não estão distantes. Em teus olhos, o paraíso encontrei, e em teu peito a mais doce sonata se fez ouvir, qual nunca imaginei. Que teu dilúvio de leite e mel se erga e me afogue!*
 
 ### Vesmência ²
-
 
 *²² Por favor, que o mundo lá fora não volte.*
 
@@ -87,7 +81,6 @@
 ## SUBPLUPAÇÃO 1
 
 ### Vesmência ¹
-
 
 *³¹ Não temo o fim que aguarda meus passos; temo abrir os olhos, temo o Sol a luzir, me apavora não te encontrar, me perder novamente de ti.*
 
