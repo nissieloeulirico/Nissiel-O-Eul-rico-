@@ -1,7 +1,7 @@
 # Identidade autoral — Nissiel, O Eulírico
 
 ## Biografia oficial
-A apresentação biográfica completa está disponível em [BIOGRAFIA.md](BIOGRAFIA.md) e na página [Sobre o Autor](https://nissieloeulirico.wordpress.com/sobre-o-autor/).
+A apresentação biográfica está disponível em [BIOGRAFIA.md](BIOGRAFIA.md) e na página [Sobre o Autor](https://nissieloeulirico.wordpress.com/sobre-o-autor/). A apresentação ampliada do pensamento e da organização da obra está em [PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md](PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md) e na [página específica do site](https://nissieloeulirico.wordpress.com/pensamento-e-organizacao-da-obra/).
 
 ## Identificação pública
 - Nome civil: Tiago da Silva Santos.
@@ -14,6 +14,8 @@ A apresentação biográfica completa está disponível em [BIOGRAFIA.md](BIOGRA
 ## Canais oficiais
 - Site: https://nissieloeulirico.wordpress.com/
 - Biografia: https://nissieloeulirico.wordpress.com/sobre-o-autor/
+- Pensamento e organização da obra: https://nissieloeulirico.wordpress.com/pensamento-e-organizacao-da-obra/
+- Documento técnico: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md
 - Biografia em Markdown: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/BIOGRAFIA.md
 - Acervo geral: https://nissieloeulirico.wordpress.com/acervo/
 - Página de poemas: https://nissieloeulirico.wordpress.com/poemas/
