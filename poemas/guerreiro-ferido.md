@@ -1,5 +1,11 @@
 # O Guerreiro Ferido
 
+## SUBPLUPAÇÃO ¼
+
+### Vesmência ¹
+
+*O pedido de acolhimento e a voz amada*
+
 *¹ Peço-te, jovem princesa…*
 
 *² Faz-me apenas um favor:
@@ -19,6 +25,10 @@ Em teu coração, a canção
 que dá sentido aos meus dias.
 E a gentil queda de águas, a levar as impurezas da alma em seu toque, pode ser sentida.*
 
+### Vesmência ²
+
+*O guerreiro sonhado e o amparo recebido*
+
 *⁵ Com os punhos feridos e os pés encaliçados, sonhei que era um hábil lutador.
 E, com grande nome, dando bom exemplo, não salvei o mundo,
 mas dei esperança aos autodesacreditados.
@@ -30,6 +40,10 @@ e, na noite mais gélida e fria, teu corpo foi meu coberto.*
 *⁶ Teu nome, é meu leito confortável,
 lugar de sonhos inalcançáveis.
 Mas já não me importo de iludido viver a sonhar.*
+
+### Vesmência ³
+
+*A rosa negra que nasce da dor*
 
 *⁷ Pois, no jardim do sonhador, onde a dor regou o chão,
 uma rosa rompeu as trevas e floresceu no coração.
@@ -54,6 +68,12 @@ que não preciso delas pra os céus alcançar.
 Basta olhar no fundo dos teus olhos,
 basta neles me perder.
 E o paraíso que buscava, hei de encontrar*
+
+## SUBPLUPAÇÃO ⅓
+
+### Vesmência ¹
+
+*A aceitação do abismo e a promessa de permanecer*
 
 *¹¹ Eis que o abismo me chama desde que sou menino.
 Eis que ele é caminho, do meu destino
@@ -80,6 +100,10 @@ Luto porque "também" desejo ser teu abrigo em meio à dor.*
 Já não luto só por mim.
 Luto pra estar contigo; então, peço: não me deixes sozim.*
 
+### Vesmência ²
+
+*O universo escrito e o abrigo construído no poema*
+
 *¹⁷ Teu nome me acompanha ao leito,
 tuas letras me fazem sonhar.
 Tua lembrança me conduz a um mundo inalcançável do qual não queria acordar.*
@@ -97,6 +121,12 @@ Um pedacinho da minha vida que guardei em tuas mãos.*
 
 *²⁰ Lá em teus dois seios me abrigo, me escondo temporariamente do mundo,
 pra chorar e pra sorrir por estar vivo, pois, tendo você, eu tenho tudo.*
+
+## SUBPLUPAÇÃO ½
+
+### Vesmência ¹
+
+*A entrega amorosa e o pedido de guardar a alma*
 
 *²¹ Vem, querida, Cheia de Graça, conforta-me com teus beijos.
 Consola-me com teu abraço quente, que sempre me acalma.
@@ -124,6 +154,10 @@ mas que meu Eu Poeta,
 que minha gentil alma, seja toda tua,
 pra te guardar e proteger de noites frias e escuras.*
 
+### Vesmência ²
+
+*A rosa, a Valquíria e o medo de deixar de ser amado*
+
 *²⁵ Rosa negra, ó minha rosa negra,
 que em meio às minhas lágrimas floresceu.*
 
@@ -145,6 +179,12 @@ se não puder vencer,
 se tu viesses a existir,
 será que ainda assim almejarias me querer?*
 
+## SUBPLUPAÇÃO 1
+
+### Vesmência ¹
+
+*A fome do poeta e a pergunta sobre o amor recebido*
+
 *³⁰ O poeta de fome padece…
 Pois palavras não…*
 
@@ -161,6 +201,10 @@ receber o amor antes de merecer.*
 
 *³³ Mas porque, pra ser digno dele, antes tenho que merecer?
 E que direi da mulher? Pois ao contrário, digna de amor, por toda a sua vida ela tem que se fazer.*
+
+### Vesmência ²
+
+*O temor do esquecimento e o desejo de pertencer*
 
 *³⁴ E se amanhã eu for esquecido?
 E se a luz não voltar a nascer?
