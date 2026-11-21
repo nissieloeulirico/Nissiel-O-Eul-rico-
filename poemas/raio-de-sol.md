@@ -2,33 +2,21 @@
 
 ### Vesmência ¹
 
-*O girassol em movimento e a inclinação para o primeiro amor*
 
 *¹ Gira-Gira-Girassol!*
 
-* Gira-gira-girassol!!*
 
-*Gira… gira… Girassol…*
 
-* Gira… gira… Sem o sol…*
 
-*Gira em preto e branco,*
 
-*Gira sem cor…*
 
-*Gira insosso…*
 
-*Sem sabor,*
 
-*Sem odor…*
 
-*Gira em noite infindável…*
 
-*…Aguardando teu amor.*
 
 *² …Contra a minha vontade, para ti me inclinei.*
 
-*Vendo-te tão longe, apenas acreditei.*
 
 *³ Sim, acreditei
 acreditei no brilho do primeiro amor,
@@ -39,7 +27,6 @@ devastou.*
 
 ### Vesmência ²
 
-*A mão estendida, o desencontro e a perda do coração*
 
 *⁴ Para ti estendi a mão…*
 
@@ -63,7 +50,6 @@ passou despercebida.*
 
 ### Vesmência ¹
 
-*A tentativa de trocar a noite pelo dia*
 
 *⁹ Pensei…*
 
@@ -76,7 +62,6 @@ Mais um dia sem ti,*
 
 ### Vesmência ²
 
-*O desvio do caminho e a perda de si*
 
 *¹² Sozinho, e infelizmente desiludido…
 Saí da trilha…*
@@ -86,13 +71,10 @@ Nem pra onde seguir.*
 
 *¹³ Perdi-me do caminho,*
 
-*Perdi-me do sonho,*
 
-*Perdi-me de ti.*
 
 ### Vesmência ³
 
-*O girassol e o último dente-de-leão*
 
 *¹⁴ Sou qual girassol em noite eterna…*
 
@@ -107,18 +89,15 @@ Cansado de sonhar acordado…*
 
 ### Vesmência ¹
 
-*A crise de valor e a pergunta sobre a própria insistência*
 
 *¹⁷ A vida não é pra alguém sem utilidade…*
 
-*Mas Por Quê?!*
 
 *¹⁸ Por que não consigo me soltar do chão
 E me deixar a ser  levado por essa terrível tempestade?!*
 
 *¹⁹ Por que insisto?*
 
-*Por que me inclino em teu aguardo,*
 
 *²⁰ Esperando-te por mais um dia que nunca chegará !(?)
 Em meio... á esta noite infindável.*
@@ -127,7 +106,6 @@ Em meio... á esta noite infindável.*
 
 ### Vesmência ¹
 
-*O retorno do giro e a espera que não se encerra*
 
 *²¹ Gira-gira…*
 
@@ -140,7 +118,6 @@ aguardando teu amor.*
 
 *²⁴ Gira… *
 
-*Gira…*
 
 *²⁵ Gira
  almejando
@@ -148,5 +125,3 @@ aguardando teu amor.*
 do teu sol.*
 
 *²⁶ Gira, gira…*
-
-*Pobre e miserável girassol.*
