@@ -4,7 +4,6 @@
 
 ### Vesmência ¹
 
-*A ambivalência diante do Sol*
 
 *1. Maldita a hora em que nasci, maldito o Sol que se ergue sobre mim.*
 
@@ -20,7 +19,6 @@
 
 ### Vesmência ²
 
-*A memória que retorna pelos sentidos*
 
 *7. Cada gota me recorda sua voz.*
 
@@ -32,7 +30,6 @@
 
 ### Vesmência ³
 
-*O pedido de apagar a lembrança*
 
 *11. Cubram-se os céus de nuvens negras, que nem um Raio de Sol as atravesse. Fechem-se as portas, silenciem-se as estrelas. Que eu esqueça sua lembrança… e, por um curto período, até mesmo o caminho que conduz a ela.*
 
@@ -44,7 +41,6 @@
 
 ### Vesmência ¹
 
-*A descoberta da fragilidade e o apelo a Deus*
 
 *14. Julguei-me um homem de aço, achei que era forte, hoje me descubro fraco. Minhas mãos já não comportam o que um dia carregaram.*
 
@@ -58,7 +54,6 @@
 
 ### Vesmência ²
 
-*O apagamento gradual da presença*
 
 *19. Ela não se foi, mas já a vejo se apagando.*
 
@@ -68,7 +63,6 @@
 
 ### Vesmência ³
 
-*A perda de algo que nunca foi possuído*
 
 *22. Em si, ela nada deixou para trás, mas eu… mais uma vez me encontro ao chão, em pedaços.*
 
@@ -80,7 +74,6 @@
 
 ### Vesmência ¹
 
-*A dor acumulada e a tentativa de destruir o amor*
 
 *25. Dói no silêncio, dói na demora, dói no que fica, dói no que insisti, dói no que ainda não foi embora, dói no que existiu, dói no que nunca existiu.*
 
@@ -94,7 +87,6 @@
 
 ### Vesmência ²
 
-*O pedido de esvaziamento e o desejo de recuperar o antigo eu*
 
 *30. Leva tudo! Leva o desejo! Leva o que sinto! Leva para longe o que ainda bate no peito!*
 
@@ -102,7 +94,6 @@
 
 ### Vesmência ³
 
-*O eco de uma identidade anterior*
 
 *32. Talvez assim encontre meu antigo eu:*
 
@@ -116,7 +107,6 @@
 
 ### Vesmência ¹
 
-*O coração à venda e a casa perdida*
 
 *36. Vende-se um coração.*
 
@@ -138,7 +128,6 @@
 
 ### Vesmência ²
 
-*A oferta do coração e a busca por afastamento*
 
 *45. Vende-se um coração! Levai-o para longe: esse é seu preço.*
 
@@ -152,7 +141,6 @@
 
 ### Vesmência ³
 
-*A contradição de vender aquilo que ainda sente*
 
 *50. Mas quem vai querer o que sobrou de um homem que ainda sente, mas teme o amor?*
 
@@ -164,9 +152,7 @@
 
 ### Vesmência ⁴
 
-*A impossibilidade de decidir entre vender e procurar*
 
 *54. Vende-se ou procura-se…*
 
 *55. Para ser sincero, eu já nem sei...*
-*Como devo anunciar.*
