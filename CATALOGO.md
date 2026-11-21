@@ -103,6 +103,10 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/08/nissiel-o-eulirico-poesia-pensamento-imaginacao/)  
    Página permanente: [Sobre o Autor](https://nissieloeulirico.wordpress.com/sobre-o-autor/)
 
+2. **O pensamento e a organização da obra**  
+   Apresentação filosófica e estrutural: [WordPress](https://nissieloeulirico.wordpress.com/pensamento-e-organizacao-da-obra/)  
+   Fonte documental: [PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md](PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md) · [Edição de leitura na biblioteca digital](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/pensamento-e-organizacao-da-obra.html)
+
 ## 7. Memórias de composição
 
 1. **Em Branco...**  
