@@ -1,5 +1,9 @@
 # …Em Branco
 
+## SUBPLUPAÇÃO ¼
+
+### Vesmência ¹
+
 *¹ Ali perdi!*
 
 *² Perdi aquilo que não tinha.*
@@ -11,6 +15,8 @@
 *⁵ Perdi a mente.*
 
 *⁶ Perdi o sentido da vida.*
+
+### Vesmência ²
 
 *⁷ Perdi o ritmo e o compasso do peito.*
 
@@ -28,9 +34,15 @@
 
 *Como uma âncora sem um navio em alto-mar.*
 
+### Vesmência ³
+
 *¹⁴ Da praia, ouço a voz das águas calmas e belas,*
 
 *Enquanto a aurora se despede, a noite me recebe com seu gélido beijo…*
+
+## SUBPLUPAÇÃO ⅓
+
+### Vesmência 1
 
 *¹⁵ No balançar inquieto das ondas,*
 
@@ -41,6 +53,8 @@
 *Com um aceno me chama*
 
 *Pra das águas receber os gentis açoites.*
+
+### Vesmência ²
 
 *¹⁶ A cauda de peixe que expulsa a minha solidão.*
 
@@ -60,6 +74,8 @@
 
 *Nas profundezas do mar, me convida.*
 
+### Vesmência ⁰
+
 *²⁰ “Oh, poeta, por que habitas na areia?*
 
 *Eis que teus sonhos residem no mar.*
@@ -76,11 +92,17 @@
 
 *Onde a vida adormece, e a dor desaparece.”*
 
+## SUBPLUPAÇÃO ½
+
+### Vesmência ¹
+
 *²² Eis que é no branco dos seus olhos*
 
 *²³ Que o mais lírico poeta padece…*
 
 *²⁴ Perde a vida.*
+
+### Vesmência ²
 
 *²⁵ Todos os meus escritos se repetem…*
 
@@ -89,6 +111,8 @@
 *A maré do tempo, ao beijar a praia, levou…*
 
 *Assim como meus passos na areia, que a água na cintura apagou.*
+
+### Vesmência ³
 
 *²⁷ Já aquilo que dei a quem me inspirou*
 
@@ -99,6 +123,8 @@
 *Que cruzou meu caminho,*
 
 *Está seguro e bem guardado.*
+
+### Vesmência ⁴
 
 *²⁹ Já não posso…*
 
@@ -118,6 +144,8 @@
 
 *Só pra ser coberto por minha mão.*
 
+### Vesmência ⁵
+
 *³³ Pois, na folha…*
 
 *³⁴ Na folha em branco perdi a inspiração.*
@@ -132,6 +160,8 @@
 
 *³⁹ Perdi meu corpo e minha alma.*
 
+### Vesmência ⁶
+
 *⁴⁰ É tudo como o beijo…*
 
 *⁴¹ O beijo da formosa sereia que, seduzindo-me,*
@@ -141,6 +171,10 @@
 *E leva meu rosto em direção ao seu,*
 
 *Pouco a pouco…*
+
+## SUBPLUPAÇÃO 1
+
+### Vesmência ⁰
 
 *⁴² “Vem, oh, poeta, não precisas mais lutar.*
 
@@ -176,6 +210,8 @@
 
 *Dorme no mar.”*
 
+### Vesmência ¹
+
 *⁴³ Em meio à penumbra fria e escura,*
 
 *À luz do luar,*
@@ -202,6 +238,8 @@
 
 *⁴⁹ Eternamente acorrentado e aprisionado em sua casa.*
 
+### Vesmência ²
+
 *⁵⁰ Pois, no branco…*
 
 *⁵¹ Na folha em branco,*
@@ -210,7 +248,11 @@
 
 *E o pouco que me restava.*
 
+### Vesmência ³
+
 *⁵² Perdi sonhos pra uma flamejante borracha…*
+
+### Vesmência ⁴
 
 *⁵³ Perdi o convite… O chamado.*
 
@@ -220,6 +262,8 @@
 
 *Debruçou-se sobre a praia.*
 
+### Vesmência ⁵
+
 *⁵⁵ Eis ali, ela sentada a olhar o céu rubro!*
 
 *⁵⁶ Eis ali, ao abrir dos olhos…*
@@ -227,6 +271,8 @@
 *Mas nada…*
 
 *Além de uma alma solitária.*
+
+### Vesmência ⁶
 
 *⁵⁷ Sim!*
 
@@ -236,13 +282,19 @@
 
 *De uma história que não foi contada.*
 
+### Vesmência ⁷
+
 *⁵⁹ Me perdi em um poema vazio… mudo…*
 
 *…Sem palavras.*
 
+### Vesmência ⁸
+
 *⁶⁰ Ali perdi…*
 
 *⁶¹ No beijo que me envolve e amarra*
+
+### Vesmência ⁹
 
 *⁶² Ali morri…*
 
