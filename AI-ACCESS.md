@@ -18,6 +18,9 @@ Este arquivo explica como localizar, ler e citar o acervo literário de **Nissie
 - Idioma principal: português brasileiro (pt-BR).
 - Biografia oficial: https://nissieloeulirico.wordpress.com/sobre-o-autor/
 - Biografia em Markdown: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/BIOGRAFIA.md
+- Apresentação do pensamento e da organização da obra: https://nissieloeulirico.wordpress.com/pensamento-e-organizacao-da-obra/
+- Fonte Markdown da apresentação: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md
+- Edição HTML de leitura: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/pensamento-e-organizacao-da-obra.html
 
 ## Endereços de referência
 
