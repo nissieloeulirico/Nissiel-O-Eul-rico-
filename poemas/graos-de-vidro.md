@@ -4,7 +4,6 @@
 
 ### Vesmência ¹
 
-
 *¹ Nasce o sol,
 e põe-se a deitar sobre o mar.*
 
@@ -27,6 +26,7 @@ Sem tudo.*
 
 *⁶ E o pior…*
 
+*De tardio fim.*
 
 *⁷ Por favor, que minha vida acabe,
 que meus dias cessem
@@ -39,7 +39,6 @@ Não quero quase nada…*
 seja apagada.*
 
 ### Vesmência ²
-
 
 *⁹ Vem, Tânatos, ceifa minha alma.*
 
@@ -72,7 +71,6 @@ tua espada será quebrada.*
 
 ### Vesmência ³
 
-
 *¹⁶ POR QUE ME CHAMAS, SÓFIA?!*
 
 *¹⁷ POR QUE GRITAS MEU NOME?!*
@@ -89,7 +87,6 @@ afasta-te.*
 ## SUBPLUPAÇÃO ⅓
 
 ### Vesmência ¹
-
 
 *²² Vê!*
 
@@ -116,7 +113,6 @@ um fingido sorriso
 é tudo o que tenho.*
 
 ### Vesmência ²
-
 
 *²⁹ Vidro quebrado,
 estilhaços ao chão…*
@@ -148,7 +144,6 @@ deste miserável poeta.*
 
 ### Vesmência ¹
 
-
 *³⁶ (AOS OLHOS DE TODOS)*
 
 *³⁷ Do Eu-Louco.*
@@ -167,7 +162,6 @@ deste miserável poeta.*
 
 ### Vesmência ²
 
-
 *⁴⁴ (AOS MEUS OLHOS)*
 
 *⁴⁵ Do Eu-Onírico.*
@@ -181,13 +175,13 @@ que por este mundo está a vagar perdido.*
 
 ### Vesmência ³
 
-
 *⁴⁹ Mesmo que a vida insossa venha a ficar…
 Mesmo que estas letras transparentes
 em minha alma venham a se tornar…
 Mesmo com motivos
 pra vida abindicar…*
 
+*Há! Há! Há!*
 
 *⁵⁰ NÃO!*
 
@@ -220,7 +214,6 @@ uma dádiva divina amaldiçoada.*
 ## SUBPLUPAÇÃO 1
 
 ### Vesmência ¹
-
 
 *⁵⁹ Numa casa inabitada,
 os passos do eterno perdido
@@ -266,7 +259,6 @@ Quem sempre estivera ali.*
 
 ### Vesmência ²
 
-
 *⁶⁹ Olhos azuis moveram-se na escuridão
 para fitá-lo.*
 
@@ -308,7 +300,6 @@ de uma alma.*
 
 ### Vesmência ³
 
-
 *⁷⁹ Um copo de leite foi-me trazido.*
 
 *⁸⁰ Mas aquele de inúmeros olhos
@@ -339,6 +330,7 @@ Sofia, a filha.*
 
 *⁸⁹ Por nome e título:*
 
+*Zoe, a intrometida.*
 
 *⁹⁰ As paredes, num alto estrondo, foram arrebentadas,
 e a escuridão, expurgada.*
@@ -365,7 +357,6 @@ a agradável brisa de seu domínio:*
 *⁹⁵ a vida.*
 
 ### Vesmência ⁴
-
 
 *⁹⁶ — Sabes que tornarei para lá, não é?
 Então, por que insistes tanto
