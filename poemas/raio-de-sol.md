@@ -1,3 +1,9 @@
+## SUBPLUPAÇÃO ¼
+
+### Vesmência ¹
+
+*O girassol em movimento e a inclinação para o primeiro amor*
+
 *¹ Gira-Gira-Girassol!*
 
 * Gira-gira-girassol!!*
@@ -31,6 +37,10 @@ Antes, veio qual terrível vendaval
 E minha alma...
 devastou.*
 
+### Vesmência ²
+
+*A mão estendida, o desencontro e a perda do coração*
+
 *⁴ Para ti estendi a mão…*
 
 *⁵ Mas… Nunca te alcancei.*
@@ -49,6 +59,12 @@ Pra mim, foi tudo como uma fraca neblina,
 Que simplesmente... 
 passou despercebida.*
 
+## SUBPLUPAÇÃO ⅓
+
+### Vesmência ¹
+
+*A tentativa de trocar a noite pelo dia*
+
 *⁹ Pensei…*
 
 *¹⁰ Sim, pensei em trocar a noite pelo dia,
@@ -57,6 +73,10 @@ A doce ilusão dos sonhos me toca e fascina.*
 
 *¹¹ Mais uma noite mal dormida,
 Mais um dia sem ti,*
+
+### Vesmência ²
+
+*O desvio do caminho e a perda de si*
 
 *¹² Sozinho, e infelizmente desiludido…
 Saí da trilha…*
@@ -70,6 +90,10 @@ Nem pra onde seguir.*
 
 *Perdi-me de ti.*
 
+### Vesmência ³
+
+*O girassol e o último dente-de-leão*
+
 *¹⁴ Sou qual girassol em noite eterna…*
 
 *¹⁵ O último dente-de-leão que restou
@@ -78,6 +102,12 @@ Neste campo pelo vento devastado…*
 *¹⁶ Me desculpa, mas estou exausto,
 Sim, fadigado de mim 
 Cansado de sonhar acordado…*
+
+## SUBPLUPAÇÃO ½
+
+### Vesmência ¹
+
+*A crise de valor e a pergunta sobre a própria insistência*
 
 *¹⁷ A vida não é pra alguém sem utilidade…*
 
@@ -92,6 +122,12 @@ E me deixar a ser  levado por essa terrível tempestade?!*
 
 *²⁰ Esperando-te por mais um dia que nunca chegará !(?)
 Em meio... á esta noite infindável.*
+
+## SUBPLUPAÇÃO 1
+
+### Vesmência ¹
+
+*O retorno do giro e a espera que não se encerra*
 
 *²¹ Gira-gira…*
 
