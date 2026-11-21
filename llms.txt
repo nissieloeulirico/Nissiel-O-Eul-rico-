@@ -8,6 +8,9 @@
 - Catálogo geral: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/CATALOGO.md
 - Biografia oficial: https://nissieloeulirico.wordpress.com/sobre-o-autor/
 - Biografia em Markdown: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/BIOGRAFIA.md
+- Pensamento e organização da obra (WordPress): https://nissieloeulirico.wordpress.com/pensamento-e-organizacao-da-obra/
+- Pensamento e organização da obra (Markdown): https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md
+- Edição de leitura: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/pensamento-e-organizacao-da-obra.html
 
 ## Fontes oficiais
 - Site: https://nissieloeulirico.wordpress.com/
