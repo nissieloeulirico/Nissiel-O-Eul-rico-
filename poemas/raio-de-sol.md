@@ -2,21 +2,31 @@
 
 ### Vesmência ¹
 
-
 *¹ Gira-Gira-Girassol!*
 
+* Gira-gira-girassol!!*
 
+*Gira… gira… Girassol…*
 
+* Gira… gira… Sem o sol…*
 
+*Gira em preto e branco,*
 
+*Gira sem cor…*
 
+*Gira insosso…*
 
+*Sem sabor,*
 
+*Sem odor…*
 
+*Gira em noite infindável…*
 
+*…Aguardando teu amor.*
 
 *² …Contra a minha vontade, para ti me inclinei.*
 
+*Vendo-te tão longe, apenas acreditei.*
 
 *³ Sim, acreditei
 acreditei no brilho do primeiro amor,
@@ -26,7 +36,6 @@ E minha alma...
 devastou.*
 
 ### Vesmência ²
-
 
 *⁴ Para ti estendi a mão…*
 
@@ -50,7 +59,6 @@ passou despercebida.*
 
 ### Vesmência ¹
 
-
 *⁹ Pensei…*
 
 *¹⁰ Sim, pensei em trocar a noite pelo dia,
@@ -62,7 +70,6 @@ Mais um dia sem ti,*
 
 ### Vesmência ²
 
-
 *¹² Sozinho, e infelizmente desiludido…
 Saí da trilha…*
 
@@ -71,10 +78,11 @@ Nem pra onde seguir.*
 
 *¹³ Perdi-me do caminho,*
 
+*Perdi-me do sonho,*
 
+*Perdi-me de ti.*
 
 ### Vesmência ³
-
 
 *¹⁴ Sou qual girassol em noite eterna…*
 
@@ -89,15 +97,16 @@ Cansado de sonhar acordado…*
 
 ### Vesmência ¹
 
-
 *¹⁷ A vida não é pra alguém sem utilidade…*
 
+*Mas Por Quê?!*
 
 *¹⁸ Por que não consigo me soltar do chão
 E me deixar a ser  levado por essa terrível tempestade?!*
 
 *¹⁹ Por que insisto?*
 
+*Por que me inclino em teu aguardo,*
 
 *²⁰ Esperando-te por mais um dia que nunca chegará !(?)
 Em meio... á esta noite infindável.*
@@ -105,7 +114,6 @@ Em meio... á esta noite infindável.*
 ## SUBPLUPAÇÃO 1
 
 ### Vesmência ¹
-
 
 *²¹ Gira-gira…*
 
@@ -118,6 +126,7 @@ aguardando teu amor.*
 
 *²⁴ Gira… *
 
+*Gira…*
 
 *²⁵ Gira
  almejando
@@ -125,3 +134,5 @@ aguardando teu amor.*
 do teu sol.*
 
 *²⁶ Gira, gira…*
+
+*Pobre e miserável girassol.*
