@@ -4,7 +4,6 @@
 
 ### Vesmência ¹
 
-
 *1. Maldita a hora em que nasci, maldito o Sol que se ergue sobre mim.*
 
 *2. Ora me aquece, ora me fere. Ora me chama, ora me repele.*
@@ -19,7 +18,6 @@
 
 ### Vesmência ²
 
-
 *7. Cada gota me recorda sua voz.*
 
 *8. Cada pétala me devolve o seu toque.*
@@ -29,7 +27,6 @@
 *10. Pois aquilo que tento deixar para trás é o que também mais insisto em guardar.*
 
 ### Vesmência ³
-
 
 *11. Cubram-se os céus de nuvens negras, que nem um Raio de Sol as atravesse. Fechem-se as portas, silenciem-se as estrelas. Que eu esqueça sua lembrança… e, por um curto período, até mesmo o caminho que conduz a ela.*
 
@@ -41,7 +38,6 @@
 
 ### Vesmência ¹
 
-
 *14. Julguei-me um homem de aço, achei que era forte, hoje me descubro fraco. Minhas mãos já não comportam o que um dia carregaram.*
 
 *15. Oh, Deus, escuta-me.*
@@ -50,19 +46,17 @@
 
 *17. deixa o meu peito descansar.*
 
-*18. Apaga da memória as lembranças que insistem em florir. Que eu esqueça temporariamente seu rosto, que por algum tempo me escape seu nome, que não se encontre em mim lugar para o amor.*
-
 ### Vesmência ²
 
+*18. Apaga da memória as lembranças que insistem em florir. Que eu esqueça temporariamente seu rosto, que por algum tempo me escape seu nome, que não se encontre em mim lugar para o amor.*
+
+### Vesmência ³
 
 *19. Ela não se foi, mas já a vejo se apagando.*
 
 *20. O Sol ainda brilha no horizonte, mas seus Raios se desvanecem e já não me alcançam como antes.*
 
 *21. Eis a luz no alto dos céus, eis a maldita memória a luzir sob o véu. Mas seus Raios, antes de me tocar, se desvanecem. Sua presença se afasta e já não me aquece.*
-
-### Vesmência ³
-
 
 *22. Em si, ela nada deixou para trás, mas eu… mais uma vez me encontro ao chão, em pedaços.*
 
@@ -73,7 +67,6 @@
 ## SUBPLUPAÇÃO ½
 
 ### Vesmência ¹
-
 
 *25. Dói no silêncio, dói na demora, dói no que fica, dói no que insisti, dói no que ainda não foi embora, dói no que existiu, dói no que nunca existiu.*
 
@@ -87,13 +80,11 @@
 
 ### Vesmência ²
 
-
 *30. Leva tudo! Leva o desejo! Leva o que sinto! Leva para longe o que ainda bate no peito!*
 
 *31. Leva a esperança de um dia te ter, leva os sonhos que ainda me chamam, leva o futuro que não pude viver. Mas deixa-me o nada, deixa-me o silêncio, deixa-me o vazio medonho. Deixa um cantinho pra chorar, no qual eu ainda possa respirar.*
 
 ### Vesmência ³
-
 
 *32. Talvez assim encontre meu antigo eu:*
 
@@ -106,7 +97,6 @@
 ## SUBPLUPAÇÃO 1
 
 ### Vesmência ¹
-
 
 *36. Vende-se um coração.*
 
@@ -128,7 +118,6 @@
 
 ### Vesmência ²
 
-
 *45. Vende-se um coração! Levai-o para longe: esse é seu preço.*
 
 *46. Diz-me quem me afastará dessa dor.*
@@ -141,7 +130,6 @@
 
 ### Vesmência ³
 
-
 *50. Mas quem vai querer o que sobrou de um homem que ainda sente, mas teme o amor?*
 
 *51. Vendo um coração que não sei onde está.*
@@ -152,7 +140,7 @@
 
 ### Vesmência ⁴
 
-
 *54. Vende-se ou procura-se…*
 
 *55. Para ser sincero, eu já nem sei...*
+*Como devo anunciar.*
