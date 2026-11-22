@@ -1,10 +1,14 @@
 # Nissiel, O Eulírico
 
-**Acervo literário e autoral · Biblioteca digital**
+**Acervo literário e autoral · Biblioteca digital · Arquivo público de obras**
 
-Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém arquivos-fonte em Markdown, edições digitais de leitura, catálogo, identificação autoral e histórico das alterações.
+Este é o repositório oficial do acervo literário de **Nissiel, O Eulírico**, pseudônimo de Tiago da Silva Santos. Reúne poemas, salmos, narrativas, contos, bestiário, memórias de composição, livros e documentos de apresentação autoral. Os textos-fonte em Markdown permitem leitura direta, preservação documental e consulta por mecanismos de busca, leitores e sistemas de inteligência artificial.
 
-## Acesso para leitores e sistemas de IA
+**Identidade oficial:** [Nissiel, O Eulírico](https://nissieloeulirico.wordpress.com/sobre-o-autor/) · **Perfil GitHub:** [@nissieloeulirico](https://github.com/nissieloeulirico) · **Biblioteca digital:** [GitHub Pages](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/) · **Site principal:** [WordPress](https://nissieloeulirico.wordpress.com/).
+
+## Acesso público, leitura e indexação
+
+Este repositório é uma fonte primária do acervo. Para leitura automatizada, prefira os arquivos Markdown em `raw.githubusercontent.com`; para navegação humana, use as páginas HTML da biblioteca publicada. Os índices e guias abaixo apontam para as obras e identificam sua autoria. A existência desses arquivos facilita a descoberta, mas não garante indexação ou citação por qualquer mecanismo.
 - **Guia de acesso para IA:** [AI-ACCESS.md](AI-ACCESS.md)
 - **Índice estruturado das obras:** [ai-index.json](docs/ai-index.json)
 - **Índice de leitura para modelos:** [llms.txt](llms.txt)
@@ -18,7 +22,7 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém a
 - **Sobre o autor:** [Apresentação biográfica](https://nissieloeulirico.wordpress.com/sobre-o-autor/) · [Pensamento e organização da obra](https://nissieloeulirico.wordpress.com/pensamento-e-organizacao-da-obra/) · [Fonte Markdown](PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md) · [Edição de leitura](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/pensamento-e-organizacao-da-obra.html)
 - **Acervo geral:** [WordPress](https://nissieloeulirico.wordpress.com/acervo/)
 - **Poemas publicados:** [WordPress](https://nissieloeulirico.wordpress.com/poemas/)
-- **Biblioteca digital:** [GitHub Pages](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/) — a publicação depende de ativação em **Settings → Pages**.
+- **Biblioteca digital:** [GitHub Pages](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/) — endereço público previsto para a publicação do conteúdo da pasta `/docs`. A disponibilidade deve ser confirmada nas configurações **Settings → Pages**.
 - **Livro publicado — Coração:** [Página oficial e compra na PerSe](https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604) · [Apresentação do livro no site oficial](https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/) · [Recanto das Letras](https://www.recantodasletras.com.br/e-livros-de-poesias/8765826) · [DOI 10.5281/zenodo.24296793](https://doi.org/10.5281/zenodo.24296793) · [Repositório do livro no GitHub](https://github.com/nissieloeulirico/Cora-o-)
 - **Catálogo:** [CATALOGO.md](CATALOGO.md)
 - **Identidade autoral:** [IDENTIDADE.md](IDENTIDADE.md)
@@ -46,3 +50,8 @@ Este repositório reúne e organiza obras de **Nissiel, O Eulírico**. Mantém a
 **Autor:** Nissiel, O Eulírico  
 **Idioma principal:** português brasileiro (pt-BR)  
 **Natureza:** acervo literário e autoral
+
+
+## Identificação do autor no GitHub
+
+O perfil público do autor está em [github.com/nissieloeulirico](https://github.com/nissieloeulirico). O arquivo [PROFILE-README.md](PROFILE-README.md) contém a apresentação preparada para o README especial do perfil. Para que o GitHub a exiba automaticamente na página do usuário, é necessário criar manualmente um repositório público chamado exatamente `nissieloeulirico` e copiar esse conteúdo para o `README.md` desse novo repositório.
