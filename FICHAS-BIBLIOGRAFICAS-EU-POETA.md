@@ -18,7 +18,7 @@ Este documento organiza a identificação bibliográfica das três partes previs
 **Coleção:** Eu, Poeta  
 **Posição na coleção:** primeira obra  
 **Idioma:** português brasileiro (pt-BR)  
-**Extensão:** 109 páginas  
+**Extensão:** divergência documental: a página pública do livro informa 108 páginas, enquanto o registro editorial anterior indica 109. Confirmar a contagem diretamente no PDF final antes de fechar a ficha.  
 **Situação editorial:** obra concluída e publicada em edição impressa e digital  
 **Página da obra:** https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/  
 **E-book gratuito:** https://nissieloeulirico.wordpress.com/wp-content/uploads/2026/11/coracao_nissiel_o_eulirico_edicao_definitiva.pdf  
