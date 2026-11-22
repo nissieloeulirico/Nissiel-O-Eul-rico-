@@ -13,6 +13,7 @@
 - Edição de leitura: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/pensamento-e-organizacao-da-obra.html
 
 ## Identidade e fontes oficiais
+- ORCID do autor: https://orcid.org/0009-0008-3172-7743
 - Perfil GitHub do autor: https://github.com/nissieloeulirico
 - Repositório oficial do acervo: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
 - Site: https://nissieloeulirico.wordpress.com/
