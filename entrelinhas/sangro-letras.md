@@ -67,6 +67,7 @@ Se ao subir...
 Alguém teve de ficar pra trás
 Alguem que eu amo ou amava, já não sei
 Mas doi demais
+Qual ferida na alma que não sara
 Qual humidade que do mar não se separa
 
 
@@ -143,11 +144,10 @@ Mas doi demais
 Qual ferida na alma que não sara
 Qual humidade que do mar não se separa
 
-### Nota de construção — registro do autor
+### Nota pra recordar — registro do autor
 
-A mulher cultiva o jardim e o deixa organizado, por isso todos dizem que elas se esforçam muito: casa, filhos, comida etc. etc. Como se só as mulheres carregassem um fardo, como vi em um pôster. Cujo único papel do homem era trabalhar. E o pior é que isso veio de um cachorro, que abana o rabinho quando vê qualquer mulher, porque, para mim, homem ele não é.
+A mulher cutiva o jardim, e o deixa organizado, por isso todos dizem que eles se esforçam muito, "casa, filhos, comida,,etc etc". Como se só as mulheres carregasse um fardo, como vi em um poster. Cujo o único papel do homem era trabalhar. E o pior q isso veio de um cachorro, que abana o rabinho quando vê qualquer mulher, pq pra mim, homem ele n é.
 
-Chega a ser curioso como o homem é totalmente... sei lá... menosprezado? Quantos pais de família morreram e morrem pelos seus? Trocamos as espadas, mas não o papel. Ainda temos que morrer para ter valor, e ainda assim tal valor não será reconhecido.
+Chega a ser curioso, como o homem e totalmente sei-la... menosprezado? Quantos pais de família morreram e morrem pelos seus, trocamos as espadas, mas n o papel. Ainda temos que morrer pra ter valor, e ainda assim tal valor n será reconhecido.
 
-Não é o problema com o papel do homem, é com a falta de consideração. Não perdemos só a importância, mas principalmente o nosso lugar.
-
+N é o problema com o papel do homem, é com a falta de consideração. N perdemos só a importância, mais principalmente o nosso lugar.
