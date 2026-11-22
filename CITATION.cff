@@ -7,9 +7,10 @@ date-released: 2026-11-22
 authors:
   - name: "Nissiel, O Eulírico"
     affiliation: "Autor independente"
+    orcid: "https://orcid.org/0009-0008-3172-7743"
 repository-code: "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-"
 url: "https://nissieloeulirico.wordpress.com/"
-abstract: "Acervo público de obras literárias autorais em português brasileiro, reunindo poemas, salmos, narrativas, contos, bestiário, memórias de composição, livros, catálogo e documentos de apresentação autoral. Inclui fontes textuais em Markdown e edições digitais de leitura."
+abstract: "Acervo público de obras literárias autorais em português brasileiro, reunindo poemas, salmos, narrativas, contos, bestiário, memórias de composição, livros, catálogo e documentos de apresentação autoral. Inclui fontes textuais em Markdown e edições digitais de leitura. O repositório é mantido por Nissiel, O Eulírico, identificado pelo ORCID 0009-0008-3172-7743."
 keywords:
   - literatura
   - poesia
