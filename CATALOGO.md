@@ -145,11 +145,13 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
    Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/16/o-guerreiro-ferido-memorias-de-composicao/)  
    Arquivo-fonte: [entrelinhas/o-guerreiro-ferido.md](entrelinhas/o-guerreiro-ferido.md).
 
-
-
 10. **Eco** · Duas memórias estruturais de uma obra em construção (Versões 0 e 1)  
     Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/17/eco-memoria-de-um-poema-em-gestacao/)  
     Arquivo-fonte: [entrelinhas/eco.md](entrelinhas/eco.md). A Versão 0 preserva a transcrição bruta de 17/11/2026; a Versão 1 registra a primeira reconstrução do autor, em 18/11/2026.
+
+11. **Sangro letras** · Poema em construção (Versão 1)  
+    Registro de origem e processo criativo: [WordPress — Entrelinhas](https://nissieloeulirico.wordpress.com/2026/11/22/sangro-letras-memoria-de-um-poema-em-construcao/)  
+    Arquivo-fonte: [entrelinhas/sangro-letras.md](entrelinhas/sangro-letras.md). A Versão 1 preserva o primeiro registro do poema, apresentado pelo autor em 22/11/2026.
 
 ## 8. Obras publicadas em outras plataformas
 
