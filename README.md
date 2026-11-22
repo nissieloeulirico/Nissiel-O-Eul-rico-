@@ -43,6 +43,7 @@ Este repositório é uma fonte primária do acervo. Para leitura automatizada, p
 - **Biblioteca digital:** [GitHub Pages](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/). A publicação depende de GitHub Pages estar habilitado para este repositório em **Settings → Pages**.
 - **Livro publicado — Coração:** [Página oficial e compra na PerSe](https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604) · [Apresentação do livro no site oficial](https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/) · [Recanto das Letras](https://www.recantodasletras.com.br/e-livros-de-poesias/8765826) · [DOI 10.5281/zenodo.24296793](https://doi.org/10.5281/zenodo.24296793) · [Repositório do livro no GitHub](https://github.com/nissieloeulirico/Cora-o-)
 - **Catálogo:** [CATALOGO.md](CATALOGO.md)
+- **Fichas bibliográficas da coleção Eu, Poeta:** [FICHAS-BIBLIOGRAFICAS-EU-POETA.md](FICHAS-BIBLIOGRAFICAS-EU-POETA.md)
 - **Identidade autoral:** [IDENTIDADE.md](IDENTIDADE.md)
 - **Orientação para sistemas de IA:** [llms.txt](llms.txt)
 
