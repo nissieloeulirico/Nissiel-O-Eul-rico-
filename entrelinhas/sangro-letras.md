@@ -148,6 +148,8 @@ Qual humidade que do mar não se separa
 
 A mulher cutiva o jardim, e o deixa organizado, por isso todos dizem que eles se esforçam muito, "casa, filhos, comida,,etc etc". Como se só as mulheres carregasse um fardo, como vi em um poster. Cujo o único papel do homem era trabalhar. E o pior q isso veio de um cachorro, que abana o rabinho quando vê qualquer mulher, pq pra mim, homem ele n é.
 
+O homem tem q vive em meio ao caos dos campos de batalhas, coberto de sangue, Imerso em um mar de lágrimas q nunca podem nem devem ser choradas.
+
 Chega a ser curioso, como o homem e totalmente sei-la... menosprezado? Quantos pais de família morreram e morrem pelos seus, trocamos as espadas, mas n o papel. Ainda temos que morrer pra ter valor, e ainda assim tal valor n será reconhecido.
 
 N é o problema com o papel do homem, é com a falta de consideração. N perdemos só a importância, mais principalmente o nosso lugar.
