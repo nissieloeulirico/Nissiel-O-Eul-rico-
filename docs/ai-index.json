@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "DataCatalog",
   "name": "Acervo literário de Nissiel, O Eulírico",
-  "description": "Índice de obras literárias autorais de Tiago da Silva Santos, publicadas sob o pseudônimo Nissiel, O Eulírico. Inclui poemas, salmos, narrativas, bestiário, ensaios e livro.",
+  "description": "Índice estruturado do acervo literário oficial de Nissiel, O Eulírico (Tiago da Silva Santos). Reúne poemas, salmos, narrativas, bestiário, ensaios e livro, com links para fontes Markdown, páginas HTML e publicações de referência.",
   "creator": {
     "@type": "Person",
     "name": "Nissiel, O Eulírico",
@@ -361,7 +361,7 @@
         "url": "https://nissieloeulirico.wordpress.com/sobre-o-autor/"
       },
       "inLanguage": "pt-BR",
-      "url": "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/coracao.html",
+      "url": "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/obras/coracao.html",
       "encodingFormat": "text/html",
       "sameAs": [
         "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/docs/obras/coracao.html",
