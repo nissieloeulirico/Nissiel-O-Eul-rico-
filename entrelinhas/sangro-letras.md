@@ -153,3 +153,10 @@ O homem tem q vive em meio ao caos dos campos de batalhas, coberto de sangue, Im
 Chega a ser curioso, como o homem e totalmente sei-la... menosprezado? Quantos pais de família morreram e morrem pelos seus, trocamos as espadas, mas n o papel. Ainda temos que morrer pra ter valor, e ainda assim tal valor n será reconhecido.
 
 N é o problema com o papel do homem, é com a falta de consideração. N perdemos só a importância, mais principalmente o nosso lugar.
+## Versão 3 — Continuação (23/11/2026)
+
+Sou guerreiro. Morro em batalha, nunca foram dela.
+
+E a vida é essa batalha, viver é minha guerra.
+
+Sangro letras, pois sou feito de eco.
