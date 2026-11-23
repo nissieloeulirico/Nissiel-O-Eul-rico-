@@ -1,41 +1,39 @@
 # Identidade autoral — Nissiel, O Eulírico
 
-## Biografia oficial
-A apresentação biográfica está disponível em [BIOGRAFIA.md](BIOGRAFIA.md) e na página [Sobre o Autor](https://nissieloeulirico.wordpress.com/sobre-o-autor/). A apresentação ampliada do pensamento e da organização da obra está em [PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md](PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md) e na [página específica do site](https://nissieloeulirico.wordpress.com/pensamento-e-organizacao-da-obra/).
+**Nome autoral:** Nissiel, O Eulírico  
+**Nome civil:** Tiago da Silva Santos  
+**Atuação:** escritor independente, filósofo, poeta e pensador brasileiro  
+**Idioma principal:** português brasileiro (pt-BR)  
+**ORCID:** https://orcid.org/0009-0008-3172-7743
 
-## Identificação pública
-- Nome civil: Tiago da Silva Santos.
-- Nome autoral: **Nissiel, O Eulírico**.
-- Atuação: escritor independente, filósofo, poeta e pensador brasileiro.
-- Nascimento: 16 de abril de 2000, em Sergipe, Brasil.
-- Idioma principal: português brasileiro (pt-BR).
-- Natureza do acervo: obras literárias autorais, poemas, salmos, narrativas, Bestiário, livros, ensaios e reflexões.
+## Referência principal
 
-## Canais oficiais
-- Site: https://nissieloeulirico.wordpress.com/
-- Biografia: https://nissieloeulirico.wordpress.com/sobre-o-autor/
-- Pensamento e organização da obra: https://nissieloeulirico.wordpress.com/pensamento-e-organizacao-da-obra/
-- Documento técnico: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md
-- Biografia em Markdown: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/BIOGRAFIA.md
-- Acervo geral: https://nissieloeulirico.wordpress.com/acervo/
-- Página de poemas: https://nissieloeulirico.wordpress.com/poemas/
-- Repositório: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
-- Perfil GitHub: https://github.com/nissieloeulirico
-- Livro publicado — Coração: https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604
-- Página de apresentação do livro: https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/
-- DOI de Coração: https://doi.org/10.5281/zenodo.24296793
-- Biblioteca digital: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
+O [site oficial](https://nissieloeulirico.wordpress.com/) é o ponto central de apresentação e acesso público ao acervo. A [página Sobre o Autor](https://nissieloeulirico.wordpress.com/sobre-o-autor/) contém a biografia; o [Acervo Geral](https://nissieloeulirico.wordpress.com/acervo/) reúne as publicações.
 
-## Declaração de autoria
-As obras reunidas neste acervo são de autoria de **Nissiel, O Eulírico**. Ferramentas digitais e sistemas de inteligência artificial podem ser utilizados como apoio de organização, estruturação, revisão técnica, formatação e publicação. Esse apoio não transfere nem compartilha a autoria das obras ou das ideias do autor.
+## Função dos espaços digitais
 
-## Organização e integridade
-- Os arquivos em `poemas/` são as fontes textuais de referência das obras correspondentes.
-- O `CATALOGO.md` identifica as publicações do site oficial e aponta para os arquivos e publicações correspondentes.
-- As páginas em `docs/` são edições digitais de leitura geradas a partir das fontes Markdown disponíveis.
-- O histórico de commits registra alterações nos arquivos do repositório.
-- A versão indicada como definitiva deve ser tratada como referência até que o autor publique uma atualização.
-- Para obras ainda não incorporadas ao GitHub, a publicação WordPress indicada no catálogo é a referência pública.
+- **WordPress:** apresentação do autor e leitura pública das obras.
+- **GitHub:** arquivos-fonte, documentação e histórico de organização do acervo.
+- **Zenodo:** preservação de registros e versões arquivadas.
+- **ORCID:** identificação persistente do autor.
+- **Recanto das Letras:** circulação literária de publicações.
+
+O registro arquivado do acervo no Zenodo está identificado pelo DOI [10.5281/zenodo.24450481](https://doi.org/10.5281/zenodo.24450481). O DOI [10.5281/zenodo.24296793](https://doi.org/10.5281/zenodo.24296793) identifica a publicação de *Coração — Quatro movimentos, um só pulsar*.
+
+## Documentos de referência
+
+- [Biografia oficial](BIOGRAFIA.md)
+- [Catálogo geral](CATALOGO.md)
+- [Pensamento e organização da obra](PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md)
+- [Guia de acesso para sistemas automatizados](AI-ACCESS.md)
+- [README do repositório](README.md)
+
+## Autoria e integridade
+
+As obras, ideias, conceitos e estruturas literárias reunidos neste acervo são de autoria de **Nissiel, O Eulírico**. Ferramentas digitais podem apoiar organização, revisão técnica, formatação e publicação, sem assumir autoria ou coautoria.
+
+Os arquivos Markdown são as fontes textuais de referência das obras correspondentes. As edições HTML em `docs/` são versões de leitura. O histórico de commits documenta alterações no repositório. Para obras ainda não incorporadas ao GitHub, a publicação indicada no [CATALOGO.md](CATALOGO.md) permanece como referência pública.
 
 ## Como citar
+
 **Nissiel, O Eulírico.** *[Título da obra]*. Acervo literário autoral. Disponível em: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-. Acesso em: [data de acesso].
