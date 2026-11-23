@@ -13,10 +13,11 @@
 - Edição de leitura: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/pensamento-e-organizacao-da-obra.html
 
 ## Identidade e fontes oficiais
+- Vitrine principal: https://nissieloeulirico.github.io/
 - ORCID do autor: https://orcid.org/0009-0008-3172-7743
 - Perfil GitHub do autor: https://github.com/nissieloeulirico
 - Repositório oficial do acervo: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
-- Site: https://nissieloeulirico.wordpress.com/
+- Plataforma de publicação WordPress: https://nissieloeulirico.wordpress.com/
 - Acervo geral: https://nissieloeulirico.wordpress.com/acervo/
 - Poemas: https://nissieloeulirico.wordpress.com/poemas/
 - Salmos: https://nissieloeulirico.wordpress.com/salmos/
@@ -25,7 +26,7 @@
 - Escritos: https://nissieloeulirico.wordpress.com/escritos/
 - Entrelinhas: https://nissieloeulirico.wordpress.com/entrelinhas/
 - Repositório: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
-- Biblioteca digital: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
+- Biblioteca digital complementar: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
 
 ## Publicação de referência
 - Livro: Coração — Quatro movimentos, um só pulsar.
