@@ -43,14 +43,9 @@ A apresentação ampliada do pensamento filosófico de Nissiel, de sua arquitetu
 - [O pensamento e a organização da obra](PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md)
 - [Página correspondente no site oficial](https://nissieloeulirico.wordpress.com/pensamento-e-organizacao-da-obra/)
 
-## Canais oficiais
+## Acesso ao acervo
 
-- [Site oficial e acervo](https://nissieloeulirico.wordpress.com/)
-- [Sobre o autor](https://nissieloeulirico.wordpress.com/sobre-o-autor/)
-- [Repositório literário no GitHub](https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-)
-- [Biblioteca digital](https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/)
-- [Coração — página do livro](https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/)
-- [Coração — DOI](https://doi.org/10.5281/zenodo.24296793)
+Para consultar as obras, os canais oficiais e os registros bibliográficos, acesse o [site oficial de Nissiel, O Eulírico](https://nissieloeulirico.wordpress.com/), que reúne essas referências em um único ponto de entrada.
 
 **Identificação autoral:** Nissiel, O Eulírico  
 **Nome civil:** Tiago da Silva Santos  
