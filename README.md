@@ -6,16 +6,16 @@ Este é o repositório oficial do acervo de **Nissiel, O Eulírico**, pseudônim
 
 ## Ponto de entrada
 
-- **Site oficial e leitura das obras:** https://nissieloeulirico.wordpress.com/
-- **Biografia:** https://nissieloeulirico.wordpress.com/sobre-o-autor/
-- **Acervo geral:** https://nissieloeulirico.wordpress.com/acervo/
+- **Vitrine oficial:** https://nissieloeulirico.github.io/
+- **Apresentação do autor:** https://nissieloeulirico.github.io/sobre-o-autor/
+- **Acervo:** https://nissieloeulirico.github.io/acervo/
 - **Perfil GitHub:** https://github.com/nissieloeulirico
 - **Publicação Coração no Recanto das Letras:** https://www.recantodasletras.com.br/e-livros-de-poesias/8765826
 - **Instagram:** https://www.instagram.com/NissielOEulirico/
 - **ORCID:** https://orcid.org/0009-0008-3172-7743
 - **Registro arquivado do acervo no Zenodo:** https://doi.org/10.5281/zenodo.24450481
 
-O WordPress é o espaço principal de leitura e apresentação pública. Este repositório preserva os arquivos-fonte e a documentação estrutural. O Zenodo registra versões arquivadas; seus DOI identificam registros específicos, não substituem o repositório em atualização contínua.
+A vitrine principal e porta de entrada pública é https://nissieloeulirico.github.io/. O WordPress permanece como plataforma de publicação e arquivo de textos; este repositório preserva os arquivos-fonte, versões documentais e a estrutura do acervo. O Zenodo registra versões arquivadas; seus DOI identificam registros específicos, não substituem o repositório em atualização contínua.
 
 ## Comece pelo assunto
 
@@ -43,7 +43,7 @@ O WordPress é o espaço principal de leitura e apresentação pública. Este re
 
 **Coração — Quatro movimentos, um só pulsar**, primeiro livro do autor.
 
-- [Página de apresentação no site oficial](https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/)
+- [Página de apresentação no site oficial](https://nissieloeulirico.github.io/coracao-livro-nissiel-o-eulirico/)
 - [E-book integral gratuito em PDF](https://nissieloeulirico.wordpress.com/wp-content/uploads/2026/11/coracao_nissiel_o_eulirico_edicao_definitiva.pdf)
 - [DOI da publicação](https://doi.org/10.5281/zenodo.24296793)
 
