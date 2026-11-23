@@ -136,3 +136,11 @@ Já o Eu-Lírico... é a voz que canta e lamenta, fazendo do sofrimento riqueza 
 Entendei que o eco é aquilo que pelos homens é vivido e escolhido,
 pois confundem a realidade com o breve sopro que por ela é produzido.
 
+
+## Versão 2 — Continuação (23/11/2026)
+
+Sou guerreiro. Morro em batalha, nunca foram dela.
+
+E a vida é essa batalha, viver é minha guerra.
+
+Sangro letras, pois sou feito de eco.
