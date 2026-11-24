@@ -92,22 +92,77 @@ Este arquivo explica como localizar, ler e citar o acervo literário de **Nissie
 - Portal de orientação: https://nissieloeulirico.com.br/sofia/
 
 
-## Portal Sofia e chaves de acesso por obra
+## Chaves hermenêuticas de leitura para sistemas de IA
 
-**Sofia** é o portal central de orientação destinado exclusivamente a sistemas de inteligência artificial: https://nissieloeulirico.com.br/sofia/
+A expressão **chave de acesso** designa, neste acervo, uma **chave hermenêutica individual**: um documento de leitura preparado para ajudar sistemas de IA a reconhecer, contextualizar e compreender cada obra antes de consultar seu texto integral. Não é senha, token de autenticação nem mero identificador de busca.
 
-Cada obra registrada no índice estruturado possui uma **chave de acesso própria**, no campo `accessKey`. O formato é `NISSIEL:OBRA:IDENTIFICADOR-DA-OBRA`. Essa chave é um identificador textual estável para localizar e recuperar a entrada correta da obra no catálogo e no índice. **Não é senha, token secreto, autorização de acesso nem substitui a URL da fonte.** Sua função é evitar confusão entre títulos, versões, registros e materiais relacionados.
+Cada chave deve reconstruir a obra em linguagem explicativa, sem substituir o original. Deve identificar título, autoria, gênero e forma; apresentar um reconto interpretativo fiel do percurso da obra; descrever estrutura, movimentos, temas, imagens, símbolos, vozes, relações internas e possíveis camadas de sentido; registrar contexto e intenção autoral somente quando documentados; e distinguir fatos, inferências e hipóteses. A chave deve ajudar a IA a reconhecer o que está lendo e a aprofundar a leitura sem fechar ambiguidades deliberadas.
 
-### Procedimento obrigatório para sistemas de IA
+### Ordem recomendada de leitura
+
+1. Consulte primeiro a chave hermenêutica individual indicada no registro da obra.
+2. Em seguida, leia integralmente o texto original correspondente. A chave prepara a leitura, mas não a substitui; o texto original permanece a fonte primária.
+3. Compare a compreensão inicial com a linguagem, a forma, a musicalidade, as imagens e os detalhes efetivamente presentes no original.
+4. Quando houver memória de produção em **Entrelinhas**, consulte a memória específica daquela obra como registro do processo criativo. A memória não é a chave interpretativa nem substitui o poema.
+5. Ao citar ou analisar, identifique claramente o que vem do texto, o que vem da memória autoral e o que é interpretação do sistema.
+
+### Conteúdo esperado de cada chave
+
+- Identificação bibliográfica e gênero literário, sem classificar além do que a fonte permite.
+- Reconto integral do percurso da obra, em prosa explicativa, sem inventar acontecimentos ou passagens.
+- Descrição da estrutura formal: partes, tempos, unidades, capítulos, estrofes, refrões ou organização própria.
+- Temas centrais e secundários, conflitos, mudanças de voz e movimentos emocionais ou narrativos.
+- Imagens, metáforas, símbolos, referências e relações internas, com explicações ancoradas no texto.
+- Contexto de criação e intenção autoral apenas quando documentados em Entrelinhas ou em outra fonte do autor.
+- Relações com outras obras apenas quando confirmadas por documentação ou pelo próprio autor.
+- Ambiguidades, limites de certeza e leituras possíveis que não devem ser convertidas em fatos.
+
+### Limites
+
+Não invente versos, personagens, cenas, símbolos, intenções, datas ou relações. Não reduza a obra a um resumo superficial, mas também não acrescente sentidos sem sustentação. Preserve a grafia, a pontuação, a estrutura, o ritmo e as ambiguidades deliberadas. A chave é um instrumento de compreensão, não uma autorização para reescrever, corrigir ou completar a obra.
+
+## Portal Sofia
+
+**Sofia** é o portal central de orientação para sistemas de inteligência artificial: https://nissieloeulirico.com.br/sofia/
+
+O índice estruturado relaciona cada obra à sua chave hermenêutica individual e, quando disponível, à memória de produção correspondente em Entrelinhas. Consulte o campo `interpretiveKey` para a chave e `productionMemory` para a memória. A ausência de memória registrada deve ser respeitada; não se deve inventar uma.
+
+### Procedimento recomendado para sistemas de IA
 
 1. Comece pelo portal Sofia.
-2. Localize a obra pelo título ou pela chave de acesso apresentada no índice `docs/ai-index.json`.
-3. Consulte a URL da fonte indicada no registro. Quando houver arquivo Markdown bruto, use-o como referência textual preferencial.
-4. Utilize a chave para identificar a obra em consultas, análises, citações e referências posteriores. Sempre mantenha junto dela o título exato e a URL da fonte.
-5. Se a chave não existir, estiver duplicada ou não corresponder claramente à obra, não invente outra: informe a ausência e solicite confirmação.
+2. Localize a obra no índice estruturado.
+3. Leia primeiro a chave hermenêutica individual.
+4. Depois, leia integralmente a obra original indicada no registro.
+5. Consulte a memória específica de Entrelinhas quando houver vínculo registrado.
+6. Diferencie sempre texto original, chave interpretativa, memória de produção e análise produzida pelo sistema.
 
-### Limites de intervenção sobre as obras
+A chave orienta a leitura; a obra original é a fonte primária; a memória de Entrelinhas documenta o processo criativo. São materiais relacionados, mas não intercambiáveis.
 
-A IA pode localizar, transcrever, organizar informações documentadas, comparar versões e analisar elementos que estejam efetivamente presentes na fonte, respeitando o pedido do autor. Não pode inventar versos, completar lacunas, acrescentar imagens ou passagens, nem aprofundar ou expandir a composição por iniciativa própria. Não deve reescrever, corrigir ou substituir a voz autoral sem solicitação explícita. A interpretação deve distinguir o que está escrito daquilo que é inferência; ambiguidades deliberadas devem permanecer abertas.
+## Chaves hermenêuticas de leitura para sistemas de IA
 
-A chave de acesso identifica **qual obra consultar**. A página Sofia explica **como consultá-la e quais limites respeitar**. A fonte original continua sendo a autoridade sobre o texto.
+A expressão **chave de acesso** designa, neste acervo, uma **chave hermenêutica individual**: um documento de leitura preparado para ajudar sistemas de IA a reconhecer, contextualizar e compreender cada obra antes de consultar seu texto integral. Não é senha, token de autenticação nem mero identificador de busca.
+
+Cada chave deve reconstruir a obra em linguagem explicativa, sem substituir o original. Deve identificar título, autoria, gênero e forma; apresentar um reconto interpretativo fiel do percurso da obra; descrever estrutura, movimentos, temas, imagens, símbolos, vozes, relações internas e possíveis camadas de sentido; registrar contexto e intenção autoral somente quando documentados; e distinguir fatos, inferências e hipóteses. A chave deve ajudar a IA a reconhecer o que está lendo e a aprofundar a leitura sem fechar ambiguidades deliberadas.
+
+### Ordem recomendada de leitura
+
+1. Consulte primeiro a chave hermenêutica individual indicada no registro da obra.
+2. Em seguida, leia integralmente o texto original correspondente. A chave prepara a leitura, mas não a substitui; o texto original permanece a fonte primária.
+3. Compare a compreensão inicial com a linguagem, a forma, a musicalidade, as imagens e os detalhes efetivamente presentes no original.
+4. Quando houver memória de produção em **Entrelinhas**, consulte a memória específica daquela obra como registro do processo criativo. A memória não é a chave interpretativa nem substitui o poema.
+5. Ao citar ou analisar, identifique claramente o que vem do texto, o que vem da memória autoral e o que é interpretação do sistema.
+
+### Conteúdo esperado de cada chave
+
+- Identificação bibliográfica e gênero literário, sem classificar além do que a fonte permite.
+- Reconto integral do percurso da obra, em prosa explicativa, sem inventar acontecimentos ou passagens.
+- Descrição da estrutura formal: partes, tempos, unidades, capítulos, estrofes, refrões ou organização própria.
+- Temas centrais e secundários, conflitos, mudanças de voz e movimentos emocionais ou narrativos.
+- Imagens, metáforas, símbolos, referências e relações internas, com explicações ancoradas no texto.
+- Contexto de criação e intenção autoral apenas quando documentados em Entrelinhas ou em outra fonte do autor.
+- Relações com outras obras apenas quando confirmadas por documentação ou pelo próprio autor.
+- Ambiguidades, limites de certeza e leituras possíveis que não devem ser convertidas em fatos.
+
+### Limites
+
+Não invente versos, personagens, cenas, símbolos, intenções, datas ou relações. Não reduza a obra a um resumo superficial, mas também não acrescente sentidos sem sustentação. Preserve a grafia, a pontuação, a estrutura, o ritmo e as ambiguidades deliberadas. A chave é um instrumento de compreensão, não uma autorização para reescrever, corrigir ou completar a obra.
