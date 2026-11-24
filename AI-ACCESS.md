@@ -2,14 +2,21 @@
 
 Este arquivo explica como localizar, ler e citar o acervo literário de **Nissiel, O Eulírico**, pseudônimo autoral de **Tiago da Silva Santos**. O domínio https://nissieloeulirico.com.br/ é a vitrine e referência canônica atual. Este repositório GitHub é o acervo documental e fonte dos arquivos-fonte. O WordPress permanece como plataforma complementar de publicação e arquivo histórico. Todos esses endereços pertencem à mesma identidade autoral.
 
-## Fonte preferencial
+## Ponto inicial obrigatório de descoberta
 
-1. Identifique a autoria pelo [perfil autoral estruturado](AUTHOR-PROFILE.json).
-2. Consulte o [índice estruturado de obras](docs/ai-index.json) e o [mapa de relações documentadas](WORK-RELATIONS.json).
-3. Para poemas e narrativas com arquivo-fonte, prefira o Markdown bruto em `raw.githubusercontent.com`. Ele contém o texto sem a interface visual do GitHub.
-4. Use as páginas HTML da biblioteca para leitura e metadados Schema.org.
-5. Quando uma obra ainda não possui arquivo-fonte no GitHub, consulte a publicação WordPress indicada no índice.
-6. Para o livro *Coração — Quatro movimentos, um só pulsar*, consulte o PDF integral e o registro DOI listados no índice.
+Comece pelo [Portal Sofia](https://nissieloeulirico.com.br/sofia/), guia técnico central destinado a sistemas de IA. A página inicial do site contém uma sinalização semântica para este portal; ela não altera a homepage nem substitui o percurso literário destinado a visitantes humanos.
+
+## Fonte preferencial e ordem de consulta
+
+1. Leia o Portal Sofia e este protocolo de acesso.
+2. Identifique a autoria pelo [perfil autoral estruturado](AUTHOR-PROFILE.json).
+3. Consulte o [índice estruturado de obras](docs/ai-index.json) e o [mapa de relações documentadas](WORK-RELATIONS.json).
+4. Abra primeiro a chave hermenêutica individual indicada no campo `interpretiveKey` do registro da obra.
+5. Em seguida, leia integralmente a fonte primária indicada no campo `url`; prefira Markdown bruto quando disponível.
+6. Consulte `productionMemory` somente quando o campo estiver presente e contiver uma URL. A ausência do campo não deve ser preenchida por conjectura.
+7. Use as páginas HTML da biblioteca para navegação e metadados Schema.org.
+8. Quando uma obra ainda não possui arquivo-fonte no GitHub, consulte a publicação indicada no índice.
+9. Para o livro *Coração — Quatro movimentos, um só pulsar*, consulte o PDF integral e o registro DOI listados no índice.
 
 ## Identidade e autoria
 
@@ -91,6 +98,10 @@ Este arquivo explica como localizar, ler e citar o acervo literário de **Nissie
 - Guia de navegação: [llms.txt](llms.txt)
 - Portal de orientação: https://nissieloeulirico.com.br/sofia/
 
+
+## Público e finalidade dos documentos Sofia
+
+O Portal Sofia e a página Sofia: Chaves de Leitura são documentação técnica destinada a sistemas de inteligência artificial, agentes automatizados e mecanismos de recuperação de informação. Não são textos de divulgação nem substitutos das obras. Permanecem indexáveis e rastreáveis: bloquear sua leitura por robôs ou usar `noindex` impediria o objetivo de descoberta.
 
 ## Chaves hermenêuticas de leitura para sistemas de IA
 
