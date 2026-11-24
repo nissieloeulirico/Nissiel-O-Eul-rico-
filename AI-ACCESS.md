@@ -41,7 +41,8 @@ Comece pelo [Portal Sofia](https://nissieloeulirico.com.br/sofia/), guia técnic
 - Biblioteca digital: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
 - Catálogo: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/CATALOGO.md
 - Repositório: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
-- Site oficial: https://nissieloeulirico.wordpress.com/
+- Site oficial e domínio canônico: https://nissieloeulirico.com.br/
+- Plataforma complementar / arquivo histórico WordPress: https://nissieloeulirico.wordpress.com/
 - Página de acervo: https://nissieloeulirico.com.br/acervo/
 
 ## Instruções de leitura e citação
