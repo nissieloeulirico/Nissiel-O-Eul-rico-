@@ -154,7 +154,8 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/28/anjo-rebelde/"
       ],
-      "workId": "NISSIEL:OBRA:ANJO-REBELDE"
+      "workId": "NISSIEL:OBRA:ANJO-REBELDE",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/anjo-rebelde.md"
     },
     {
       "@type": "CreativeWork",
@@ -246,7 +247,8 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/31/dai-me-o-teu/"
       ],
-      "workId": "NISSIEL:OBRA:DAI-ME-O-TEU-E-O-MEU-TE-DAREI"
+      "workId": "NISSIEL:OBRA:DAI-ME-O-TEU-E-O-MEU-TE-DAREI",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/dai-me-o-teu-e-o-meu-te-darei.md"
     },
     {
       "@type": "CreativeWork",
@@ -266,7 +268,8 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/31/im-perfeicao/"
       ],
-      "workId": "NISSIEL:OBRA:IM-PERFEICAO"
+      "workId": "NISSIEL:OBRA:IM-PERFEICAO",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/im-perfeicao.md"
     },
     {
       "@type": "CreativeWork",
@@ -310,7 +313,8 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/"
       ],
-      "workId": "NISSIEL:OBRA:SALMO-DE-NISSIEL"
+      "workId": "NISSIEL:OBRA:SALMO-DE-NISSIEL",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/salmo-de-nissiel.md"
     },
     {
       "@type": "CreativeWork",
@@ -353,7 +357,8 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/28/o-odre/"
       ],
-      "workId": "NISSIEL:OBRA:O-ODRE"
+      "workId": "NISSIEL:OBRA:O-ODRE",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/o-odre.md"
     },
     {
       "@type": "CreativeWork",
@@ -373,7 +378,8 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/02/vespergon/"
       ],
-      "workId": "NISSIEL:OBRA:VESPERGON"
+      "workId": "NISSIEL:OBRA:VESPERGON",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/vespergon.md"
     },
     {
       "@type": "CreativeWork",
@@ -393,7 +399,8 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/02/agra-imperial/"
       ],
-      "workId": "NISSIEL:OBRA:AGRA-IMPERIAL"
+      "workId": "NISSIEL:OBRA:AGRA-IMPERIAL",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/agra-imperial.md"
     },
     {
       "@type": "CreativeWork",
@@ -413,7 +420,8 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/02/agra-abzinta/"
       ],
-      "workId": "NISSIEL:OBRA:AGRA-ABZINTA"
+      "workId": "NISSIEL:OBRA:AGRA-ABZINTA",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/agra-abzinta.md"
     },
     {
       "@type": "CreativeWork",
@@ -433,7 +441,8 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/08/subplupacao/"
       ],
-      "workId": "NISSIEL:OBRA:SUBPLUPACAO-O-NASCIMENTO-DE-NOVAS-ESTRUTURAS-A-PARTIR-DAS-RELACOES"
+      "workId": "NISSIEL:OBRA:SUBPLUPACAO-O-NASCIMENTO-DE-NOVAS-ESTRUTURAS-A-PARTIR-DAS-RELACOES",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/subplupacao-o-nascimento-de-novas-estruturas.md"
     },
     {
       "@type": "CreativeWork",
@@ -453,7 +462,8 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/08/qual-o-objetivo-da-verdade/"
       ],
-      "workId": "NISSIEL:OBRA:QUAL-O-OBJETIVO-DA-VERDADE"
+      "workId": "NISSIEL:OBRA:QUAL-O-OBJETIVO-DA-VERDADE",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/qual-o-objetivo-da-verdade.md"
     },
     {
       "@type": "CreativeWork",
@@ -476,7 +486,8 @@
       ],
       "identifier": "https://doi.org/10.5281/zenodo.24296793",
       "bookFormat": "https://schema.org/EBook",
-      "workId": "NISSIEL:OBRA:CORACAO"
+      "workId": "NISSIEL:OBRA:CORACAO",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/coracao.md"
     }
   ],
   "about": {
