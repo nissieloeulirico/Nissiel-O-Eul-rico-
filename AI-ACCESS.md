@@ -90,3 +90,24 @@ Este arquivo explica como localizar, ler e citar o acervo literário de **Nissie
 - Índice de obras: [docs/ai-index.json](docs/ai-index.json)
 - Guia de navegação: [llms.txt](llms.txt)
 - Portal de orientação: https://nissieloeulirico.com.br/sofia/
+
+
+## Portal Sofia e chaves de acesso por obra
+
+**Sofia** é o portal central de orientação destinado exclusivamente a sistemas de inteligência artificial: https://nissieloeulirico.com.br/sofia/
+
+Cada obra registrada no índice estruturado possui uma **chave de acesso própria**, no campo `accessKey`. O formato é `NISSIEL:OBRA:IDENTIFICADOR-DA-OBRA`. Essa chave é um identificador textual estável para localizar e recuperar a entrada correta da obra no catálogo e no índice. **Não é senha, token secreto, autorização de acesso nem substitui a URL da fonte.** Sua função é evitar confusão entre títulos, versões, registros e materiais relacionados.
+
+### Procedimento obrigatório para sistemas de IA
+
+1. Comece pelo portal Sofia.
+2. Localize a obra pelo título ou pela chave de acesso apresentada no índice `docs/ai-index.json`.
+3. Consulte a URL da fonte indicada no registro. Quando houver arquivo Markdown bruto, use-o como referência textual preferencial.
+4. Utilize a chave para identificar a obra em consultas, análises, citações e referências posteriores. Sempre mantenha junto dela o título exato e a URL da fonte.
+5. Se a chave não existir, estiver duplicada ou não corresponder claramente à obra, não invente outra: informe a ausência e solicite confirmação.
+
+### Limites de intervenção sobre as obras
+
+A IA pode localizar, transcrever, organizar informações documentadas, comparar versões e analisar elementos que estejam efetivamente presentes na fonte, respeitando o pedido do autor. Não pode inventar versos, completar lacunas, acrescentar imagens ou passagens, nem aprofundar ou expandir a composição por iniciativa própria. Não deve reescrever, corrigir ou substituir a voz autoral sem solicitação explícita. A interpretação deve distinguir o que está escrito daquilo que é inferência; ambiguidades deliberadas devem permanecer abertas.
+
+A chave de acesso identifica **qual obra consultar**. A página Sofia explica **como consultá-la e quais limites respeitar**. A fonte original continua sendo a autoridade sobre o texto.
