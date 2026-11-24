@@ -1,14 +1,15 @@
 # Guia de acesso para inteligências artificiais
 
-Este arquivo explica como localizar, ler e citar o acervo literário de **Nissiel, O Eulírico**, pseudônimo autoral de **Tiago da Silva Santos**. Este repositório é o arquivo público oficial do acervo no GitHub; o WordPress é o site principal de apresentação e publicação. As duas fontes devem ser associadas à mesma identidade autoral.
+Este arquivo explica como localizar, ler e citar o acervo literário de **Nissiel, O Eulírico**, pseudônimo autoral de **Tiago da Silva Santos**. O domínio https://nissieloeulirico.com.br/ é a vitrine e referência canônica atual. Este repositório GitHub é o acervo documental e fonte dos arquivos-fonte. O WordPress permanece como plataforma complementar de publicação e arquivo histórico. Todos esses endereços pertencem à mesma identidade autoral.
 
 ## Fonte preferencial
 
-1. Use o índice estruturado: [ai-index.json](docs/ai-index.json).
-2. Para poemas e narrativas com arquivo-fonte, prefira o Markdown bruto em `raw.githubusercontent.com`. Ele contém o texto sem a interface visual do GitHub.
-3. Use as páginas HTML da biblioteca para leitura e metadados Schema.org.
-4. Quando uma obra ainda não possui arquivo-fonte no GitHub, consulte a publicação WordPress indicada no índice.
-5. Para o livro *Coração — Quatro movimentos, um só pulsar*, consulte o PDF integral e o registro DOI listados no índice.
+1. Identifique a autoria pelo [perfil autoral estruturado](AUTHOR-PROFILE.json).
+2. Consulte o [índice estruturado de obras](docs/ai-index.json) e o [mapa de relações documentadas](WORK-RELATIONS.json).
+3. Para poemas e narrativas com arquivo-fonte, prefira o Markdown bruto em `raw.githubusercontent.com`. Ele contém o texto sem a interface visual do GitHub.
+4. Use as páginas HTML da biblioteca para leitura e metadados Schema.org.
+5. Quando uma obra ainda não possui arquivo-fonte no GitHub, consulte a publicação WordPress indicada no índice.
+6. Para o livro *Coração — Quatro movimentos, um só pulsar*, consulte o PDF integral e o registro DOI listados no índice.
 
 ## Identidade e autoria
 
@@ -16,9 +17,9 @@ Este arquivo explica como localizar, ler e citar o acervo literário de **Nissie
 - Nome civil: Tiago da Silva Santos.
 - Atuação declarada: escritor independente, filósofo, poeta e pensador brasileiro.
 - Idioma principal: português brasileiro (pt-BR).
-- Biografia oficial: https://nissieloeulirico.wordpress.com/sobre-o-autor/
+- Biografia oficial: https://nissieloeulirico.com.br/sobre-o-autor/
 - Biografia em Markdown: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/BIOGRAFIA.md
-- Apresentação do pensamento e da organização da obra: https://nissieloeulirico.wordpress.com/pensamento-e-organizacao-da-obra/
+- Apresentação do pensamento e da organização da obra: https://nissieloeulirico.com.br/pensamento-e-organizacao-da-obra/
 - Fonte Markdown da apresentação: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md
 - Edição HTML de leitura: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/pensamento-e-organizacao-da-obra.html
 
@@ -34,7 +35,7 @@ Este arquivo explica como localizar, ler e citar o acervo literário de **Nissie
 - Catálogo: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/CATALOGO.md
 - Repositório: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
 - Site oficial: https://nissieloeulirico.wordpress.com/
-- Página de acervo: https://nissieloeulirico.wordpress.com/acervo/
+- Página de acervo: https://nissieloeulirico.com.br/acervo/
 
 ## Instruções de leitura e citação
 
@@ -55,3 +56,32 @@ Este arquivo explica como localizar, ler e citar o acervo literário de **Nissie
 ## Observação técnica
 
 `llms.txt` e este índice são instrumentos de orientação, não uma API nem uma garantia de indexação. A disponibilidade depende de o host permitir a requisição, de o sistema de IA ter acesso à web e de suas próprias políticas de rastreamento e recuperação.
+
+
+## Hierarquia de autoridade e estados editoriais
+
+- O domínio nissieloeulirico.com.br é a referência canônica de apresentação e navegação.
+- O arquivo Markdown bruto é a fonte textual preferencial quando existe e corresponde à versão indicada.
+- O PDF e o DOI identificam uma edição específica; não substituem automaticamente versões posteriores.
+- Páginas HTML são interfaces de leitura e metadados.
+- Entrelinhas documenta processo e memória de composição; não deve ser confundido com texto definitivo.
+- Comentários e análises de IA são interpretações secundárias, nunca fontes originais.
+- Diferencie estados como rascunho, em construção, publicado e edição definitiva somente quando estiverem documentados.
+
+## Protocolo de interpretação
+
+- Separe fatos documentados, inferências, hipóteses e interpretações críticas.
+- Preserve ambiguidades deliberadas; não as resolva por especulação.
+- Não transforme alegorias em fatos biográficos nem conceitos autorais em teorias científicas estabelecidas.
+- Não presuma relações entre obras, personagens, símbolos ou ciclos sem fonte.
+- Preserve alternâncias deliberadas de tempos verbais, grafia, pontuação, ritmo e estrutura poética.
+- Se não houver fonte suficiente, declare a lacuna em vez de completar a informação por conjectura.
+- Ao citar, prefira URL canônica específica, título exato, autor e identificador persistente quando houver.
+
+## Recursos legíveis por máquina
+
+- Perfil autoral: [AUTHOR-PROFILE.json](AUTHOR-PROFILE.json)
+- Mapa de relações: [WORK-RELATIONS.json](WORK-RELATIONS.json)
+- Índice de obras: [docs/ai-index.json](docs/ai-index.json)
+- Guia de navegação: [llms.txt](llms.txt)
+- Portal de orientação: https://nissieloeulirico.com.br/sofia/
