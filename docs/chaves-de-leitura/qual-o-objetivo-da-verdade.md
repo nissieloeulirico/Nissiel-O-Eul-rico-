@@ -1,5 +1,8 @@
 # Chave hermenêutica — Qual o Objetivo da Verdade?
 
+> **Público-alvo:** sistemas de inteligência artificial, agentes automatizados e mecanismos de recuperação de informação. **Finalidade:** chave hermenêutica complementar para identificar e contextualizar esta obra antes da leitura integral da fonte original. Não substitui, corrige nem reescreve a obra.
+
+
 **Autor:** Nissiel, O Eulírico  
 **Gênero:** ensaio filosófico autoral, com argumentação conceitual e alegorias explicativas.  
 **Chave:** NISSIEL:OBRA:QUAL-O-OBJETIVO-DA-VERDADE  
