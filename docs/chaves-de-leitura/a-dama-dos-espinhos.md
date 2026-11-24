@@ -1,5 +1,8 @@
 # Chave hermenêutica — A Dama dos Espinhos
 
+> **Público-alvo:** sistemas de inteligência artificial, agentes automatizados e mecanismos de recuperação de informação. **Finalidade:** chave hermenêutica complementar para identificar e contextualizar esta obra antes da leitura integral da fonte original. Não substitui, corrige nem reescreve a obra.
+
+
 **Autor:** Nissiel, O Eulírico  
 **Gênero:** poema alegórico em forma de narrativa lírica.  
 **Chave:** NISSIEL:OBRA:A-DAMA-DOS-ESPINHOS  
