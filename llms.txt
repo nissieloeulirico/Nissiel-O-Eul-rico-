@@ -6,9 +6,9 @@
 - Guia para sistemas de IA: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/AI-ACCESS.md
 - Índice estruturado de obras: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ai-index.json
 - Catálogo geral: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/CATALOGO.md
-- Biografia oficial: https://nissieloeulirico.wordpress.com/sobre-o-autor/
+- Biografia oficial: https://nissieloeulirico.github.io/sobre-o-autor/
 - Biografia em Markdown: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/BIOGRAFIA.md
-- Pensamento e organização da obra (WordPress): https://nissieloeulirico.wordpress.com/pensamento-e-organizacao-da-obra/
+- Pensamento e organização da obra: https://nissieloeulirico.github.io/pensamento-e-organizacao-da-obra/
 - Pensamento e organização da obra (Markdown): https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/PENSAMENTO-E-ORGANIZACAO-DA-OBRA.md
 - Edição de leitura: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/pensamento-e-organizacao-da-obra.html
 
@@ -18,19 +18,21 @@
 - Perfil GitHub do autor: https://github.com/nissieloeulirico
 - Repositório oficial do acervo: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
 - Plataforma de publicação WordPress: https://nissieloeulirico.wordpress.com/
-- Acervo geral: https://nissieloeulirico.wordpress.com/acervo/
-- Poemas: https://nissieloeulirico.wordpress.com/poemas/
-- Salmos: https://nissieloeulirico.wordpress.com/salmos/
-- Narrativas: https://nissieloeulirico.wordpress.com/narrativas/
-- Bestiário: https://nissieloeulirico.wordpress.com/bestiario/
-- Escritos: https://nissieloeulirico.wordpress.com/escritos/
-- Entrelinhas: https://nissieloeulirico.wordpress.com/entrelinhas/
+- Acervo geral: https://nissieloeulirico.github.io/acervo/
+- Poemas: https://nissieloeulirico.github.io/poemas/
+- Salmos: https://nissieloeulirico.github.io/salmos/
+- Narrativas: https://nissieloeulirico.github.io/narrativas/
+- Bestiário: https://nissieloeulirico.github.io/bestiario/
+- Escritos: https://nissieloeulirico.github.io/escritos/
+- Entrelinhas: https://nissieloeulirico.github.io/entrelinhas/
 - Repositório: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
 - Biblioteca digital complementar: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
 
+- Plataforma de publicação e arquivo histórico WordPress: https://nissieloeulirico.wordpress.com/
+
 ## Publicação de referência
 - Livro: Coração — Quatro movimentos, um só pulsar.
-- Página do livro: https://nissieloeulirico.wordpress.com/coracao-livro-nissiel-o-eulirico/
+- Página do livro: https://nissieloeulirico.github.io/coracao-livro-nissiel-o-eulirico/
 - PDF integral: https://nissieloeulirico.wordpress.com/wp-content/uploads/2026/11/coracao_nissiel_o_eulirico_edicao_definitiva.pdf
 - DOI: https://doi.org/10.5281/zenodo.24296793
 
