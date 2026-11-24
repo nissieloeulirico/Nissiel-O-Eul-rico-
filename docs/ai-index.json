@@ -224,7 +224,9 @@
         "https://nissieloeulirico.wordpress.com/2026/10/31/graos-de-vidro/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/graos-de-vidro.md"
       ],
-      "workId": "NISSIEL:OBRA:GRAOS-DE-VIDRO"
+      "workId": "NISSIEL:OBRA:GRAOS-DE-VIDRO",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/graos-de-vidro.md",
+      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/15/graos-de-vidro-memorias-de-composicao/"
     },
     {
       "@type": "CreativeWork",
@@ -286,7 +288,9 @@
         "https://nissieloeulirico.wordpress.com/2026/11/09/a-borboleta/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/borboletinha.md"
       ],
-      "workId": "NISSIEL:OBRA:BORBOLETINHA"
+      "workId": "NISSIEL:OBRA:BORBOLETINHA",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/borboletinha.md",
+      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/15/borboletinha-memorias-de-composicao/"
     },
     {
       "@type": "CreativeWork",
@@ -328,7 +332,8 @@
         "https://nissieloeulirico.wordpress.com/2026/10/29/era-um-vez/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/narrativas/era-uma-vez.md"
       ],
-      "workId": "NISSIEL:OBRA:ERA-UMA-VEZ"
+      "workId": "NISSIEL:OBRA:ERA-UMA-VEZ",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/era-uma-vez.md"
     },
     {
       "@type": "CreativeWork",
