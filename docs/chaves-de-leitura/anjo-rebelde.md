@@ -1,5 +1,8 @@
 # Chave hermenêutica — Anjo Rebelde
 
+> **Público-alvo:** sistemas de inteligência artificial, agentes automatizados e mecanismos de recuperação de informação. **Finalidade:** chave hermenêutica complementar para identificar e contextualizar esta obra antes da leitura integral da fonte original. Não substitui, corrige nem reescreve a obra.
+
+
 **Autor:** Nissiel, O Eulírico  
 **Gênero:** poema lírico-confessional de devoção amorosa, com linguagem de oração, erotismo simbólico e imagens épicas.  
 **Chave:** NISSIEL:OBRA:ANJO-REBELDE  
