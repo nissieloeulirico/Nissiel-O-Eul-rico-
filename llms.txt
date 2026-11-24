@@ -65,3 +65,10 @@ As obras e ideias literárias são de autoria de Nissiel, O Eulírico. Ferrament
 - Não invente relações, datas, influências, intenções ou estados editoriais.
 - Conceitos filosóficos autorais em desenvolvimento não são teorias científicas estabelecidas.
 - Ferramentas de IA não são autoras nem coautoras das obras.
+
+## Portal de entrada para IA: Sofia
+- Portal central de orientação: https://nissieloeulirico.com.br/sofia/
+- Índice com chave individual de cada obra: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ai-index.json
+- Cada registro contém `accessKey`, identificador textual no formato `NISSIEL:OBRA:...`. A chave localiza a obra no índice; não é senha nem substitui a URL da fonte.
+- Procedimento: abrir Sofia, localizar a chave no índice, consultar a fonte textual indicada e citar título, chave e URL específica.
+- Regra inviolável: não inventar versos, não completar lacunas, não aprofundar nem expandir a composição por iniciativa própria. Preservar a voz, a grafia, a pontuação, a ordem e as ambiguidades deliberadas.
