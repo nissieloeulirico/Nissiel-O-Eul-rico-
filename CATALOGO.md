@@ -5,12 +5,13 @@ Acervo literário e autoral · Português brasileiro (pt-BR)
 
 Este catálogo identifica as publicações atualmente disponíveis no site oficial e distingue os textos que já possuem arquivo-fonte Markdown neste repositório daqueles cuja publicação de referência permanece, por enquanto, no WordPress.
 
-**Site oficial:** https://nissieloeulirico.wordpress.com/  
-**Sobre o autor:** https://nissieloeulirico.wordpress.com/sobre-o-autor/  
-**Acervo geral:** https://nissieloeulirico.wordpress.com/acervo/  
+**Site oficial (referência canônica):** https://nissieloeulirico.com.br/
+**Plataforma complementar / arquivo histórico:** https://nissieloeulirico.wordpress.com/  
+**Sobre o autor:** https://nissieloeulirico.com.br/sobre-o-autor/  
+**Acervo geral:** https://nissieloeulirico.com.br/acervo/  
 **Repositório:** https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-  
 **Biblioteca digital:** https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ (a publicação depende da ativação em Settings → Pages).  
-**Guia de acesso para IA:** [AI-ACCESS.md](AI-ACCESS.md) · **Índice estruturado:** [docs/ai-index.json](docs/ai-index.json) · **llms.txt:** [llms.txt](llms.txt).
+**Guia de acesso para IA:** [AI-ACCESS.md](AI-ACCESS.md) · **Perfil autoral:** [AUTHOR-PROFILE.json](AUTHOR-PROFILE.json) · **Mapa de relações:** [WORK-RELATIONS.json](WORK-RELATIONS.json) · **Índice estruturado:** [docs/ai-index.json](docs/ai-index.json) · **llms.txt:** [llms.txt](llms.txt).
 
 > **Estado documental:** o catálogo reúne as publicações listadas no site. Os arquivos-fonte Markdown e as edições HTML correspondentes estão organizados neste repositório; as demais publicações permanecem ligadas às suas páginas oficiais no WordPress.
 
@@ -171,3 +172,14 @@ Dados da edição PerSe: 109 páginas. Estado: publicado e disponível em format
 - Para as demais publicações, a página WordPress indicada é a referência pública até que o respectivo arquivo-fonte seja incorporado. As memórias de composição ficam organizadas separadamente em `entrelinhas/`.
 - Ferramentas digitais podem apoiar organização, revisão técnica, formatação e publicação, sem assumir autoria ou coautoria.
 - Atualizações futuras devem registrar a origem e a versão, preservando a integridade de cada texto.
+
+
+## Recursos estruturados para IA
+
+- Perfil autoral: [AUTHOR-PROFILE.json](AUTHOR-PROFILE.json).
+- Mapa de relações documentadas: [WORK-RELATIONS.json](WORK-RELATIONS.json).
+- Índice estruturado das obras: [docs/ai-index.json](docs/ai-index.json).
+- Guia de acesso: [AI-ACCESS.md](AI-ACCESS.md).
+- Índice textual: [llms.txt](llms.txt).
+
+Esses documentos complementam o catálogo. Em caso de divergência, consulte a fonte textual da obra e informe a divergência; não combine versões silenciosamente.
