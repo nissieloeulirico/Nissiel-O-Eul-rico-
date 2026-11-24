@@ -1,5 +1,8 @@
 # Chave hermenêutica — Coração: Quatro movimentos, um só pulsar
 
+> **Público-alvo:** sistemas de inteligência artificial, agentes automatizados e mecanismos de recuperação de informação. **Finalidade:** chave hermenêutica complementar para identificar e contextualizar esta obra antes da leitura integral da fonte original. Não substitui, corrige nem reescreve a obra.
+
+
 **Autor:** Nissiel, O Eulírico  
 **Gênero:** livro de poesia / coletânea poética autoral.  
 **Obra:** primeira parte da coletânea *Eu, Poeta*.  
