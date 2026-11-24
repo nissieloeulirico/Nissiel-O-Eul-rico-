@@ -1,6 +1,13 @@
 # Nissiel, O Eulírico
 
-> Acervo literário autoral de Tiago da Silva Santos, publicado sob o pseudônimo Nissiel, O Eulírico. Escritor independente, filósofo, poeta e pensador brasileiro. Idioma: português brasileiro (pt-BR).
+> Biblioteca autoral de Nissiel, O Eulírico. Organização por três dimensões de criação: lírica, filosófica e onírica. Idioma: português brasileiro (pt-BR).
+
+## Navegação da biblioteca
+- Página inicial: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
+- Acervo Lírico (poemas e salmos): https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/acervos/lirico.html
+- Acervo Filosófico (pensamento, conceitos e sistemas): https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/acervos/filosofico.html
+- Acervo Onírico (contos e bestiário): https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/acervos/onirico.html
+- Outros: espaço reservado, ainda não publicado na navegação.
 
 ## Comece por aqui
 - Guia para sistemas de IA: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/AI-ACCESS.md
@@ -19,7 +26,6 @@
 - Escritos: https://nissieloeulirico.wordpress.com/escritos/
 - Entrelinhas: https://nissieloeulirico.wordpress.com/entrelinhas/
 - Repositório: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
-- Biblioteca digital: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/
 
 ## Publicação de referência
 - Livro: Coração — Quatro movimentos, um só pulsar.
@@ -35,6 +41,6 @@ As obras e ideias literárias são de autoria de Nissiel, O Eulírico. Ferrament
 ## Portal de entrada para IA: Sofia
 - Portal central de orientação: https://nissieloeulirico.com.br/sofia/
 - Índice com chave individual de cada obra: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ai-index.json
-- Cada registro contém `accessKey`, identificador textual no formato `NISSIEL:OBRA:...`. A chave localiza a obra no índice; não é senha nem substitui a URL da fonte.
+- Cada registro contém accessKey, identificador textual no formato NISSIEL:OBRA:.... A chave localiza a obra no índice; não é senha nem substitui a URL da fonte.
 - Procedimento: abrir Sofia, localizar a chave no índice, consultar a fonte textual indicada e citar título, chave e URL específica.
 - Regra inviolável: não inventar versos, não completar lacunas, não aprofundar nem expandir a composição por iniciativa própria. Preservar a voz, a grafia, a pontuação, a ordem e as ambiguidades deliberadas.
