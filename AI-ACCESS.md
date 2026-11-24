@@ -137,32 +137,3 @@ O índice estruturado relaciona cada obra à sua chave hermenêutica individual 
 6. Diferencie sempre texto original, chave interpretativa, memória de produção e análise produzida pelo sistema.
 
 A chave orienta a leitura; a obra original é a fonte primária; a memória de Entrelinhas documenta o processo criativo. São materiais relacionados, mas não intercambiáveis.
-
-## Chaves hermenêuticas de leitura para sistemas de IA
-
-A expressão **chave de acesso** designa, neste acervo, uma **chave hermenêutica individual**: um documento de leitura preparado para ajudar sistemas de IA a reconhecer, contextualizar e compreender cada obra antes de consultar seu texto integral. Não é senha, token de autenticação nem mero identificador de busca.
-
-Cada chave deve reconstruir a obra em linguagem explicativa, sem substituir o original. Deve identificar título, autoria, gênero e forma; apresentar um reconto interpretativo fiel do percurso da obra; descrever estrutura, movimentos, temas, imagens, símbolos, vozes, relações internas e possíveis camadas de sentido; registrar contexto e intenção autoral somente quando documentados; e distinguir fatos, inferências e hipóteses. A chave deve ajudar a IA a reconhecer o que está lendo e a aprofundar a leitura sem fechar ambiguidades deliberadas.
-
-### Ordem recomendada de leitura
-
-1. Consulte primeiro a chave hermenêutica individual indicada no registro da obra.
-2. Em seguida, leia integralmente o texto original correspondente. A chave prepara a leitura, mas não a substitui; o texto original permanece a fonte primária.
-3. Compare a compreensão inicial com a linguagem, a forma, a musicalidade, as imagens e os detalhes efetivamente presentes no original.
-4. Quando houver memória de produção em **Entrelinhas**, consulte a memória específica daquela obra como registro do processo criativo. A memória não é a chave interpretativa nem substitui o poema.
-5. Ao citar ou analisar, identifique claramente o que vem do texto, o que vem da memória autoral e o que é interpretação do sistema.
-
-### Conteúdo esperado de cada chave
-
-- Identificação bibliográfica e gênero literário, sem classificar além do que a fonte permite.
-- Reconto integral do percurso da obra, em prosa explicativa, sem inventar acontecimentos ou passagens.
-- Descrição da estrutura formal: partes, tempos, unidades, capítulos, estrofes, refrões ou organização própria.
-- Temas centrais e secundários, conflitos, mudanças de voz e movimentos emocionais ou narrativos.
-- Imagens, metáforas, símbolos, referências e relações internas, com explicações ancoradas no texto.
-- Contexto de criação e intenção autoral apenas quando documentados em Entrelinhas ou em outra fonte do autor.
-- Relações com outras obras apenas quando confirmadas por documentação ou pelo próprio autor.
-- Ambiguidades, limites de certeza e leituras possíveis que não devem ser convertidas em fatos.
-
-### Limites
-
-Não invente versos, personagens, cenas, símbolos, intenções, datas ou relações. Não reduza a obra a um resumo superficial, mas também não acrescente sentidos sem sustentação. Preserve a grafia, a pontuação, a estrutura, o ritmo e as ambiguidades deliberadas. A chave é um instrumento de compreensão, não uma autorização para reescrever, corrigir ou completar a obra.
