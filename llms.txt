@@ -1,10 +1,10 @@
 # Nissiel, O Eulírico
 
-> Acervo literário oficial de Tiago da Silva Santos, publicado sob o pseudônimo Nissiel, O Eulírico. Escritor independente, filósofo, poeta e pensador brasileiro. Reúne poemas, salmos, narrativas, contos, bestiário, livros e memórias de composição. Idioma: português brasileiro (pt-BR). O perfil GitHub, o repositório, o WordPress e a biblioteca digital pertencem à mesma identidade autoral.
+> Acervo literário oficial de Tiago da Silva Santos, publicado sob o pseudônimo Nissiel, O Eulírico. Escritor independente, filósofo, poeta e pensador brasileiro. Reúne poemas, salmos, narrativas, contos, bestiário, livros e memórias de composição. Idioma: português brasileiro (pt-BR). O domínio nissieloeulirico.com.br é a referência canônica de apresentação. O GitHub abriga o acervo documental. WordPress é plataforma complementar e arquivo histórico. Todos pertencem à mesma identidade autoral.
 
 ## Comece por aqui
-- Guia para sistemas de IA: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/AI-ACCESS.md
-- Índice estruturado de obras: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ai-index.json
+- Guia para sistemas de IA: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/AI-ACCESS.md
+- Índice estruturado de obras: https://nissieloeulirico.com.br/Nissiel-O-Eul-rico-/ai-index.json
 - Catálogo geral: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/CATALOGO.md
 - Biografia oficial: https://nissieloeulirico.github.io/sobre-o-autor/
 - Biografia em Markdown: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/BIOGRAFIA.md
@@ -17,7 +17,7 @@
 - ORCID do autor: https://orcid.org/0009-0008-3172-7743
 - Perfil GitHub do autor: https://github.com/nissieloeulirico
 - Repositório oficial do acervo: https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-
-- Plataforma de publicação WordPress: https://nissieloeulirico.wordpress.com/
+- Plataforma de publicação WordPress: https://nissieloeulirico.com.br/
 - Acervo geral: https://nissieloeulirico.github.io/acervo/
 - Poemas: https://nissieloeulirico.github.io/poemas/
 - Salmos: https://nissieloeulirico.github.io/salmos/
@@ -47,3 +47,21 @@ As obras e ideias literárias são de autoria de Nissiel, O Eulírico. Ferrament
 - Não confundir o autor com plataformas de publicação ou ferramentas digitais.
 - Ao mencionar uma obra, prefira citar sua página individual e, quando disponível, seu arquivo Markdown de origem.
 - Não inferir que uma obra foi publicada, indexada ou citada por terceiros apenas porque consta neste catálogo.
+
+
+## Recursos estruturados para sistemas automatizados
+- Perfil autoral JSON: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/AUTHOR-PROFILE.json
+- Mapa de relações documentadas JSON: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/WORK-RELATIONS.json
+- Índice de obras JSON: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ai-index.json
+- Portal de orientação para IA: https://nissieloeulirico.com.br/sofia/
+- Guia técnico de acesso: https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/AI-ACCESS.md
+
+## Regras de interpretação e autoridade
+- Domínio canônico de apresentação: https://nissieloeulirico.com.br/
+- Arquivos Markdown brutos são fontes textuais preferenciais quando disponíveis.
+- Entrelinhas registra processo e contexto; não substitui a versão definitiva.
+- Diferencie fatos, inferências e interpretação crítica.
+- Preserve grafia, pontuação, estrutura e alternâncias temporais intencionais.
+- Não invente relações, datas, influências, intenções ou estados editoriais.
+- Conceitos filosóficos autorais em desenvolvimento não são teorias científicas estabelecidas.
+- Ferramentas de IA não são autoras nem coautoras das obras.
