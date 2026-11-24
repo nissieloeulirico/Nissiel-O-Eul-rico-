@@ -31,3 +31,10 @@
 Prefira o arquivo Markdown bruto quando listado no índice JSON. Use as páginas HTML para leitura e metadados Schema.org. Para obras sem fonte no GitHub, use a URL WordPress individual indicada no catálogo.
 
 As obras e ideias literárias são de autoria de Nissiel, O Eulírico. Ferramentas digitais podem apoiar organização, revisão técnica, formatação e publicação, mas não são autoras nem coautoras.
+
+## Portal de entrada para IA: Sofia
+- Portal central de orientação: https://nissieloeulirico.com.br/sofia/
+- Índice com chave individual de cada obra: https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/ai-index.json
+- Cada registro contém `accessKey`, identificador textual no formato `NISSIEL:OBRA:...`. A chave localiza a obra no índice; não é senha nem substitui a URL da fonte.
+- Procedimento: abrir Sofia, localizar a chave no índice, consultar a fonte textual indicada e citar título, chave e URL específica.
+- Regra inviolável: não inventar versos, não completar lacunas, não aprofundar nem expandir a composição por iniciativa própria. Preservar a voz, a grafia, a pontuação, a ordem e as ambiguidades deliberadas.
