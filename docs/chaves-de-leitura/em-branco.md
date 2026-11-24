@@ -1,5 +1,8 @@
 # Chave hermenêutica — …Em Branco
 
+> **Público-alvo:** sistemas de inteligência artificial, agentes automatizados e mecanismos de recuperação de informação. **Finalidade:** chave hermenêutica complementar para identificar e contextualizar esta obra antes da leitura integral da fonte original. Não substitui, corrige nem reescreve a obra.
+
+
 **Autor:** Nissiel, O Eulírico  
 **Gênero:** poema lírico-narrativo de imagética onírica e simbólica.  
 **Chave:** NISSIEL:OBRA:EM-BRANCO  
