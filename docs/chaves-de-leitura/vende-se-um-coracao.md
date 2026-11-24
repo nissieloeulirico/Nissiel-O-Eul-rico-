@@ -1,5 +1,8 @@
 # Chave hermenêutica — VENDE-SE UM CORAÇÃO
 
+> **Público-alvo:** sistemas de inteligência artificial, agentes automatizados e mecanismos de recuperação de informação. **Finalidade:** chave hermenêutica complementar para identificar e contextualizar esta obra antes da leitura integral da fonte original. Não substitui, corrige nem reescreve a obra.
+
+
 **Autor:** Nissiel, O Eulírico  
 **Gênero:** poema lírico-narrativo, com forma fragmentada e progressão em quatro movimentos estruturais.  
 **Chave:** NISSIEL:OBRA:VENDE-SE-UM-CORACAO  
