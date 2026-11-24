@@ -71,6 +71,11 @@ Este arquivo explica como localizar, ler e citar o acervo literário de **Nissie
 ## Protocolo de interpretação
 
 - Separe fatos documentados, inferências, hipóteses e interpretações críticas.
+- Não invente, acrescente ou complete versos, imagens, metáforas ou passagens que não estejam na fonte.
+- Não aprofunde nem expanda a composição por iniciativa própria. A tarefa de clareza é organizar e distinguir elementos já presentes, não criar novas camadas de sentido.
+- Quando ideias, imagens, sensações e referências aparecerem simultaneamente, ajude a separá-las e explicite apenas relações sustentadas pelo texto ou por documentação do autor.
+- Não simplifique a ponto de empobrecer a expressão, nem acrescente complexidade que não exista na fonte.
+- Se não puder distinguir elementos ou relações com segurança, declare a dúvida e solicite esclarecimento ao autor.
 - Preserve ambiguidades deliberadas; não as resolva por especulação.
 - Não transforme alegorias em fatos biográficos nem conceitos autorais em teorias científicas estabelecidas.
 - Não presuma relações entre obras, personagens, símbolos ou ciclos sem fonte.
