@@ -37,11 +37,9 @@
         "https://nissieloeulirico.wordpress.com/2026/10/28/vende-se-um-coracao/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/vende-se-um-coracao.md"
       ],
-      "accessKey": "NISSIEL:OBRA:VENDE-SE-UM-CORACAO",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação.",
       "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/vende-se-um-coracao.md",
-      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/15/vende-se-um-coracao-memorias-de-composicao/"
+      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/15/vende-se-um-coracao-memorias-de-composicao/",
+      "workId": "NISSIEL:OBRA:VENDE-SE-UM-CORACAO"
     },
     {
       "@type": "CreativeWork",
@@ -62,11 +60,9 @@
         "https://nissieloeulirico.wordpress.com/2026/10/28/em-branco/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/em-branco.md"
       ],
-      "accessKey": "NISSIEL:OBRA:EM-BRANCO",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação.",
       "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/em-branco.md",
-      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/15/em-branco-memorias-de-composicao/"
+      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/15/em-branco-memorias-de-composicao/",
+      "workId": "NISSIEL:OBRA:EM-BRANCO"
     },
     {
       "@type": "CreativeWork",
@@ -88,11 +84,9 @@
         "https://nissieloeulirico.wordpress.com/2026/10/28/guerreiro-ferido/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/guerreiro-ferido.md"
       ],
-      "accessKey": "NISSIEL:OBRA:GUERREIRO-FERIDO",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação.",
       "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/o-guerreiro-ferido.md",
-      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/16/o-guerreiro-ferido-memorias-de-composicao/"
+      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/16/o-guerreiro-ferido-memorias-de-composicao/",
+      "workId": "NISSIEL:OBRA:GUERREIRO-FERIDO"
     },
     {
       "@type": "CreativeWork",
@@ -114,11 +108,9 @@
         "https://nissieloeulirico.wordpress.com/2026/10/28/a-dama-dos-espinhos/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/a-dama-dos-espinhos.md"
       ],
-      "accessKey": "NISSIEL:OBRA:A-DAMA-DOS-ESPINHOS",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação.",
       "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/a-dama-dos-espinhos.md",
-      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/16/a-dama-dos-espinhos-memorias-de-composicao/"
+      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/16/a-dama-dos-espinhos-memorias-de-composicao/",
+      "workId": "NISSIEL:OBRA:A-DAMA-DOS-ESPINHOS"
     },
     {
       "@type": "CreativeWork",
@@ -140,9 +132,7 @@
         "https://nissieloeulirico.wordpress.com/2026/10/28/raio-de-sol/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/raio-de-sol.md"
       ],
-      "accessKey": "NISSIEL:OBRA:RAIO-DE-SOL",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:RAIO-DE-SOL"
     },
     {
       "@type": "CreativeWork",
@@ -162,9 +152,7 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/28/anjo-rebelde/"
       ],
-      "accessKey": "NISSIEL:OBRA:ANJO-REBELDE",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:ANJO-REBELDE"
     },
     {
       "@type": "CreativeWork",
@@ -186,9 +174,7 @@
         "https://nissieloeulirico.wordpress.com/2026/10/28/26-251/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/26-25-1.md"
       ],
-      "accessKey": "NISSIEL:OBRA:26-25-1",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:26-25-1"
     },
     {
       "@type": "CreativeWork",
@@ -210,9 +196,7 @@
         "https://nissieloeulirico.wordpress.com/2026/10/29/luz-prateada/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/luz-prateada.md"
       ],
-      "accessKey": "NISSIEL:OBRA:LUZ-PRATEADA",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:LUZ-PRATEADA"
     },
     {
       "@type": "CreativeWork",
@@ -234,9 +218,7 @@
         "https://nissieloeulirico.wordpress.com/2026/10/31/graos-de-vidro/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/graos-de-vidro.md"
       ],
-      "accessKey": "NISSIEL:OBRA:GRAOS-DE-VIDRO",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:GRAOS-DE-VIDRO"
     },
     {
       "@type": "CreativeWork",
@@ -256,9 +238,7 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/31/dai-me-o-teu/"
       ],
-      "accessKey": "NISSIEL:OBRA:DAI-ME-O-TEU-E-O-MEU-TE-DAREI",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:DAI-ME-O-TEU-E-O-MEU-TE-DAREI"
     },
     {
       "@type": "CreativeWork",
@@ -278,9 +258,7 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/31/im-perfeicao/"
       ],
-      "accessKey": "NISSIEL:OBRA:IM-PERFEICAO",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:IM-PERFEICAO"
     },
     {
       "@type": "CreativeWork",
@@ -302,9 +280,7 @@
         "https://nissieloeulirico.wordpress.com/2026/11/09/a-borboleta/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/borboletinha.md"
       ],
-      "accessKey": "NISSIEL:OBRA:BORBOLETINHA",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:BORBOLETINHA"
     },
     {
       "@type": "CreativeWork",
@@ -324,9 +300,7 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/"
       ],
-      "accessKey": "NISSIEL:OBRA:SALMO-DE-NISSIEL",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:SALMO-DE-NISSIEL"
     },
     {
       "@type": "CreativeWork",
@@ -348,9 +322,7 @@
         "https://nissieloeulirico.wordpress.com/2026/10/29/era-um-vez/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/narrativas/era-uma-vez.md"
       ],
-      "accessKey": "NISSIEL:OBRA:ERA-UMA-VEZ",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:ERA-UMA-VEZ"
     },
     {
       "@type": "CreativeWork",
@@ -370,9 +342,7 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/10/28/o-odre/"
       ],
-      "accessKey": "NISSIEL:OBRA:O-ODRE",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:O-ODRE"
     },
     {
       "@type": "CreativeWork",
@@ -392,9 +362,7 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/02/vespergon/"
       ],
-      "accessKey": "NISSIEL:OBRA:VESPERGON",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:VESPERGON"
     },
     {
       "@type": "CreativeWork",
@@ -414,9 +382,7 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/02/agra-imperial/"
       ],
-      "accessKey": "NISSIEL:OBRA:AGRA-IMPERIAL",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:AGRA-IMPERIAL"
     },
     {
       "@type": "CreativeWork",
@@ -436,9 +402,7 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/02/agra-abzinta/"
       ],
-      "accessKey": "NISSIEL:OBRA:AGRA-ABZINTA",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:AGRA-ABZINTA"
     },
     {
       "@type": "CreativeWork",
@@ -458,9 +422,7 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/08/subplupacao/"
       ],
-      "accessKey": "NISSIEL:OBRA:SUBPLUPACAO-O-NASCIMENTO-DE-NOVAS-ESTRUTURAS-A-PARTIR-DAS-RELACOES",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:SUBPLUPACAO-O-NASCIMENTO-DE-NOVAS-ESTRUTURAS-A-PARTIR-DAS-RELACOES"
     },
     {
       "@type": "CreativeWork",
@@ -480,9 +442,7 @@
       "sameAs": [
         "https://nissieloeulirico.wordpress.com/2026/11/08/qual-o-objetivo-da-verdade/"
       ],
-      "accessKey": "NISSIEL:OBRA:QUAL-O-OBJETIVO-DA-VERDADE",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:QUAL-O-OBJETIVO-DA-VERDADE"
     },
     {
       "@type": "CreativeWork",
@@ -505,9 +465,7 @@
       ],
       "identifier": "https://doi.org/10.5281/zenodo.24296793",
       "bookFormat": "https://schema.org/EBook",
-      "accessKey": "NISSIEL:OBRA:CORACAO",
-      "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "workId": "NISSIEL:OBRA:CORACAO"
     }
   ],
   "about": {
