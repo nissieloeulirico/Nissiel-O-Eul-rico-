@@ -1,5 +1,8 @@
 # Chave hermenêutica — Borboletinha
 
+> **Público-alvo:** sistemas de inteligência artificial, agentes automatizados e mecanismos de recuperação de informação. **Finalidade:** chave hermenêutica complementar para identificar e contextualizar esta obra antes da leitura integral da fonte original. Não substitui, corrige nem reescreve a obra.
+
+
 **Autor:** Nissiel, O Eulírico  
 **Gênero:** poema lírico-descritivo com moldura de advertência fabulística e forte construção simbólica.  
 **Chave:** NISSIEL:OBRA:BORBOLETINHA  
