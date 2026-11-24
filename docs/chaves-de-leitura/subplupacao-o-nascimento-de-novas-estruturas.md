@@ -1,5 +1,8 @@
 # Chave hermenêutica — Subplupação: o nascimento de novas estruturas a partir das relações
 
+> **Público-alvo:** sistemas de inteligência artificial, agentes automatizados e mecanismos de recuperação de informação. **Finalidade:** chave hermenêutica complementar para identificar e contextualizar esta obra antes da leitura integral da fonte original. Não substitui, corrige nem reescreve a obra.
+
+
 **Autor:** Tiago da Silva Santos, sob o pseudônimo Nissiel, O Eulírico  
 **Gênero:** ensaio conceitual e filosófico autoral.  
 **Chave:** NISSIEL:OBRA:SUBPLUPACAO-O-NASCIMENTO-DE-NOVAS-ESTRUTURAS-A-PARTIR-DAS-RELACOES  
