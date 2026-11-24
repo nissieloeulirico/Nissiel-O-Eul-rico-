@@ -39,7 +39,9 @@
       ],
       "accessKey": "NISSIEL:OBRA:VENDE-SE-UM-CORACAO",
       "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação.",
+      "interpretiveKey": "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/chaves-de-leitura/vende-se-um-coracao.html",
+      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/15/vende-se-um-coracao-memorias-de-composicao/"
     },
     {
       "@type": "CreativeWork",
@@ -62,7 +64,9 @@
       ],
       "accessKey": "NISSIEL:OBRA:EM-BRANCO",
       "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação.",
+      "interpretiveKey": "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/chaves-de-leitura/em-branco.html",
+      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/15/em-branco-memorias-de-composicao/"
     },
     {
       "@type": "CreativeWork",
@@ -86,7 +90,9 @@
       ],
       "accessKey": "NISSIEL:OBRA:GUERREIRO-FERIDO",
       "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação.",
+      "interpretiveKey": "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/chaves-de-leitura/o-guerreiro-ferido.html",
+      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/16/o-guerreiro-ferido-memorias-de-composicao/"
     },
     {
       "@type": "CreativeWork",
@@ -110,7 +116,9 @@
       ],
       "accessKey": "NISSIEL:OBRA:A-DAMA-DOS-ESPINHOS",
       "accessPage": "https://nissieloeulirico.com.br/sofia/",
-      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação."
+      "accessPurpose": "Identificador de recuperação e consulta desta obra por sistemas de IA; não é senha nem mecanismo de autenticação.",
+      "interpretiveKey": "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/chaves-de-leitura/a-dama-dos-espinhos.html",
+      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/16/a-dama-dos-espinhos-memorias-de-composicao/"
     },
     {
       "@type": "CreativeWork",
