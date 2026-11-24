@@ -132,7 +132,9 @@
         "https://nissieloeulirico.wordpress.com/2026/10/28/raio-de-sol/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/raio-de-sol.md"
       ],
-      "workId": "NISSIEL:OBRA:RAIO-DE-SOL"
+      "workId": "NISSIEL:OBRA:RAIO-DE-SOL",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/raio-de-sol.md",
+      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/15/raio-de-sol-memorias-de-composicao/"
     },
     {
       "@type": "CreativeWork",
@@ -174,7 +176,9 @@
         "https://nissieloeulirico.wordpress.com/2026/10/28/26-251/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/26-25-1.md"
       ],
-      "workId": "NISSIEL:OBRA:26-25-1"
+      "workId": "NISSIEL:OBRA:26-25-1",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/26-25-1.md",
+      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/15/26-25-1-memorias-de-composicao/"
     },
     {
       "@type": "CreativeWork",
@@ -196,7 +200,9 @@
         "https://nissieloeulirico.wordpress.com/2026/10/29/luz-prateada/",
         "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/luz-prateada.md"
       ],
-      "workId": "NISSIEL:OBRA:LUZ-PRATEADA"
+      "workId": "NISSIEL:OBRA:LUZ-PRATEADA",
+      "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/luz-prateada.md",
+      "productionMemory": "https://nissieloeulirico.wordpress.com/2026/11/15/luz-prateada-memorias-de-composicao/"
     },
     {
       "@type": "CreativeWork",
