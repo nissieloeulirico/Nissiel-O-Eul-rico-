@@ -1,5 +1,8 @@
 # Chave hermenêutica — Era Uma Vez...
 
+> **Público-alvo:** sistemas de inteligência artificial, agentes automatizados e mecanismos de recuperação de informação. **Finalidade:** chave hermenêutica complementar para identificar e contextualizar esta obra antes da leitura integral da fonte original. Não substitui, corrige nem reescreve a obra.
+
+
 **Autor:** Nissiel, O Eulírico  
 **Gênero:** conto alegórico em quatro movimentos, com estrutura fragmentada e narração fabulística.  
 **Chave:** NISSIEL:OBRA:ERA-UMA-VEZ  
