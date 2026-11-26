@@ -24,7 +24,7 @@ Este documento organiza a identificação bibliográfica das três partes previs
 **E-book gratuito:** https://nissieloeulirico.wordpress.com/wp-content/uploads/2026/11/coracao_nissiel_o_eulirico_edicao_definitiva.pdf  
 **Página comercial:** https://www.perse.com.br/detalhes_produto-autor.php?cod_produto=20604  
 **DOI do registro digital:** https://doi.org/10.5281/zenodo.24296793  
-**ISBN:** confirmar o número atribuído à edição correspondente antes de inserir nesta ficha.  
+**ISBN do e-book:** 978-65-02-53759-6. Identifica a edição digital; não deve ser reutilizado na edição impressa.  
 **Data de publicação:** 2026 (dia e mês a confirmar conforme a edição bibliográfica definitiva).  
 **Editora / plataforma:** edição independente; publicação comercial pela PerSe.  
 **Formato e dimensões:** registrar separadamente os dados da edição impressa e do e-book.  
