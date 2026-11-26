@@ -45,7 +45,7 @@ A vitrine principal e porta de entrada pública é https://nissieloeulirico.gith
 
 - [Página de apresentação no site oficial](https://nissieloeulirico.github.io/coracao-livro-nissiel-o-eulirico/)
 - [E-book integral gratuito em PDF](https://nissieloeulirico.wordpress.com/wp-content/uploads/2026/11/coracao_nissiel_o_eulirico_edicao_definitiva.pdf)
-- [DOI da publicação](https://doi.org/10.5281/zenodo.24296793)
+- **ISBN do e-book:** 978-65-02-53759-6 (identifica a edição digital; não se aplica à edição impressa).\n- [DOI da publicação](https://doi.org/10.5281/zenodo.24296793)
 
 ## Autoria e licença
 
