@@ -40,3 +40,8 @@
 @media(max-width:640px){
   .archive-card{aspect-ratio:16/9;min-height:0}
 }
+
+/* Imagem oficial do Mundo Lírico enviada pelo autor */
+.archive-lirico{
+  background-image:url('https://nissieloeulirico.wordpress.com/wp-content/uploads/2026/11/mundo-lirico-16x9-1.webp');
+}
