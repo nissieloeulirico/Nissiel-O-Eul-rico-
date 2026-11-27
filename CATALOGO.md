@@ -68,7 +68,8 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
 ## 2. Salmos
 
 1. **SALMO DE NISSIEL**  
-   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/)
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/)  
+   Arquivo-fonte definitivo: [salmos/salmo-de-nissiel.md](salmos/salmo-de-nissiel.md)
 
 ## 3. Narrativas
 
