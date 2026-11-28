@@ -208,7 +208,7 @@
     {
       "@type": "CreativeWork",
       "name": "Grãos de Vidro",
-      "genre": "poema",
+      "genre": "salmo",
       "author": {
         "@type": "Person",
         "name": "Nissiel, O Eulírico",
@@ -218,12 +218,12 @@
         ]
       },
       "inLanguage": "pt-BR",
-      "url": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/poemas/graos-de-vidro.md",
+      "url": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/salmos/graos-de-vidro.md",
       "encodingFormat": "text/markdown",
       "sameAs": [
         "https://nissieloeulirico.github.io/Nissiel-O-Eul-rico-/obras/graos-de-vidro.html",
         "https://nissieloeulirico.wordpress.com/2026/10/31/graos-de-vidro/",
-        "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/poemas/graos-de-vidro.md"
+        "https://github.com/nissieloeulirico/Nissiel-O-Eul-rico-/blob/main/salmos/graos-de-vidro.md"
       ],
       "workId": "NISSIEL:OBRA:GRAOS-DE-VIDRO",
       "interpretiveKey": "https://raw.githubusercontent.com/nissieloeulirico/Nissiel-O-Eul-rico-/main/docs/chaves-de-leitura/graos-de-vidro.md",
