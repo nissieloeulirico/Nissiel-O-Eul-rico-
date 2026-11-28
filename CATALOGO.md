@@ -51,13 +51,13 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/29/luz-prateada/)  
    Arquivo-fonte: [poemas/luz-prateada.md](poemas/luz-prateada.md) · [Edição digital](docs/obras/luz-prateada.html)
 
-10. **Dai-me o Teu… e o meu te darei.**  
+9. **Dai-me o Teu… e o meu te darei.**  
     Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/31/dai-me-o-teu/)
 
-11. **Im-Perfeição**  
+10. **Im-Perfeição**  
     Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/31/im-perfeicao/)
 
-12. **Borboletinha**  
+11. **Borboletinha**  
     Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/11/09/a-borboleta/)  
     Arquivo-fonte: [poemas/borboletinha.md](poemas/borboletinha.md) · [Edição digital](docs/obras/borboletinha.html)
 
