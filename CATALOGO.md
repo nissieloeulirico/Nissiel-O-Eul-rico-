@@ -41,7 +41,7 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
 
 6. **Anjo Rebelde**  
    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/anjo-rebelde/)  
-   Arquivo-fonte Markdown ainda não incorporado a este repositório.
+   Arquivo-fonte: [poemas/anjo-rebelde.md](poemas/anjo-rebelde.md).
 
 7. **26-25=1**  
    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/26-251/)  
