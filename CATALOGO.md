@@ -51,10 +51,6 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/29/luz-prateada/)  
    Arquivo-fonte: [poemas/luz-prateada.md](poemas/luz-prateada.md) · [Edição digital](docs/obras/luz-prateada.html)
 
-9. **Grãos de Vidro**  
-   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/31/graos-de-vidro/)  
-   Arquivo-fonte: [poemas/graos-de-vidro.md](poemas/graos-de-vidro.md) · [Edição digital](docs/obras/graos-de-vidro.html)
-
 10. **Dai-me o Teu… e o meu te darei.**  
     Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/31/dai-me-o-teu/)
 
@@ -70,6 +66,10 @@ Este catálogo identifica as publicações atualmente disponíveis no site ofici
 1. **SALMO DE NISSIEL**  
    Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/28/salmo-de-nissiel/)  
    Arquivo-fonte definitivo: [salmos/salmo-de-nissiel.md](salmos/salmo-de-nissiel.md)
+
+2. **Grãos de Vidro**  
+   Publicação: [WordPress](https://nissieloeulirico.wordpress.com/2026/10/31/graos-de-vidro/)  
+   Arquivo-fonte: [salmos/graos-de-vidro.md](salmos/graos-de-vidro.md) · [Edição digital](docs/obras/graos-de-vidro.html)
 
 ## 3. Narrativas
 
