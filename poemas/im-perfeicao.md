@@ -288,5 +288,3 @@ e, contigo, reconquistar o direito ao véu. Pois meus pés com sangue já marcar
 ⁹⁸ E Ele, em seu imensurável amor, ensinou as três medidas àquele que ensinar não conseguiu, devolveu-me aquilo que, por pura ignorância, perdi. Pois eis que sou quem ouviu e contemplou um novo nome; do barro surgi.
 
 ¹⁰⁰ Com minhas asas retornastes oh minha estrela amada, que juntos, possamos como um só ser, subir.
-
-Aquele que viu nascer um novo nome.
