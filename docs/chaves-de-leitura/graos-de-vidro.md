@@ -4,7 +4,7 @@
 
 
 **Autor:** Nissiel, O Eulírico  
-**Gênero:** poema lírico-narrativo alegórico, com elementos míticos, filosóficos e dramáticos.  
+**Gênero:** salmo lírico-narrativo alegórico, com elementos míticos, filosóficos e dramáticos.  
 **Chave:** NISSIEL:OBRA:GRAOS-DE-VIDRO  
 **Texto original:** [Grãos de Vidro](https://nissieloeulirico.wordpress.com/2026/10/31/graos-de-vidro/)  
 **Memória de produção:** [Entrelinhas — Grãos de Vidro](https://nissieloeulirico.wordpress.com/2026/11/15/graos-de-vidro-memorias-de-composicao/)
